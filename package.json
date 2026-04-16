@@ -1,32 +1,19 @@
 {
-  "name": "osmosfeed-examples",
+  "name": "osmosfeed-multi-channels",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Multi-channel RSS Hub",
   "scripts": {
     "build": "concurrently \"npm:build:*\"",
-    "build:default-solarized-dark": "npm run build --prefix channels/news",
-    "build:podcast-unstyled": "npm run build --prefix channels/podcast",
-    "build:youtube-dark": "npm run build --prefix channels/video",
+    "build:news": "npm run build --prefix channels/news",
+    "build:podcast": "npm run build --prefix channels/podcast",
+    "build:video": "npm run build --prefix channels/video",
     "copy": "node copy.mjs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/osmoscraft/osmosfeed-examples.git"
-  },
-  "keywords": [],
-  "author": "osmoscraft",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/osmoscraft/osmosfeed-examples/issues"
-  },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-examples#readme",
   "workspaces": [
-    "./examples/*"
+    "./channels/*"
   ],
   "devDependencies": {
     "@osmoscraft/osmosfeed": "^1.4.0",
-    "@types/fs-extra": "^9.0.11",
     "concurrently": "^6.0.2",
     "fs-extra": "^9.1.0"
   }
