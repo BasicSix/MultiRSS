@@ -15,3 +15,5 @@ async function copy() {
 } 
 
 copy();
+// 在 copy.mjs 的最后
+await fs.writeFile(path.resolve("dist", "CNAME"), "rss3.basicsix.eu.org");
