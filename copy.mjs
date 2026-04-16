@@ -22,7 +22,7 @@ async function copy() {
   }));
 
   // 3. 确保在 dist 目录存在后再写入 CNAME
-  await fs.writeFile(path.join(distRoot, "CNAME"), "rss3.basicsix.eu.org");
+  await fs.writeFile(path.join(distRoot, "CNAME"), "rss3.duoweiti.eu.org");
   console.log("CNAME generated successfully in dist/");
 } 
 
