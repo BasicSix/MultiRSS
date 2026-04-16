@@ -2,198 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T07:53:01.924Z</updated>
+    <updated>2026-04-16T08:21:26.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[An osprey catching fish 1]]></title>
-        <id>1x-3546669</id>
-        <link href="https://1x.com/photo/3546669"/>
-        <updated>2026-04-16T07:52:58.087Z</updated>
-        <summary type="html"><![CDATA[An osprey catching fish 1 by john r huang]]></summary>
-        <author>
-            <name>john r huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Turban]]></title>
-        <id>1x-3546612</id>
-        <link href="https://1x.com/photo/3546612"/>
-        <updated>2026-04-16T07:52:58.082Z</updated>
-        <summary type="html"><![CDATA[The Turban by Mallal Moshe]]></summary>
-        <author>
-            <name>Mallal Moshe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evening]]></title>
-        <id>1x-3546566</id>
-        <link href="https://1x.com/photo/3546566"/>
-        <updated>2026-04-16T07:52:58.073Z</updated>
-        <summary type="html"><![CDATA[Evening by Setsuna Kurouzu]]></summary>
-        <author>
-            <name>Setsuna Kurouzu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La poesía de las especies]]></title>
-        <id>1x-3546780</id>
-        <link href="https://1x.com/photo/3546780"/>
-        <updated>2026-04-16T07:52:58.065Z</updated>
-        <summary type="html"><![CDATA[La poesía de las especies by Rodrigo Núñez Buj]]></summary>
-        <author>
-            <name>Rodrigo Núñez Buj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Between Light and Instinct]]></title>
-        <id>1x-2809681</id>
-        <link href="https://1x.com/photo/2809681"/>
-        <updated>2026-04-16T07:52:58.061Z</updated>
-        <summary type="html"><![CDATA[Between Light and Instinct by Zewen Huang]]></summary>
-        <author>
-            <name>Zewen Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Through the Drift]]></title>
-        <id>1x-3537781</id>
-        <link href="https://1x.com/photo/3537781"/>
-        <updated>2026-04-16T07:52:58.058Z</updated>
-        <summary type="html"><![CDATA[Through the Drift by Shanrui Ren]]></summary>
-        <author>
-            <name>Shanrui Ren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Harmony]]></title>
-        <id>1x-3546721</id>
-        <link href="https://1x.com/photo/3546721"/>
-        <updated>2026-04-16T07:52:58.055Z</updated>
-        <summary type="html"><![CDATA[Spring Harmony by Leechee Z]]></summary>
-        <author>
-            <name>Leechee Z</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flamingo Conversation]]></title>
-        <id>1x-3535526</id>
-        <link href="https://1x.com/photo/3535526"/>
-        <updated>2026-04-16T07:52:58.042Z</updated>
-        <summary type="html"><![CDATA[Flamingo Conversation by LIGON]]></summary>
-        <author>
-            <name>LIGON</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIEROBECCO]]></title>
-        <id>1x-3546784</id>
-        <link href="https://1x.com/photo/3546784"/>
-        <updated>2026-04-16T07:52:58.035Z</updated>
-        <summary type="html"><![CDATA[FIEROBECCO by Stefano Caccia]]></summary>
-        <author>
-            <name>Stefano Caccia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In The Dark Places]]></title>
-        <id>1x-3541469</id>
-        <link href="https://1x.com/photo/3541469"/>
-        <updated>2026-04-16T07:52:58.030Z</updated>
-        <summary type="html"><![CDATA[In The Dark Places by Osmel]]></summary>
-        <author>
-            <name>Osmel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omo Valley / Ethiopia]]></title>
-        <id>1x-3542439</id>
-        <link href="https://1x.com/photo/3542439"/>
-        <updated>2026-04-16T07:52:58.020Z</updated>
-        <summary type="html"><![CDATA[Omo Valley / Ethiopia by Mikael Togeby]]></summary>
-        <author>
-            <name>Mikael Togeby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[***]]></title>
-        <id>1x-3544506</id>
-        <link href="https://1x.com/photo/3544506"/>
-        <updated>2026-04-16T07:52:58.014Z</updated>
-        <summary type="html"><![CDATA[*** by Eleonora Fridman]]></summary>
-        <author>
-            <name>Eleonora Fridman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marks of Identity]]></title>
-        <id>1x-3537614</id>
-        <link href="https://1x.com/photo/3537614"/>
-        <updated>2026-04-16T07:52:58.006Z</updated>
-        <summary type="html"><![CDATA[Marks of Identity by Hamza Qarooni]]></summary>
-        <author>
-            <name>Hamza Qarooni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mrs Xong]]></title>
-        <id>1x-3546727</id>
-        <link href="https://1x.com/photo/3546727"/>
-        <updated>2026-04-16T07:52:57.813Z</updated>
-        <summary type="html"><![CDATA[Mrs Xong by Tore Johansson]]></summary>
-        <author>
-            <name>Tore Johansson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dinka Smokehouses]]></title>
-        <id>1x-3471472</id>
-        <link href="https://1x.com/photo/3471472"/>
-        <updated>2026-04-16T07:52:57.805Z</updated>
-        <summary type="html"><![CDATA[Dinka Smokehouses by Amihay Shraga]]></summary>
-        <author>
-            <name>Amihay Shraga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bosom Buddy]]></title>
-        <id>1x-3517382</id>
-        <link href="https://1x.com/photo/3517382"/>
-        <updated>2026-04-16T07:52:57.794Z</updated>
-        <summary type="html"><![CDATA[Bosom Buddy by Ben.C.L]]></summary>
-        <author>
-            <name>Ben.C.L</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wings]]></title>
-        <id>1x-3546828</id>
-        <link href="https://1x.com/photo/3546828"/>
-        <updated>2026-04-16T07:52:57.770Z</updated>
-        <summary type="html"><![CDATA[Wings by Michael Eßig]]></summary>
-        <author>
-            <name>Michael Eßig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I'd still feel for you]]></title>
         <id>1x-3431291</id>
         <link href="https://1x.com/photo/3431291"/>
-        <updated>2026-04-16T07:52:57.747Z</updated>
+        <updated>2026-04-16T08:21:26.399Z</updated>
         <summary type="html"><![CDATA[I'd still feel for you by Kahar Lagaa]]></summary>
         <author>
             <name>Kahar Lagaa</name>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La poesía de las especies]]></title>
+        <id>1x-3546780</id>
+        <link href="https://1x.com/photo/3546780"/>
+        <updated>2026-04-16T08:21:26.397Z</updated>
+        <summary type="html"><![CDATA[La poesía de las especies by Rodrigo Núñez Buj]]></summary>
+        <author>
+            <name>Rodrigo Núñez Buj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mrs Xong]]></title>
+        <id>1x-3546727</id>
+        <link href="https://1x.com/photo/3546727"/>
+        <updated>2026-04-16T08:21:26.394Z</updated>
+        <summary type="html"><![CDATA[Mrs Xong by Tore Johansson]]></summary>
+        <author>
+            <name>Tore Johansson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIEROBECCO]]></title>
+        <id>1x-3546784</id>
+        <link href="https://1x.com/photo/3546784"/>
+        <updated>2026-04-16T08:21:26.392Z</updated>
+        <summary type="html"><![CDATA[FIEROBECCO by Stefano Caccia]]></summary>
+        <author>
+            <name>Stefano Caccia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wings]]></title>
+        <id>1x-3546828</id>
+        <link href="https://1x.com/photo/3546828"/>
+        <updated>2026-04-16T08:21:26.389Z</updated>
+        <summary type="html"><![CDATA[Wings by Michael Eßig]]></summary>
+        <author>
+            <name>Michael Eßig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In The Dark Places]]></title>
+        <id>1x-3541469</id>
+        <link href="https://1x.com/photo/3541469"/>
+        <updated>2026-04-16T08:21:26.386Z</updated>
+        <summary type="html"><![CDATA[In The Dark Places by Osmel]]></summary>
+        <author>
+            <name>Osmel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wing Light]]></title>
         <id>1x-3544964</id>
         <link href="https://1x.com/photo/3544964"/>
-        <updated>2026-04-16T07:52:57.717Z</updated>
+        <updated>2026-04-16T08:21:26.383Z</updated>
         <summary type="html"><![CDATA[Wing Light by Bill Boxer]]></summary>
         <author>
             <name>Bill Boxer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marks of Identity]]></title>
+        <id>1x-3537614</id>
+        <link href="https://1x.com/photo/3537614"/>
+        <updated>2026-04-16T08:21:26.374Z</updated>
+        <summary type="html"><![CDATA[Marks of Identity by Hamza Qarooni]]></summary>
+        <author>
+            <name>Hamza Qarooni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosom Buddy]]></title>
+        <id>1x-3517382</id>
+        <link href="https://1x.com/photo/3517382"/>
+        <updated>2026-04-16T08:21:26.371Z</updated>
+        <summary type="html"><![CDATA[Bosom Buddy by Ben.C.L]]></summary>
+        <author>
+            <name>Ben.C.L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dinka Smokehouses]]></title>
+        <id>1x-3471472</id>
+        <link href="https://1x.com/photo/3471472"/>
+        <updated>2026-04-16T08:21:26.366Z</updated>
+        <summary type="html"><![CDATA[Dinka Smokehouses by Amihay Shraga]]></summary>
+        <author>
+            <name>Amihay Shraga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Between Light and Instinct]]></title>
+        <id>1x-2809681</id>
+        <link href="https://1x.com/photo/2809681"/>
+        <updated>2026-04-16T08:21:26.361Z</updated>
+        <summary type="html"><![CDATA[Between Light and Instinct by Zewen Huang]]></summary>
+        <author>
+            <name>Zewen Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Green Jay]]></title>
+        <id>1x-3545187</id>
+        <link href="https://1x.com/photo/3545187"/>
+        <updated>2026-04-16T08:21:26.356Z</updated>
+        <summary type="html"><![CDATA[Green Jay by Serena Duan]]></summary>
+        <author>
+            <name>Serena Duan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omo Valley / Ethiopia]]></title>
+        <id>1x-3542439</id>
+        <link href="https://1x.com/photo/3542439"/>
+        <updated>2026-04-16T08:21:26.352Z</updated>
+        <summary type="html"><![CDATA[Omo Valley / Ethiopia by Mikael Togeby]]></summary>
+        <author>
+            <name>Mikael Togeby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[innocent world]]></title>
+        <id>1x-3545984</id>
+        <link href="https://1x.com/photo/3545984"/>
+        <updated>2026-04-16T08:21:26.348Z</updated>
+        <summary type="html"><![CDATA[innocent world by wooorry]]></summary>
+        <author>
+            <name>wooorry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3545802</id>
+        <link href="https://1x.com/photo/3545802"/>
+        <updated>2026-04-16T08:21:26.345Z</updated>
+        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <author>
+            <name>Joxe Inazio Kuesta Garmendia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flamingo Conversation]]></title>
+        <id>1x-3535526</id>
+        <link href="https://1x.com/photo/3535526"/>
+        <updated>2026-04-16T08:21:26.342Z</updated>
+        <summary type="html"><![CDATA[Flamingo Conversation by LIGON]]></summary>
+        <author>
+            <name>LIGON</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Through the Drift]]></title>
+        <id>1x-3537781</id>
+        <link href="https://1x.com/photo/3537781"/>
+        <updated>2026-04-16T08:21:26.119Z</updated>
+        <summary type="html"><![CDATA[Through the Drift by Shanrui Ren]]></summary>
+        <author>
+            <name>Shanrui Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strike of the Tide]]></title>
+        <id>1x-3545112</id>
+        <link href="https://1x.com/photo/3545112"/>
+        <updated>2026-04-16T08:21:26.115Z</updated>
+        <summary type="html"><![CDATA[Strike of the Tide by Zeren Gu]]></summary>
+        <author>
+            <name>Zeren Gu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[***]]></title>
+        <id>1x-3544506</id>
+        <link href="https://1x.com/photo/3544506"/>
+        <updated>2026-04-16T08:21:26.104Z</updated>
+        <summary type="html"><![CDATA[*** by Eleonora Fridman]]></summary>
+        <author>
+            <name>Eleonora Fridman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沿新路线 两艘与伊朗有关联船舶驶入波斯湾]]></title>
+        <id>https://www.zaobao.com/news/world/story20260416-8904208</id>
+        <link href="https://www.zaobao.com/news/world/story20260416-8904208"/>
+        <updated>2026-04-16T07:56:54.000Z</updated>
+        <summary type="html"><![CDATA[至少有两艘受美国制裁、与伊朗有关联的石油与天然气运输船通过霍尔木兹海峡进入波斯湾，这可能是从阿拉伯联合酋长国出发的一条新路线。 
+船东、能源贸易商和投资者一直在密切关注通过霍尔木兹海峡的船只，以了解德黑兰和华盛顿如何控制这条世界上最繁忙的航运通道之一。自美国开始拦截通行以来，只有少数船只通过，这主要是因为船员现在须同时获得两支海军的许可，才能确保自身和货物的安全通行。
+彭博社引述船舶追踪数据报道，G Summer液化石油气运输船星期三（4月15日）下午从伊朗拉腊克岛（Larak）和格什姆岛（Qeshm）之间驶入波斯湾。这艘空油轮广播显示其所有者和船员均为中国人——这是一种常见的安全措施，同时显示其目的地为伊拉克的霍尔·祖拜尔港（Khor Al Zubair）。
+特大型原油运输船Hong Lu随后不久也经过了这些岛屿。与G Summer一样，该船因与伊朗的关系而被华盛顿列入黑名单。这艘可载重达200万桶原油的油轮目前并未装载货物，正沿伊朗海岸线向西航行。它曾短暂地将伊拉克巴士拉列为目的地，但现在显示等待订单。
+G Summer和Hong Lu本周抵达阿联酋富查伊拉（Fujairah）附近海域，星期三向东北方向穿越阿曼湾到达伊朗海岸线，进而向北进入霍尔木兹海峡——这是一条异常曲折的路线。
+在他们之前几个小时，散货船Rosalina采取了相同的路线，并显示载着食品前往一个伊朗港口。
+几个小时后，小型成品油轮Nobler号向东穿过海峡进入阿曼湾。它从拉腊克岛以南驶出海峡，并显示目的地为阿曼的苏哈尔（Sohar ）。该船于2月进入波斯湾，并在长达七周的冲突期间一直停留在那里。
+星期三至少有两艘与伊朗有关的集装箱船Golbon号和Kashan号，似乎成功驶离波斯湾，沿伊朗海岸航行并前往与巴基斯坦相接海域。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -711,32 +728,6 @@ Telegraph
 “美国尚未正式同意延长停火。美伊双方仍在继续磋商，以期达成协议。”
 伊朗外交部发言人巴加埃周三在记者会上说，截至目前，有关延长停火的各种猜测均未得到证实，相关磋商仅通过巴基斯坦调解方继续进行。
 美国总统特朗普上周二（7日）宣布，美伊停火两周。特朗普周二（14日）说，他没有考虑延长与伊朗的停火，因为他认为这没有必要。他也称，伊朗战事“接近结束”，并暗示未来两天美国和伊朗可能会在巴基斯坦“重返谈判桌”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲正制定战后计划 绕过美国重开霍尔木兹海峡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260415-8899801</id>
-        <link href="https://www.zaobao.com/news/world/story20260415-8899801"/>
-        <updated>2026-04-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦讯）欧洲国家正在组建一个广泛的国家联盟，以期重开霍尔木兹海峡；但这项计划只会在战争结束后启动，并可能将美国排除在外。 
-美国《华尔街日报》星期二（4月14日）报道，法国总统马克龙透露，这项计划旨在开展一项不包括“交战方”的国际防御任务。他所指的交战方即美国、以色列和伊朗。熟悉计划的欧洲外交人士也透露，欧洲舰艇不会接受美军指挥。
-报道说，这项计划有三大目标：建立后勤机制，确保目前滞留霍尔木兹海峡内的数百艘船能够离开；开展大规模扫雷行动，为更多船只安全通行开辟更宽阔的航道；通过护卫舰和驱逐舰提供常态化军事护航与监视，让航运公司确信穿越海峡是安全的。
-马克龙和英国首相斯塔默计划在本周五（17日）联合主持一场有数十个国家参加的线上会议，讨论如何在敌对行动结束后，最有效地维护霍尔木兹海峡航行安全通畅。斯塔默将到巴黎参加会议，大多数其他国家则将线上参与。
-法英官员说，美国不会参会；中国和印度获邀，但尚不清楚会否出席。
-德国有意加入 国际联盟或须与伊朗协调
-
-德国一名高官也透露，德国可能参与这项计划，最快在周四（16日）明确表态支持。此前德国一直公开表明不考虑任何形式的军事介入；二战以来德国对海外军事行动的参与度也在一定程度上受限于政治与法律约束。
-如果柏林决定参与其中，就意味着这次任务在规模上要比此前预期的更为可观。德国的财政实力更胜英法，也拥有维护霍尔木兹海峡所需的扫雷舰等关键军事资产。
-法国外长巴罗说，这一国际联盟将与伊朗、阿曼等霍尔木兹海峡沿岸国家协调。这反映了要重开霍尔木兹海峡，无伊朗同意恐无法推进。
-
-是否排除美国  欧洲内部意见分歧
-
-对于是否排除美国，欧洲内部仍意见分歧。消息人士指，法国官员认为若美国参与，德黑兰将难以接受；英国官员则担心，排除美国会激怒特朗普总统，进而限制行动范围。
-是否排除美国的争论，其实反映出跨大西洋关系日益紧张。过去一年，特朗普对欧洲出口商品加征关税，撤回对乌克兰抵御俄罗斯的支持，并威胁动用武力从北约盟友丹麦手中夺取格陵兰岛；如今因伊朗战争而产生的分歧再进一步加剧了欧洲和美国的紧张关系。 
-特朗普近几周来频频游说欧洲盟友向波斯湾派遣军舰，以武力强行撬开霍尔木兹海峡，但屡遭拒绝。他如今又呼吁欧洲协助美国封锁伊朗港口，同样遭到斯塔默等人回拒，因欧洲着重的是如何恢复航运畅通，而非进一步限制通行。
-特朗普批评欧洲未能提供更多帮助，他也正在考虑美国是否应继续留在北约。如今欧洲只愿意在冲突结束后提供援助的立场，对特朗普来说是安抚还是火上添油，仍有待观察。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
