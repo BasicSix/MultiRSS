@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T13:10:05.015Z</updated>
+    <updated>2026-04-18T18:57:33.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 questions to build resilience — and change the world | Sister True Dedication]]></title>
+        <id>69dc66ccf736e119c3a0b5d9</id>
+        <link href="https://go.ted.com/64BH"/>
+        <updated>2026-04-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every moment of movement is a chance to become more aware of yourself and the world around you, says Zen Buddhist nun Sister True Dedication. Guiding us through the art of "mindful walking," she shares three essential questions to ask yourself to awaken your strength, build resilience and discover your inner peace.
+
+This episode originally aired in 2023.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I created OpenClaw, the viral AI agent | Peter Steinberger]]></title>
         <id>69e064cf501ebe6715dd4fa7</id>
