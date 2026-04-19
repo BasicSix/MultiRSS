@@ -2,198 +2,315 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T03:18:31.652Z</updated>
+    <updated>2026-04-19T07:25:27.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Jill]]></title>
-        <id>1x-3550118</id>
-        <link href="https://1x.com/photo/3550118"/>
-        <updated>2026-04-19T03:18:30.844Z</updated>
-        <summary type="html"><![CDATA[Jill by Nico Pakvis]]></summary>
+        <title type="html"><![CDATA[Is it cold outside?]]></title>
+        <id>1x-3550569</id>
+        <link href="https://1x.com/photo/3550569"/>
+        <updated>2026-04-19T07:25:24.862Z</updated>
+        <summary type="html"><![CDATA[Is it cold outside? by Gert van den Bosch]]></summary>
         <author>
-            <name>Nico Pakvis</name>
+            <name>Gert van den Bosch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dandelion clock]]></title>
-        <id>1x-3549151</id>
-        <link href="https://1x.com/photo/3549151"/>
-        <updated>2026-04-19T03:18:30.839Z</updated>
-        <summary type="html"><![CDATA[Dandelion clock by Kazunori Nagamori]]></summary>
+        <title type="html"><![CDATA[Big Ben night]]></title>
+        <id>1x-3550384</id>
+        <link href="https://1x.com/photo/3550384"/>
+        <updated>2026-04-19T07:25:24.857Z</updated>
+        <summary type="html"><![CDATA[Big Ben night by Louise Xie]]></summary>
         <author>
-            <name>Kazunori Nagamori</name>
+            <name>Louise Xie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Relaxing time]]></title>
-        <id>1x-3550273</id>
-        <link href="https://1x.com/photo/3550273"/>
-        <updated>2026-04-19T03:18:29.886Z</updated>
-        <summary type="html"><![CDATA[Relaxing time by EzoKato]]></summary>
+        <title type="html"><![CDATA[Spirit Rock Arches]]></title>
+        <id>1x-3550490</id>
+        <link href="https://1x.com/photo/3550490"/>
+        <updated>2026-04-19T07:25:24.853Z</updated>
+        <summary type="html"><![CDATA[Spirit Rock Arches by Bruce H Wendler]]></summary>
         <author>
-            <name>EzoKato</name>
+            <name>Bruce H Wendler</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Young Protege]]></title>
-        <id>1x-3549586</id>
-        <link href="https://1x.com/photo/3549586"/>
-        <updated>2026-04-19T03:18:29.884Z</updated>
-        <summary type="html"><![CDATA[The Young Protege by Jeffrey Chan]]></summary>
+        <title type="html"><![CDATA[Spotlight]]></title>
+        <id>1x-3534538</id>
+        <link href="https://1x.com/photo/3534538"/>
+        <updated>2026-04-19T07:25:24.850Z</updated>
+        <summary type="html"><![CDATA[Spotlight by MOSAO]]></summary>
         <author>
-            <name>Jeffrey Chan</name>
+            <name>MOSAO</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My name is I Exist]]></title>
-        <id>1x-3550197</id>
-        <link href="https://1x.com/photo/3550197"/>
-        <updated>2026-04-19T03:18:29.882Z</updated>
-        <summary type="html"><![CDATA[My name is I Exist by Giovanni Cavalli]]></summary>
+        <title type="html"><![CDATA[Northern Passage]]></title>
+        <id>1x-3547356</id>
+        <link href="https://1x.com/photo/3547356"/>
+        <updated>2026-04-19T07:25:24.846Z</updated>
+        <summary type="html"><![CDATA[Northern Passage by Ling Jiang]]></summary>
         <author>
-            <name>Giovanni Cavalli</name>
+            <name>Ling Jiang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elegance Folded on the Floor]]></title>
-        <id>1x-3550050</id>
-        <link href="https://1x.com/photo/3550050"/>
-        <updated>2026-04-19T03:18:29.880Z</updated>
-        <summary type="html"><![CDATA[Elegance Folded on the Floor by daniel demunter]]></summary>
+        <title type="html"><![CDATA[Fire Beneath the Ice]]></title>
+        <id>1x-3550442</id>
+        <link href="https://1x.com/photo/3550442"/>
+        <updated>2026-04-19T07:25:24.838Z</updated>
+        <summary type="html"><![CDATA[Fire Beneath the Ice by Lu Wang]]></summary>
         <author>
-            <name>daniel demunter</name>
+            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wood duck]]></title>
-        <id>1x-3548674</id>
-        <link href="https://1x.com/photo/3548674"/>
-        <updated>2026-04-19T03:18:29.872Z</updated>
-        <summary type="html"><![CDATA[Wood duck by Steven Haddix]]></summary>
+        <title type="html"><![CDATA[Owl]]></title>
+        <id>1x-3546809</id>
+        <link href="https://1x.com/photo/3546809"/>
+        <updated>2026-04-19T07:25:24.834Z</updated>
+        <summary type="html"><![CDATA[Owl by Azim Khan Ronnie]]></summary>
         <author>
-            <name>Steven Haddix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lighting over the Badlands]]></title>
-        <id>1x-3550075</id>
-        <link href="https://1x.com/photo/3550075"/>
-        <updated>2026-04-19T03:18:29.870Z</updated>
-        <summary type="html"><![CDATA[Lighting over the Badlands by Li Ying]]></summary>
-        <author>
-            <name>Li Ying</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make me beautiful!]]></title>
-        <id>1x-3550078</id>
-        <link href="https://1x.com/photo/3550078"/>
-        <updated>2026-04-19T03:18:29.867Z</updated>
-        <summary type="html"><![CDATA[Make me beautiful! by Sei Suenaga]]></summary>
-        <author>
-            <name>Sei Suenaga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[boiler repairman]]></title>
-        <id>1x-3550070</id>
-        <link href="https://1x.com/photo/3550070"/>
-        <updated>2026-04-19T03:18:29.865Z</updated>
-        <summary type="html"><![CDATA[boiler repairman by Jan Donckers]]></summary>
-        <author>
-            <name>Jan Donckers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban]]></title>
-        <id>1x-3549126</id>
-        <link href="https://1x.com/photo/3549126"/>
-        <updated>2026-04-19T03:18:29.863Z</updated>
-        <summary type="html"><![CDATA[Urban by Olexandr Shpyek]]></summary>
-        <author>
-            <name>Olexandr Shpyek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Mosque]]></title>
-        <id>1x-3547322</id>
-        <link href="https://1x.com/photo/3547322"/>
-        <updated>2026-04-19T03:18:29.862Z</updated>
-        <summary type="html"><![CDATA[Blue Mosque by R Suguri]]></summary>
-        <author>
-            <name>R Suguri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Currents]]></title>
-        <id>1x-3549958</id>
-        <link href="https://1x.com/photo/3549958"/>
-        <updated>2026-04-19T03:18:29.858Z</updated>
-        <summary type="html"><![CDATA[Silent Currents by Hanping Xiao]]></summary>
-        <author>
-            <name>Hanping Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark of Creation]]></title>
-        <id>1x-3544810</id>
-        <link href="https://1x.com/photo/3544810"/>
-        <updated>2026-04-19T03:18:29.856Z</updated>
-        <summary type="html"><![CDATA[Spark of Creation by Ala Askool]]></summary>
-        <author>
-            <name>Ala Askool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision in Silence]]></title>
-        <id>1x-3549063</id>
-        <link href="https://1x.com/photo/3549063"/>
-        <updated>2026-04-19T03:18:29.607Z</updated>
-        <summary type="html"><![CDATA[Precision in Silence by Robert Zhang]]></summary>
-        <author>
-            <name>Robert Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eternal Serene]]></title>
-        <id>1x-3544007</id>
-        <link href="https://1x.com/photo/3544007"/>
-        <updated>2026-04-19T03:18:29.605Z</updated>
-        <summary type="html"><![CDATA[Eternal Serene by Tomoki Ishikawa]]></summary>
-        <author>
-            <name>Tomoki Ishikawa</name>
+            <name>Azim Khan Ronnie</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3549477</id>
-        <link href="https://1x.com/photo/3549477"/>
-        <updated>2026-04-19T03:18:29.562Z</updated>
-        <summary type="html"><![CDATA[Untitled by GABA]]></summary>
+        <id>1x-3550430</id>
+        <link href="https://1x.com/photo/3550430"/>
+        <updated>2026-04-19T07:25:24.831Z</updated>
+        <summary type="html"><![CDATA[Untitled by Washiful Majid]]></summary>
         <author>
-            <name>GABA</name>
+            <name>Washiful Majid</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red umbrella (3)]]></title>
-        <id>1x-3549752</id>
-        <link href="https://1x.com/photo/3549752"/>
-        <updated>2026-04-19T03:18:29.558Z</updated>
-        <summary type="html"><![CDATA[Red umbrella  (3) by Gila Koller]]></summary>
+        <title type="html"><![CDATA[The Banana Carrier]]></title>
+        <id>1x-3550499</id>
+        <link href="https://1x.com/photo/3550499"/>
+        <updated>2026-04-19T07:25:24.823Z</updated>
+        <summary type="html"><![CDATA[The Banana Carrier by Mallal Moshe]]></summary>
         <author>
-            <name>Gila Koller</name>
+            <name>Mallal Moshe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crescendo Upward]]></title>
-        <id>1x-3550272</id>
-        <link href="https://1x.com/photo/3550272"/>
-        <updated>2026-04-19T03:18:29.549Z</updated>
-        <summary type="html"><![CDATA[Crescendo Upward by Maymayphoto]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3545805</id>
+        <link href="https://1x.com/photo/3545805"/>
+        <updated>2026-04-19T07:25:24.815Z</updated>
+        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
         <author>
-            <name>Maymayphoto</name>
+            <name>Joxe Inazio Kuesta Garmendia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonsai Rock]]></title>
+        <id>1x-3550345</id>
+        <link href="https://1x.com/photo/3550345"/>
+        <updated>2026-04-19T07:25:24.802Z</updated>
+        <summary type="html"><![CDATA[Bonsai Rock by Rong Shu]]></summary>
+        <author>
+            <name>Rong Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3546991</id>
+        <link href="https://1x.com/photo/3546991"/>
+        <updated>2026-04-19T07:25:24.794Z</updated>
+        <summary type="html"><![CDATA[Untitled by Fujimon]]></summary>
+        <author>
+            <name>Fujimon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overhang]]></title>
+        <id>1x-3550608</id>
+        <link href="https://1x.com/photo/3550608"/>
+        <updated>2026-04-19T07:25:24.788Z</updated>
+        <summary type="html"><![CDATA[Overhang by Hans-Wolfgang Hawerkamp]]></summary>
+        <author>
+            <name>Hans-Wolfgang Hawerkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry at the Museum]]></title>
+        <id>1x-3550679</id>
+        <link href="https://1x.com/photo/3550679"/>
+        <updated>2026-04-19T07:25:24.757Z</updated>
+        <summary type="html"><![CDATA[Geometry at the Museum by Bertrand RENAUD]]></summary>
+        <author>
+            <name>Bertrand RENAUD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is us.]]></title>
+        <id>1x-3550432</id>
+        <link href="https://1x.com/photo/3550432"/>
+        <updated>2026-04-19T07:25:24.714Z</updated>
+        <summary type="html"><![CDATA[This is us. by Daniel Springgay]]></summary>
+        <author>
+            <name>Daniel Springgay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiat Topolino]]></title>
+        <id>1x-3538805</id>
+        <link href="https://1x.com/photo/3538805"/>
+        <updated>2026-04-19T07:25:24.697Z</updated>
+        <summary type="html"><![CDATA[Fiat Topolino by Þorsteinn H. Ingibergsson]]></summary>
+        <author>
+            <name>Þorsteinn H. Ingibergsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giallo & Grigio]]></title>
+        <id>1x-3550268</id>
+        <link href="https://1x.com/photo/3550268"/>
+        <updated>2026-04-19T07:25:24.682Z</updated>
+        <summary type="html"><![CDATA[Giallo & Grigio by Matteo Faliero]]></summary>
+        <author>
+            <name>Matteo Faliero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shared joy with the Hausa children]]></title>
+        <id>1x-3533947</id>
+        <link href="https://1x.com/photo/3533947"/>
+        <updated>2026-04-19T07:25:24.670Z</updated>
+        <summary type="html"><![CDATA[shared joy with the Hausa children by Elena Molina]]></summary>
+        <author>
+            <name>Elena Molina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Western Scrub-jay]]></title>
+        <id>1x-3550524</id>
+        <link href="https://1x.com/photo/3550524"/>
+        <updated>2026-04-19T07:25:24.570Z</updated>
+        <summary type="html"><![CDATA[Western Scrub-jay by verdon]]></summary>
+        <author>
+            <name>verdon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI助力全球二手服装销售 市场规模今年可达3700亿元]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8837412</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8837412"/>
+        <updated>2026-04-19T06:55:43.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦讯）全球二手服装市场在人工智能（AI）和社交媒体推动下持续扩张。2026年销售额预计将增长12%至2890亿美元（约3700亿新元）。
+英国《卫报》报道，二手服装网站崛起，预计将在未来五年推动二手服装市场以年均9%的速度增长，达到3930亿美元，增速为整体服装市场的两倍。
+这一预测来自二手服装网站ThredUp的报告，报告采用市场分析公司GlobalData的研究数据。2021年，二手服装市场规模仅1410亿美元，不到今年预期总额的一半。
+业内人士指出，二手市场也在直接争夺传统服装市场份额，目前已占全球服装销售约一成。Zara、Mulberry等品牌已开始销售二手商品或提供修补旧衣服务。
+平台方面，ThredUp去年销售额增长约20%，达到3亿1080万美元；Depop销售额增长42%，达到1亿英镑（约1亿7000万新元）；Vinted在2024年的销售额增长36%，达到8亿欧元（约12亿新元）。
+不过，二手服装网站似乎难以从这波热潮中获利，ThredUp录得2000万美元税前亏损，Depop亏损4200万英镑。
+分析认为，若伊朗局势推高了能源和运输成本，服装价格将上升，更多消费者可能转向购买价格较低的二手商品。 
+平台也在借助AI快速整理海量商品信息并进行分类，让买家更容易找到目标商品。这缩短了买家从社交媒体发现商品到完成购买的过程。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年已有17人在美国移民拘留期间死亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8917847</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8917847"/>
+        <updated>2026-04-19T06:50:47.000Z</updated>
+        <summary type="html"><![CDATA[根据美国移民及海关执法局发布的被拘留者死亡报告，今年已有17人在美国移民拘留期间死亡。
+据美国全国广播公司（NBC）新闻报道，移民及海关执法局（ICE）报告称，2025年有33名被拘留者死亡，这是20多年来的最高数字；2024年则有11名被拘留者死亡。
+截至今年4月初，ICE已拘留超过6万名移民。尽管近几个月来这一数字有所下降，但仍远高于美国总统特朗普去年上任之前的水平。
+4月12日，一名27岁的古巴公民在迈阿密一处联邦拘留中心的牢房内被发现失去知觉，经抢救无效死亡，官方死因仍在调查中。
+美国移民及海关执法局的严厉执法行动引发争议，今年初在明尼苏达州明尼阿波利斯的一次行动中造成两名美国公民死亡，更激起公众愤怒。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战争近50天 全球原油产量估计损失逾500亿美元]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8917830</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8917830"/>
+        <updated>2026-04-19T06:47:12.000Z</updated>
+        <summary type="html"><![CDATA[据分析人士和路透社计算，自近50天前伊朗战争爆发以来，全球原油产量已损失超过500亿美元（约635亿新元），这场危机的余波将在未来数月甚至数年内持续存在。 
+路透社报道，据Kpler的数据显示，自2月底危机爆发以来，全球已有超过5亿桶原油和凝析油退出市场，这是现代史上规模最大的能源供应中断。
+世界著名能源机构伍德麦肯兹（Wood Mackenzie）分析师莫瓦特指出，5亿桶石油的损失相当于全球航空需求被削减10周；或全球所有车辆停止道路行驶11天；或全球经济面临五天的石油短缺。
+据路透社估计，这相当于美国近一个月的石油需求量，或整个欧洲超过一个月的石油需求量。
+不仅如此，2021财年约8000万桶的年消耗量计算，这相当于美国军方大约六年的燃料消耗量。这足以维持全球国际航运业约四个月的运营。
+其他关键数据：
+
+
+波斯湾阿拉伯国家3月份原油日产量减少约800万桶，几乎相当于埃克森美孚和雪佛龙这两家全球最大的石油公司的总产量。
+
+
+据Kpler的数据显示，沙特阿拉伯、卡塔尔、阿联酋、科威特、巴林和阿曼的航空燃油出口量从2月份的约1960万桶，骤降至3月和4月迄今为止的合计仅410万桶。路透社估计，出口损失相当于纽约肯尼迪机场和伦敦希思罗机场之间约2万个往返航班的运力。
+
+
+Kpler高级原油分析师劳巴尔说，自冲突爆发以来，原油价格平均维持在每桶100美元左右，这些损失的出口量相当于约500亿美元的收入损失。这相当于德国年度国内生产总值（GDP）的1%，或拉脱维亚或爱沙尼亚等较小国家的整个GDP。
+
+
+全面恢复可能需要数年时间
+
+Kpler的数据显示，4月份全球陆上原油库存已减少约4500万桶。自3月下旬以来，原油产量中断已达到每日约1200万桶。
+劳巴尔说，科威特和伊拉克的重质原油油田可能需要四到五个月才能恢复正常生产水平，这将导致夏季库存持续下降。炼油能力和卡塔尔拉斯拉凡液化天然气项目受损，意味着区域能源基础设施的全面恢复可能需要数年时间。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一名以军士兵在黎巴嫩南部作战身亡 另九人受伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8917662</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8917662"/>
+        <updated>2026-04-19T05:17:36.000Z</updated>
+        <summary type="html"><![CDATA[以色列国防军发表声明说，一名以军士兵在黎巴嫩南部作战时死亡，另有九名士兵受伤，其中一人伤势严重
+新华社报道，以色列星期天（4月19日）发声明说，目前受伤士兵已送医接受救治。　　
+美国和以色列2月28日对伊朗发起大规模军事行动。作为伊朗的主要地区盟友，黎巴嫩真主党随后开始向以色列北部发射火箭弹，以色列则对黎南部、东部和首都贝鲁特等地发起猛烈空袭，并在黎南部展开地面行动。 
+以色列和黎巴嫩为期10天的停火于新加坡时间星期五（4月17日）凌晨5时生效，但黎巴嫩军方指控以方违反停火规定，停火生效后仍爆发多起以军袭击事件，黎巴嫩部分村庄遭遇间歇性炮击。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[委反对派领袖马查多：不后悔把诺贝尔奖献予特朗普]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8917485</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8917485"/>
+        <updated>2026-04-19T04:20:16.000Z</updated>
+        <summary type="html"><![CDATA[委内瑞拉反对派领导人马查多说，她对于今年1月象征性地将诺贝尔和平奖献给美国总统特朗普一事“毫不后悔”。  
+法新社报道，马查多星期六（4月18日）在马德里举行的新闻发布会上说：“世界上有一名领导人，一名国家元首，为了委内瑞拉的自由，不惜让本国公民的生命冒险。”
+马查多今年1月到白宫会见特朗普时，把她去年获颁的诺贝尔和平奖奖章送给了特朗普。
+她说，特朗普下令军事行动抓捕目前被关押在纽约、面临美国毒品指控的委内瑞拉领导人马杜罗，“是我们委内瑞拉人永远不会忘记的”。
+马查多去年12月冒险经由海路潜逃出委内瑞拉。她说，她正在与华盛顿协调安排返回委内瑞拉的事宜。
+她星期六在马德里的一次集会上告诉数千名支持者，她做好回国的准备。“过去27年里，我们所做的一切都是为了迎接重聚的时刻，为了建设一个永远自由的国家。”
+委内瑞拉反对派上周呼吁举行总统选举。马查多尚未表明是否会参选；她此前被禁止参加2024年总统选举，而那场选举最终由马杜罗宣布连任，反对派称结果遭到操控。
+长期渴望获得诺贝尔和平奖的特朗普，目前正深陷于他与盟友以色列于2月底对伊朗发动空袭所引发的中东战争之中。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美欧关系面临挑战 北约秘书长：美国不会退出北约]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8917437</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8917437"/>
+        <updated>2026-04-19T03:50:49.000Z</updated>
+        <summary type="html"><![CDATA[北约秘书长吕特说，尽管美欧关系面临挑战，但他认为美国不会退出北约，这需要“在更强大的北约中拥有一个更强大的欧洲”。 
+吕特接受德国《星期日世界报》采访时说，美国总统特朗普显然对一些北约成员国感到失望，而他理解特朗普的不满。 
+他说，欧洲希望在北约发挥更大作用，这意味着北约从“不健康的依赖”向基于真正伙伴关系的跨大西洋联盟转变。
+不过，他指出，美国的核保护伞是欧洲安全的最终保证，他确信这将会保持下去。
+特朗普近期多次抱怨北约欧洲成员不愿支持美国对伊朗军事行动，称北约是“纸老虎”，更称正在考虑退出北约。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗领空将分四个阶段重新开放]]></title>
+        <id>https://www.zaobao.com/news/world/story20260419-8917374</id>
+        <link href="https://www.zaobao.com/news/world/story20260419-8917374"/>
+        <updated>2026-04-19T03:26:03.000Z</updated>
+        <summary type="html"><![CDATA[伊朗民航组织副主席发声明说，伊朗领空将分四个阶段重新开放。
+据伊朗伊斯兰共和国广播电视台星期天（4月19日）报道，当局的声明指出，第一阶段恢复过境中转航班；第二阶段恢复伊朗东部机场航班；第三阶段恢复梅赫拉巴德机场和霍梅尼国际机场航班；第四阶段恢复伊朗西部机场航班。
+不过，目前伊朗机票销售依然暂停。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -499,24 +616,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[法国士兵遇袭身亡 黎巴嫩总统誓言追究袭击者责任]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8916260</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8916260"/>
-        <updated>2026-04-18T13:58:48.000Z</updated>
-        <summary type="html"><![CDATA[一名法国士兵在黎巴嫩南部一起针对联合国驻黎巴嫩临时部队（联黎部队）的袭击中身亡。黎巴嫩总统奥恩誓言将追究袭击者的责任。
-此次袭击造成一人死亡，三人受伤。法新社引述黎巴嫩总统府星期六（4月18日）的声明称，奥恩已致电法国总统马克龙，谴责此次事件，同时誓言贝鲁特“将毫不犹豫地追究肇事者的责任，并将他们绳之以法”。
-马克龙在社交媒体上发文说，这四名士兵隶属于法国一支空降工兵团，受伤的三人已撤离。新华社引述马克龙称，有线索显示，黎真主党应对此次袭击负责。法国要求黎巴嫩政府立即逮捕袭击者。
-
-联合国：袭击者为“非国家行为体”
-
-联黎部队指出，他们怀疑“非国家行为体”是造成部队人员在黎巴嫩南部遭受致命袭击的幕后黑手，并称袭击者可能是伊朗支持的真主党。
-联黎部队在声明中说，“初步评估显示，开火的是非国家行为体”，并补充说“据称”是真主党所为。
-联黎部队敦促黎巴嫩“迅速展开调查，查明并追究肇事者的责任”，联黎部队称这是一起“蓄意”袭击。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Opus 4.7，升级还是倒退？ | 原文]]></title>
         <id>https://t.me/wxbyg/7138</id>
         <link href="https://t.me/wxbyg/7138"/>
@@ -527,117 +626,6 @@ Claude Opus 4.7，升级还是倒退？
 Opus4.6发布才俩月，Anthropic又推出了Opus 4.7。反常的是，官方自己先泼冷水：“这不是我们能做的最强模型”，甚至大方承认“比内部版Mythos弱多了”。 上线不到24小时，AI社区就吵成两派：一派说它还是最强的公开模型，编程能力突出；另一派说这哪是升级，明明是倒退。 谁对谁错？看你怎么用。 如果你是程序员，日常依赖AI写代码，Opus 4.7很可能是目前最好用的编程助手。在SWE-bench Pro测试中，Opus 4.7得分从53.4%飙升至64.3%，直接压过GPT-5.4和Gemini…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美军实施海上封锁 至今23艘船只返航]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8916168</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8916168"/>
-        <updated>2026-04-18T13:16:04.000Z</updated>
-        <summary type="html"><![CDATA[美军中央司令部在社交媒体上发文说，自开始实施海上封锁以来，已有23艘船只按美军指示返航。
-美军自4月13日起，对进出伊朗港口及沿海地区的船只实施海上封锁。 
-船舶追踪数据显示，约10艘船只星期六（4月18日）尝试通过霍尔木兹海峡，但最终折返。 
-新华社引述航运轨迹说，多艘船只在行至伊朗拉腊克岛附近水域后折返。数据显示，这些船只中多为油轮，多艘船只在自动识别系统中的目的地为印度。
-
-船东：伊朗向船只广播霍尔木兹海峡封锁
-
-另据两名在该水域有船只的船东说，伊朗向霍尔木兹海峡的船只广播，称这条重要的石油和天然气运输通道的海上交通已封锁。
-彭博社引述船东说，星期六霍尔木兹海峡内一片混乱，一艘超级油轮发出无线电广播称遭到枪击。由于安全形势严峻，这些船东不愿透露身份。
-伊朗外长阿拉格齐星期五（17日）宣布，在黎巴嫩和以色列停火期间对所有商船开放霍尔木兹海峡。 
-此后，部分货轮试图通过海峡，另一些则折返或停航。但伊朗媒体星期六报道，因美国“屡次违背承诺”，伊朗军方已重新收紧对霍尔木兹海峡的管控。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因应全球油供大减 美国延长对俄石油制裁豁免]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8915724</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8915724"/>
-        <updated>2026-04-18T12:45:24.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿／纽约／伦敦综合电）全球原油供应因中东战事而严重受阻，美国政府决定再次延长对俄罗斯原油的制裁豁免期，试图稳定剧烈波动的能源市场。 
-美国财政部星期五（4月17日）发布新许可，将俄罗斯原油与石油产品的制裁豁免延长一个月，允许各国继续购买截至当天已装船的俄罗斯油货。原来的30天豁免期已经在本月11日到期，如今延长至5月16日零时1分（新加坡中午12时1分）。
-此举旨在制裁俄国的同时，缓解国际能源价格飙升的压力。不过有分析认为，延长豁免可能削弱美国要限制俄罗斯战争收入的效果。
-在这同时，美伊战争冲击中东的石油供应，亚洲买家加速转向美国买油，目前很多超级油轮正驶向美国港口。 
-船舶追踪数据显示，目前约有70艘主要来自亚洲的超级油轮正航向美国墨西哥湾沿岸，是去年同期平均27艘的两倍有余。全球现约有1000艘超级油轮，这类油轮载重吨位达20万至30万吨，相当于日本半天的消耗量。
-据《日经亚洲》报道，中东石油供应受阻后，亚洲客户转向美国采购，引发一波抢购潮。
-欧洲能源分析公司Kpler数据则预测，亚洲对美国原油的需求在3月份激增82%，达到每日250万桶。
-Kpler分析师史密斯说：“这些油轮就像舰队般列阵，鱼贯向美国进发。超级油轮排成的长龙是前所未见的，反映了油供的紧缺。”
-由于这些超级油轮体型过大，无法通过巴拿马运河，而必须绕行非洲好望角，单程航行时间约60天。 
-
-能源缺口逾5亿桶 创现代史最大供应中断
-
-Kpler公布的数据显示，自美伊战争爆发以来，全球原油与凝析油供应已减少超过5亿桶。路透社估算，这相当于超过500亿美元（约635亿新元）。
-世界著名能源机构伍德麦肯兹（Wood Mackenzie）分析员莫瓦特形容，这一缺口庞大，相当于全球所有车辆停驶11天，或全球经济停止用油五天。
-目前波斯湾国家的原油产量每日减少约800万桶。Kpler高级分析师劳巴尔指出，科威特与伊拉克部分重质原油油田可能需要四五个月才能够恢复正常生产，这意味着库存消耗可能持续至夏季。　
-
-保险承保意愿成恢复出口关键
-
-伊朗星期五宣布霍尔木兹海峡将恢复开放后，市场虽然大表欢迎，但仍持观望态度。果不其然，隔天伊朗又恫言恢复管制海峡，理由是美国“屡次违规”。 
-沙特阿拉伯财政部长贾达安指出，石油供应量是否能恢复，关键不在于产能，而是保险公司是否愿意为油轮提供承保。
-他说，在停火协议延长、局势真切降温之前，保险公司和油轮船东都不会迅速作出反应。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日澳签历史性协议 三菱重工将为澳建造11艘隐形护卫舰]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8914993</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8914993"/>
-        <updated>2026-04-18T12:26:50.000Z</updated>
-        <summary type="html"><![CDATA[（墨尔本／悉尼综合电）澳大利亚与日本政府正式签署合作协议，由日本三菱重工为澳洲海军建造11艘新一代隐形护卫舰。澳洲希望借此提升海上远程作战能力，应对中国在印太地区不断扩大的军事存在。
-澳洲副总理兼国防部长马尔斯与日本防长小泉进次郎星期六（4月18日）在墨尔本的日本海上自卫队“最上级”熊野号护卫舰，出席澳洲采购首批护卫舰的启动仪式，并签署相关合作协议。
-这是日本自2014年解除武器出口禁令以来，规模最重大的军售项目之一。小泉进次郎形容这项协议“具有历史意义”，并指日澳在深化双边安全关系方面“没有上限”。
-澳洲政府早前披露，首三艘护卫舰合同预算介于150亿至200亿澳元（约136亿至182亿新元）之间。　　
-根据规划，首批三艘升级版“最上级”护卫舰将由三菱重工在长崎造船厂建造，预计首舰于2029年交付，2030年投入服役。其余八艘则将在西澳珀斯附近的亨德森造船厂建造，由澳洲本土造船企业奥斯塔（Austal）承建。
-澳洲计划在未来10年内，将主力水面舰艇规模从目前的11艘扩充至26艘，而通用护卫舰被视为未来水面舰队的主力。随着中国在印度洋、太平洋及澳洲北部海上通道的军事存在不断扩大，这批具备反潜、对海打击和防空能力的护卫舰将部署在关键海上航道，加强海上交通线的防护。
-虽然这项合作具有高度战略价值，但也面临不小挑战。这是三菱重工首次在海外承担如此复杂的先进军舰建造任务。澳洲政府也表现出谨慎态度，希望在推进过程中避免过去大型军购案中常见的成本飙升或工程延误问题。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明确排除中国车企在美设厂 卢特尼克：我们不需要比亚迪]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8915685</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8915685"/>
-        <updated>2026-04-18T12:20:25.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿彭博电）美国商务部长卢特尼克明确排除中国资本进入美国汽车业的可能性，直言美国不需要比亚迪等中国电动车企业。
-卢特尼克星期五（4月17日）在华盛顿一场对话会上，被问及是否考虑允许比亚迪在美设立合资工厂时，直接以一个“不”字回答，现场一度笑声四起。
-他过后在同一活动场边进一步说明，指主持人的问题已点名提到比亚迪。他对彭博社说：“我们不会让他们进来。”在被追问其他中国企业是否有机会投资美国时，卢特尼克强调：“不会是汽车业。”
-美国汽车制造商上个月联署致函政府，指北京企图主导全球汽车业并打入美国市场，称这对美国的全球竞争力、国家安全和汽车工业基础构成直接威胁。
-3月中旬在巴黎举行的中美贸易会谈中，美国贸易代表格里尔、财政部长贝森特与中国副总理何立峰同意，研究建立促进美中贸易投资的合作机制；但4月初，格里尔已淡化扩大双边投资合作的可能性，称“我不认为当前美中关系已发展到可以讨论双向投资计划的阶段”。
-他上周进一步说，由于美国对外国技术的限制，中国车企在可预见的未来，很可能继续被拒于美国市场之外。
-另据知情人士透露，特朗普政府正考虑调整北美贸易规则，可能提高进口汽车的关税，推动制造商增加美国本土的生产。
-消息称，美国在讨论的规则包括：要求进口汽车必须包含一定比率的美国零部件、限制车企根据《美墨加协定》享受关税减免的空间，从而提高跨境运输整车的成本。不过，这些构想仍处于初步阶段，具体操作方式尚未成形。
-知情人士也说，在对《美墨加协定》进行评估前，美国官员已在内部以及与汽车业相关人士讨论这些潜在调整，但至今尚未向加拿大或墨西哥的贸易官员提出正式方案。
-华府对现行贸易政策未能促使大量汽车及零部件生产回流美国感到失望。特朗普政府去年推出一系列关税措施，推动车企在美国增加产能，包括对进口汽车和零部件征收25%关税。
-尽管多家车企承诺数十亿美元的新投资，并宣布将部分生产从加拿大、墨西哥和日本转移至美国，但美国汽车业整体投资规模并未显著上升。美国仍然高度依赖进口来满足国内需求，尤其是售价3万美元或以下的车型。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自美军封锁霍尔木兹海峡以来 23船按美军指示折返伊朗]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8916019</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8916019"/>
-        <updated>2026-04-18T12:18:24.000Z</updated>
-        <summary type="html"><![CDATA[路透社报道，美国军方星期六（4月18日）说，自美国在霍尔木兹海峡对伊朗港口和沿海地区实施封锁以来，已有23艘船遵照美军命令折返伊朗。 
-伊朗早前指美国“屡次违背承诺”，也对霍尔木兹海峡恢复封锁。伊朗伊斯兰革命卫队说，如果美国不确保往返伊朗的船只享有完全的航行自由，伊朗也不会让其他船只在霍尔木兹海峡自由航行。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海事情报：伊朗向试图穿越霍尔木兹海峡油轮开火]]></title>
-        <id>https://www.zaobao.com/news/world/story20260418-8915804</id>
-        <link href="https://www.zaobao.com/news/world/story20260418-8915804"/>
-        <updated>2026-04-18T11:15:08.000Z</updated>
-        <summary type="html"><![CDATA[海事情报公司“油轮追踪者”网站在社交媒体发文说，两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退。
-新华社引述网站星期六（4月18日）发布的消息说，其间出现开火情况。其中一艘是悬挂印度国旗的超大型油轮。
-路透社也引述三名海事安全和航运消息人士称，至少两艘商船星期六试图穿越霍尔木兹海峡时遭到枪击。
-据英国海上贸易行动办公室的声明，一艘油轮的船长报告称，两艘伊朗伊斯兰革命卫队炮艇靠近油轮，并向它开火。报道说，油轮和船员安全。
-伊朗方面尚未就此表态。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>

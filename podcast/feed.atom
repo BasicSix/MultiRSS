@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T03:18:29.349Z</updated>
+    <updated>2026-04-19T07:25:25.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday Pick: How a special seaweed is lowering methane emissions—one cow burp at a time | from Speed & Scale]]></title>
+        <id>69dc678daf4db69e0dd60d36</id>
+        <link href="https://audiocollective.ted.com/"/>
+        <updated>2026-04-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that cows emit methane when they burp? Livestock account for over 12% of the world’s greenhouse gas emissions, but farmers and scientists have discovered a superfood that might be the key to lower emissions—and raise healthier cows. In this episode, Ryan and Anjali investigate the mystery of Asparagopsis, a seaweed variety that removes methane from the guts of the animals who eat it. The catch? There are only nine licensed growers in the world. Ryan and Anjali are joined by three experts to talk about the science behind this amazing plant, the benefits we’re already seeing from the animals who eat it, and the next steps for scaling up its use by farmers around the world. 
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 questions to build resilience — and change the world | Sister True Dedication]]></title>
         <id>69dc66ccf736e119c3a0b5d9</id>
