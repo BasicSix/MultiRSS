@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T13:50:06.429Z</updated>
+    <updated>2026-04-20T19:12:05.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc"/>
+        <updated>2026-04-20T18:14:07.000Z</updated>
+        <summary type="html"><![CDATA[最近「硬地骇客」收到一大波听友来信，大家集中抛出了当下独立开发者最焦虑、最纠结的12个真实问题：
+
+  
+前期没收入到底怎么熬？
+  
+为什么有idea却永远停在纸上？
+  
+产品做出来却没人用，问题出在哪？
+  
+AI时代工程师最该练什么能力？
+  
+Vibe Coding这么火，是不是人人都能做产品了？
+  
+小而美App这条路还走得通吗？
+  
+AGI真的会来，那我们现在做的这些事还有意义吗？……
+
+
+这一期，我们三位主播（Saito、一啸、归归）老老实实结合自己做Podwise的真实经历和血泪教训，一条一条硬核解答，不鸡汤、不画饼，只讲最实在的思考和打法。
+
+本shownotes由 castwise.ai 制作
+
+Podwise - Podcast Knowledge at 10x Speed!
+
+podwise.ai
+
+Apple Store 下载👉🏻 apps.apple.com
+
+硬地笔记
+
+00:48独立开发初期的生存策略与心态建设
+
+08:45克服想法停滞与利用 AI 提升构建效率
+
+14:35解决产品无人问津的痛点与生意思维
+
+23:56AI 时代工程师的核心竞争力与职业转型
+
+31:19文科生与设计师在 AI 时代的构建优势
+
+45:22小而美产品的生存挑战与工程维护实践
+
+1:00:36AGI 的未来展望与追求当下的意义
+
+欢迎关注我们
+
+  
+知识星球:t.zsxq.com
+  
+官网: hardhacker.com
+  
+小手册: book.hardhacker.com
+  
+用爱发电不容易，请我们喝咖啡☕️: afdian.net
+  
+公众号/小红书: 硬地骇客
+  
+商务合作: hardhackerlabs@gmail.com
+  
+另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！]]></summary>
+        <author>
+            <name>硬地骇客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The problem with billionaires — and the debut of True Net Worth | Randall Lane]]></title>
+        <id>69e064b9de282b9272c81daa</id>
+        <link href="http://go.ted.com/randalllane"/>
+        <updated>2026-04-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As chief content officer of Forbes, Randall Lane oversees the magazine's signature list of billionaires, tracking the richest people on Earth. But he has noticed that this prompts the ultra-wealthy to stockpile their money instead of spending it on the public good. He debuts a new ranking — True Net Worth — that applauds billionaires for their philanthropy and rewards generosity. Guess who's in the top five?
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunday Pick: How a special seaweed is lowering methane emissions—one cow burp at a time | from Speed & Scale]]></title>
         <id>69dc678daf4db69e0dd60d36</id>
@@ -1443,19 +1525,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <summary type="html"><![CDATA[Covering global war stories can be hard and thankless — but it's critical work if the rest of us are to understand what's really going on in the world. For nearly two decades, journalist Jane Ferguson has reported on hostilities across Africa and the Middle East, and she's witnessed firsthand the changing face of her profession. Via stories of her own experiences at the heart of complex conflicts, she shares fascinating details of how she and other female colleagues have changed the way that news is captured, shared — and understood.
 
 This episode originally aired in November 2023.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Pick: 20th Anniversary celebration with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn | from Design Matters]]></title>
-        <id>69bc0de8007cdcf83f662f94</id>
-        <link href="https://audiocollective.ted.com/"/>
-        <updated>2026-03-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For the 20th anniversary of Design Matters, Debbie Millman revisits conversations with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn. These excerpts reflect on language, identity, memory, and the lived experience that fuels their work. Together, they reveal poetry as an intimate practice that resonates beyond the page.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>

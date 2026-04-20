@@ -129,6 +129,23 @@
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87",
       "articles": [
         {
+          "id": "https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc",
+          "author": null,
+          "description": "最近「硬地骇客」收到一大波听友来信，大家集中抛出了当下独立开发者最焦虑、最纠结的12个真实问题：\n\n  \n前期没收入到底怎么熬？\n  \n为什么有idea却永远停在纸上？\n  \n产品做出来却没人用，问题出在哪？\n  \nAI时代工程师最该练什么能力？\n  \nVibe Coding这么火，是不是人人都能做产品了？\n  \n小而美App这条路还走得通吗？\n  \nAGI真的会来，那我们现在做的这些事还有意义吗？……\n\n\n这一期，我们三位主播（Saito、一啸、归归）老老实实结合自己做Podwise的真实经历和血泪教训，一条一条硬核解答，不鸡汤、不画饼，只讲最实在的思考和打法。\n\n本shownotes由 castwise.ai 制作\n\nPodwise - Podcast Knowledge at 10x Speed!\n\npodwise.ai\n\nApple Store 下载👉🏻 apps.apple.com\n\n硬地笔记\n\n00:48独立开发初期的生存策略与心态建设\n\n08:45克服想法停滞与利用 AI 提升构建效率\n\n14:35解决产品无人问津的痛点与生意思维\n\n23:56AI 时代工程师的核心竞争力与职业转型\n\n31:19文科生与设计师在 AI 时代的构建优势\n\n45:22小而美产品的生存挑战与工程维护实践\n\n1:00:36AGI 的未来展望与追求当下的意义\n\n欢迎关注我们\n\n  \n知识星球:t.zsxq.com\n  \n官网: hardhacker.com\n  \n小手册: book.hardhacker.com\n  \n用爱发电不容易，请我们喝咖啡☕️: afdian.net\n  \n公众号/小红书: 硬地骇客\n  \n商务合作: hardhackerlabs@gmail.com\n  \n另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！",
+          "link": "https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc",
+          "publishedOn": "2026-04-20T18:14:07.000Z",
+          "wordCount": null,
+          "title": "EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻",
+          "itunes": {
+            "duration": "1:13:52"
+          },
+          "enclosure": {
+            "url": "https://media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.xiaoyuzhoufm.com/episode/69caa449e2c8be3155f03013",
           "author": null,
           "description": "如果你还在“听播客”，那你可能已经错过了下一代的信息消费方式。\n\n这期节目，我们从一个看似技术选型的问题出发——为什么不做 API / SDK，而是选择 CLI。一路聊到了一个更本质的变化：当用户从“人”变成“Agent”，软件该如何重新设计？\n\n安装 Podwise Skills：\n\nfor Openclaw：\n\nclawhub install podwise\n\nOn Claude Code / Codex / Opencode\n\nnpx skills add hardhackerlabs/podwise-cli\n\nPodwise 最新发布的 CLI + Skills，不只是一个工具更新，更像是把播客从“内容”升级成“可调用的能力”。你不再需要一条条听完节目，而是可以直接搜索、拆解、组合、导出，让 AI 帮你完成一整套信息处理流程。从“听内容”到“调能力”，信息获取的范式正在被重写。\n\n我们聊了很多关键问题：\n\n  \n为什么 CLI 反而成了 Agent 时代最自然的接口？\n  \n为什么传统 SaaS 的 API 思路正在失效？\n  \nWorkflow vs Agent，产品的“确定性”和“无限组合”该如何取舍？\n  \n为什么你会不知不觉中消耗更多内容，甚至更多 token？\n  \n以及——未来的软件，是不是只剩下“原子能力 + AI 组合”？\n\n\n如果你是开发者，这期会帮你重新思考产品架构；\n如果你是重度信息消费者，这期可能会直接改变你的学习方式。\n\n也许不久之后，“听播客”这件事本身，就会变得有点过时了。\n\n本shownotes由 castwise.ai 制作\n\nPodwise - Podcast Knowledge at 10x Speed!\n\npodwise.ai\n\nApple Store 下载👉🏻 apps.apple.com\n\n硬地笔记\n\nPart 1: 背景与核心理念\n\n00:04Podwise 发布 CLI 和 Skills 的原因：用户场景推动与 Agent 需求进化\n\n01:16为什么选择 CLI 而非 API 或 SDK：反传统 SaaS 服务方式\n\n05:15Agent 生态推动 CLI 普及：Obsidian 和 Podwise 的案例\n\n\nPart 2: CLI 功能设计与原则\n\n07:05Podwise CLI 的功能设计：四大类原子能力与内容发现的重要性\n\n11:27CLI 设计：兼顾人类与 Agent 用户，提供可渲染选项与 TTY 环境判断\n\n14:51CLI 设计原则：管道、谜等、非交互式、Help 信息与错误信息\n\n\nPart 3: Skills 扩展与 AI 结合\n\n19:18Podwise Skills：基于 CLI 的工作流能力，实现自然语言调用与动态工具链\n\n24:30LLM 与 CLI 的化学反应：无限排列组合与动态组合系统\n\n27:38Agent 是新时代的魔法：颠覆低代码/无代码平台，交付结果更直接\n\n\nPart 4: 用户体验与商业模式\n\n30:36Podwise Skills 体验：Token 消耗与播客消费量成倍增长\n\n33:40AI 时代的内容消费：效率提升与 Token 消耗的性价比\n\n36:49Podwise CLI 与 Skills 的商业模式：免费开源与滚动窗口限制\n\n\nPart 5: 架构建议与安装指南\n\n38:54软件架构建议：API 优先、逻辑放到 CLI 与服务端做核心业务\n\n45:51安装 Podwise Skills 与反馈渠道\n\n\n欢迎关注我们\n\n  \n知识星球:t.zsxq.com\n  \n官网: hardhacker.com\n  \n小手册: book.hardhacker.com\n  \n用爱发电不容易，请我们喝咖啡☕️: afdian.net\n  \n公众号/小红书: 硬地骇客\n  \n商务合作: hardhackerlabs@gmail.com\n  \n另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！",
@@ -227,6 +244,24 @@
       "feedUrl": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
       "siteUrl": "https://www.ted.com",
       "articles": [
+        {
+          "id": "69e064b9de282b9272c81daa",
+          "author": null,
+          "description": "As chief content officer of Forbes, Randall Lane oversees the magazine's signature list of billionaires, tracking the richest people on Earth. But he has noticed that this prompts the ultra-wealthy to stockpile their money instead of spending it on the public good. He debuts a new ranking — True Net Worth — that applauds billionaires for their philanthropy and rewards generosity. Guess who's in the top five?\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/randalllane",
+          "publishedOn": "2026-04-20T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The problem with billionaires — and the debut of True Net Worth | Randall Lane",
+          "itunes": {
+            "duration": "10:59"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e064b9de282b9272c81daa/media.mp3",
+            "length": "10652015",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "69dc678daf4db69e0dd60d36",
           "author": null,
@@ -889,24 +924,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bda0141861d127d5d0c2f3/media.mp3",
             "length": "15050351",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "69bc0de8007cdcf83f662f94",
-          "author": null,
-          "description": "For the 20th anniversary of Design Matters, Debbie Millman revisits conversations with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn. These excerpts reflect on language, identity, memory, and the lived experience that fuels their work. Together, they reveal poetry as an intimate practice that resonates beyond the page.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "https://audiocollective.ted.com/",
-          "publishedOn": "2026-03-22T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Sunday Pick: 20th Anniversary celebration with renowned poets Eileen Myles, Elizabeth Alexander, Sarah Kay, and Amber Tamblyn | from Design Matters",
-          "itunes": {
-            "duration": "56:51"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bc0de8007cdcf83f662f94/media.mp3",
-            "length": "54685295",
             "type": "audio/mpeg"
           },
           "imageUrl": null
