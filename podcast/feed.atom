@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-21T13:50:39.251Z</updated>
+    <updated>2026-04-21T19:18:32.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[To love is to be brave | Kelly Corrigan (re-release)]]></title>
+        <id>69dc69c2f736e119c3a194e5</id>
+        <link href="http://go.ted.com/kellycorrigan"/>
+        <updated>2026-04-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Family life often requires extraordinary bravery, from navigating the daily challenges to surviving the unexpected crises. Author and podcaster Kelly Corrigan offers profound wisdom (and seven key words) to help you focus in on what matters most.
+
+This episode originally aired in 2024.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc</id>
