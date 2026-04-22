@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-21T19:18:32.540Z</updated>
+    <updated>2026-04-22T02:53:08.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[264.库克的道德锚点]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69e7cc921e94ae6921d5683b</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69e7cc921e94ae6921d5683b"/>
+        <updated>2026-04-21T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[🎤本期为个人solo
+
+主播：潘乱（「乱翻书」主理人）
+
+公众号原文：《库克的道德锚点》（By：乱翻书）
+
+⏰【时间线】
+
+一、三个故事
+
+06:20 2014年10月30日，库克在《彭博商业周刊》发了一封公开信。
+
+09:30 2019年8月19日，美国商业圆桌会议（BusinessRoundtable）发表联合声明。
+
+13:10 过去十五年，库克高频访华。
+
+二、六条价值观
+
+21:45 无障碍。那场著名的“该死的ROI” 。
+
+25:53 隐私。用户不是商品。
+
+29:49 环境。碳中和和消失的充电头。
+
+32:06 教育。人人都能编程。
+
+32:56 包容与多元。FaceID的数据正义。
+
+33:49 供应商责任。后来演变成了供应链创新。
+
+三、一家社会公民型企业
+
+34:10 从“供应商责任”到“供应链创新”。
+
+37:51 2020年6月，乔治弗洛伊德事件引爆全美抗议潮。
+
+42:01 对FBI说不，对特朗普也可以说不。
+
+43:44 “我们自己的信息，从日常琐事到最深刻的个人话题，正在以军事级的效率被武器化用来对付我们。”
+
+44:45 “商业不应只关乎商业。”
+
+四、留下什么
+
+51:02 库克把价值观变成了苹果最硬的无形资产
+
+🎵【开场&结尾音乐】
+
+开场音乐：罗宾·威廉姆斯生前演出的最后一部广告 iPad Air《你的诗篇》
+
+结尾音乐：Mount Dreams - Wolfs
+
+ℹ【关于「乱翻书」】
+
+「乱翻书」是一档关注商业、科技和互联网的圆桌对话节目。关心How和Why，以及少有人注意到的What。内容主要方向是科技考古、行业观察和前沿思考，研究公司的兴衰循环，希望能够为你带来信息增量。
+
+「乱翻书」主理人是潘乱，代表作品有《腾讯没有梦想》、字节跳动/快手早期关键节点的系列特写。
+
+本期编辑：怀杭]]></summary>
+        <author>
+            <name>乱翻书</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To love is to be brave | Kelly Corrigan (re-release)]]></title>
         <id>69dc69c2f736e119c3a194e5</id>
