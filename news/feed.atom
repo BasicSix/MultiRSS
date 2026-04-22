@@ -2,198 +2,549 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T07:56:25.064Z</updated>
+    <updated>2026-04-22T13:51:16.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[A Joyful Return]]></title>
-        <id>1x-3554276</id>
-        <link href="https://1x.com/photo/3554276"/>
-        <updated>2026-04-22T07:55:40.014Z</updated>
-        <summary type="html"><![CDATA[A Joyful Return by Qing Zhao]]></summary>
+        <title type="html"><![CDATA[Golden hour in Lofoten]]></title>
+        <id>1x-3554428</id>
+        <link href="https://1x.com/photo/3554428"/>
+        <updated>2026-04-22T13:50:32.137Z</updated>
+        <summary type="html"><![CDATA[Golden hour in Lofoten by Martin Morávek]]></summary>
         <author>
-            <name>Qing Zhao</name>
+            <name>Martin Morávek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Penguins Trekking Down from the Iceberg]]></title>
-        <id>1x-3554251</id>
-        <link href="https://1x.com/photo/3554251"/>
-        <updated>2026-04-22T07:55:39.998Z</updated>
-        <summary type="html"><![CDATA[The Penguins Trekking Down from the Iceberg by Raymond Ren Rong Liu]]></summary>
+        <title type="html"><![CDATA[At the Entrance]]></title>
+        <id>1x-3553934</id>
+        <link href="https://1x.com/photo/3553934"/>
+        <updated>2026-04-22T13:50:32.135Z</updated>
+        <summary type="html"><![CDATA[At the Entrance by Hamza Qarooni]]></summary>
         <author>
-            <name>Raymond Ren Rong Liu</name>
+            <name>Hamza Qarooni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winter’s Warm Farewell]]></title>
-        <id>1x-3537731</id>
-        <link href="https://1x.com/photo/3537731"/>
-        <updated>2026-04-22T07:55:39.995Z</updated>
-        <summary type="html"><![CDATA[Winter’s Warm Farewell by Mei Xu]]></summary>
+        <title type="html"><![CDATA[acrobats]]></title>
+        <id>1x-3546315</id>
+        <link href="https://1x.com/photo/3546315"/>
+        <updated>2026-04-22T13:50:32.132Z</updated>
+        <summary type="html"><![CDATA[acrobats by Christine von Diepenbroek]]></summary>
         <author>
-            <name>Mei Xu</name>
+            <name>Christine von Diepenbroek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Landing on The Ice]]></title>
-        <id>1x-3554243</id>
-        <link href="https://1x.com/photo/3554243"/>
-        <updated>2026-04-22T07:55:39.992Z</updated>
-        <summary type="html"><![CDATA[Landing on The Ice by Jun Zuo]]></summary>
+        <title type="html"><![CDATA[Cove owl-4]]></title>
+        <id>1x-3554367</id>
+        <link href="https://1x.com/photo/3554367"/>
+        <updated>2026-04-22T13:50:32.130Z</updated>
+        <summary type="html"><![CDATA[Cove owl-4 by jerry ju]]></summary>
         <author>
-            <name>Jun Zuo</name>
+            <name>jerry ju</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mundari Soul]]></title>
-        <id>1x-3514454</id>
-        <link href="https://1x.com/photo/3514454"/>
-        <updated>2026-04-22T07:55:39.990Z</updated>
-        <summary type="html"><![CDATA[Mundari Soul by Amihay Shraga]]></summary>
+        <title type="html"><![CDATA[Spring Song of the Prothonotary Warbler]]></title>
+        <id>1x-3554350</id>
+        <link href="https://1x.com/photo/3554350"/>
+        <updated>2026-04-22T13:50:32.128Z</updated>
+        <summary type="html"><![CDATA[Spring Song of the Prothonotary Warbler by Leechee Z]]></summary>
         <author>
-            <name>Amihay Shraga</name>
+            <name>Leechee Z</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[color]]></title>
-        <id>1x-3554133</id>
-        <link href="https://1x.com/photo/3554133"/>
-        <updated>2026-04-22T07:55:39.981Z</updated>
-        <summary type="html"><![CDATA[color by wooorry]]></summary>
+        <title type="html"><![CDATA[Echoes]]></title>
+        <id>1x-3552462</id>
+        <link href="https://1x.com/photo/3552462"/>
+        <updated>2026-04-22T13:50:32.051Z</updated>
+        <summary type="html"><![CDATA[Echoes by Rana Jabeen]]></summary>
         <author>
-            <name>wooorry</name>
+            <name>Rana Jabeen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Born Into Responsibility]]></title>
-        <id>1x-3553919</id>
-        <link href="https://1x.com/photo/3553919"/>
-        <updated>2026-04-22T07:55:39.977Z</updated>
-        <summary type="html"><![CDATA[Born Into Responsibility by Ilana Lam]]></summary>
+        <title type="html"><![CDATA[Danae]]></title>
+        <id>1x-3553810</id>
+        <link href="https://1x.com/photo/3553810"/>
+        <updated>2026-04-22T13:50:32.049Z</updated>
+        <summary type="html"><![CDATA[Danae by Nico Pakvis]]></summary>
         <author>
-            <name>Ilana Lam</name>
+            <name>Nico Pakvis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Margins of Knowledge]]></title>
-        <id>1x-3468723</id>
-        <link href="https://1x.com/photo/3468723"/>
-        <updated>2026-04-22T07:55:39.974Z</updated>
-        <summary type="html"><![CDATA[Margins of Knowledge by LILY PHOTOGRAPHY]]></summary>
+        <title type="html"><![CDATA[The other side have won.]]></title>
+        <id>1x-3552103</id>
+        <link href="https://1x.com/photo/3552103"/>
+        <updated>2026-04-22T13:50:32.043Z</updated>
+        <summary type="html"><![CDATA[The other side have won. by Saad Salem]]></summary>
         <author>
-            <name>LILY PHOTOGRAPHY</name>
+            <name>Saad Salem</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Silhouette]]></title>
-        <id>1x-3546937</id>
-        <link href="https://1x.com/photo/3546937"/>
-        <updated>2026-04-22T07:55:39.971Z</updated>
-        <summary type="html"><![CDATA[Silhouette by Kazuhiro Komai]]></summary>
+        <title type="html"><![CDATA[Holding Hands]]></title>
+        <id>1x-3554134</id>
+        <link href="https://1x.com/photo/3554134"/>
+        <updated>2026-04-22T13:50:32.035Z</updated>
+        <summary type="html"><![CDATA[Holding Hands by Jaeseok Lim]]></summary>
         <author>
-            <name>Kazuhiro Komai</name>
+            <name>Jaeseok Lim</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sadhus]]></title>
-        <id>1x-3551471</id>
-        <link href="https://1x.com/photo/3551471"/>
-        <updated>2026-04-22T07:55:39.969Z</updated>
-        <summary type="html"><![CDATA[Sadhus by Giovanni Cavalli]]></summary>
+        <title type="html"><![CDATA[Kiraly]]></title>
+        <id>1x-3554328</id>
+        <link href="https://1x.com/photo/3554328"/>
+        <updated>2026-04-22T13:50:31.958Z</updated>
+        <summary type="html"><![CDATA[Kiraly by Iosif Viezer]]></summary>
         <author>
-            <name>Giovanni Cavalli</name>
+            <name>Iosif Viezer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Between Shadow and Gold]]></title>
+        <id>1x-3553806</id>
+        <link href="https://1x.com/photo/3553806"/>
+        <updated>2026-04-22T13:50:31.950Z</updated>
+        <summary type="html"><![CDATA[Between Shadow and Gold by Tali Krinsky]]></summary>
+        <author>
+            <name>Tali Krinsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset at Wind Farm]]></title>
+        <id>1x-3554331</id>
+        <link href="https://1x.com/photo/3554331"/>
+        <updated>2026-04-22T13:50:31.940Z</updated>
+        <summary type="html"><![CDATA[Sunset at Wind Farm by ZhuoWen Chen]]></summary>
+        <author>
+            <name>ZhuoWen Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prekmurje]]></title>
+        <id>1x-3554287</id>
+        <link href="https://1x.com/photo/3554287"/>
+        <updated>2026-04-22T13:50:31.937Z</updated>
+        <summary type="html"><![CDATA[Prekmurje by Jure Kravanja]]></summary>
+        <author>
+            <name>Jure Kravanja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flamingo with Sunset]]></title>
+        <id>1x-3550176</id>
+        <link href="https://1x.com/photo/3550176"/>
+        <updated>2026-04-22T13:50:31.922Z</updated>
+        <summary type="html"><![CDATA[Flamingo with Sunset by Fahri Tunc]]></summary>
+        <author>
+            <name>Fahri Tunc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the Stoplight]]></title>
+        <id>1x-3551200</id>
+        <link href="https://1x.com/photo/3551200"/>
+        <updated>2026-04-22T13:50:31.913Z</updated>
+        <summary type="html"><![CDATA[the Stoplight by Alfredo Bruzzone]]></summary>
+        <author>
+            <name>Alfredo Bruzzone</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3554322</id>
-        <link href="https://1x.com/photo/3554322"/>
-        <updated>2026-04-22T07:55:39.962Z</updated>
-        <summary type="html"><![CDATA[Untitled by MITSUKI]]></summary>
+        <id>1x-3545808</id>
+        <link href="https://1x.com/photo/3545808"/>
+        <updated>2026-04-22T13:50:31.719Z</updated>
+        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
         <author>
-            <name>MITSUKI</name>
+            <name>Joxe Inazio Kuesta Garmendia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jumping Tanager]]></title>
-        <id>1x-3553057</id>
-        <link href="https://1x.com/photo/3553057"/>
-        <updated>2026-04-22T07:55:39.960Z</updated>
-        <summary type="html"><![CDATA[Jumping Tanager by Serena Duan]]></summary>
+        <title type="html"><![CDATA[Dreaming]]></title>
+        <id>1x-3553742</id>
+        <link href="https://1x.com/photo/3553742"/>
+        <updated>2026-04-22T13:50:31.706Z</updated>
+        <summary type="html"><![CDATA[Dreaming by Izak Katz]]></summary>
         <author>
-            <name>Serena Duan</name>
+            <name>Izak Katz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palace of Solitude]]></title>
-        <id>1x-3554212</id>
-        <link href="https://1x.com/photo/3554212"/>
-        <updated>2026-04-22T07:55:39.957Z</updated>
-        <summary type="html"><![CDATA[Palace of Solitude by Bertrand RENAUD]]></summary>
+        <title type="html"><![CDATA[Vapor]]></title>
+        <id>1x-3553771</id>
+        <link href="https://1x.com/photo/3553771"/>
+        <updated>2026-04-22T13:50:31.700Z</updated>
+        <summary type="html"><![CDATA[Vapor by Yutap]]></summary>
         <author>
-            <name>Bertrand RENAUD</name>
+            <name>Yutap</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urbanism]]></title>
-        <id>1x-3551103</id>
-        <link href="https://1x.com/photo/3551103"/>
-        <updated>2026-04-22T07:55:39.954Z</updated>
-        <summary type="html"><![CDATA[Urbanism by Fulvio Pellegrini]]></summary>
+        <title type="html"><![CDATA[The beak of the opera]]></title>
+        <id>1x-3551543</id>
+        <link href="https://1x.com/photo/3551543"/>
+        <updated>2026-04-22T13:50:31.684Z</updated>
+        <summary type="html"><![CDATA[The beak of the opera by Luc Vangindertael (laGrange)]]></summary>
         <author>
-            <name>Fulvio Pellegrini</name>
+            <name>Luc Vangindertael (laGrange)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From the Workplace]]></title>
-        <id>1x-3553935</id>
-        <link href="https://1x.com/photo/3553935"/>
-        <updated>2026-04-22T07:55:39.951Z</updated>
-        <summary type="html"><![CDATA[From the Workplace by Sameerah Abbas]]></summary>
+        <title type="html"><![CDATA[日相高市与防长5月黄金周出访澳越菲印拓展军事外交]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8937265</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8937265"/>
+        <updated>2026-04-22T13:42:50.000Z</updated>
+        <summary type="html"><![CDATA[日本首相高市早苗修订《防卫装备转让三原则》，放宽出口杀伤性武器后，将积极拓展军事外交。她5月初计划访问越南和澳大利亚，以阐述日本政府加快出口军备的政策，而防长小泉进次郎也将访问印度尼西亚和菲律宾。
+日本政府大幅放宽军备出口规定，如导弹、驱逐舰等杀伤性武器都允许出口。小泉进次郎接受《日经新闻》采访时表示，他对与东南亚国家深化安全合作抱着极高期待。 
+他指出，菲律宾、印尼对采购日本军备大感兴趣。今后出口的武器范围不仅军舰，还包括防空导弹和无人机。
+菲律宾此前已接收日本首批防空雷达，日经报道，菲律宾也向日方表示有意从日本海上自卫队购买二手“阿武隈”级驱逐舰，以及日本陆上自卫队的03式中程地对空导弹（Chu-SAM）。如今，日本取消了军备出口限制有助于日菲双方在安全合作上更上一层楼。
+日本政府正致力于通过军事达到外交效果。日本外长茂木敏充周二（4月21日）在记者会上说：“转让防卫设备有助于为日本创造理想的安全环境，其外交意义极其重大。” 
+多年来，日本主要通过政府开发援助（Official Development Assistance，ODA）来构建双边关系，重点关注非安全领域。在国际动荡、地缘政治影响的情况下，近期积极推进安全领域合作至关重要。
+高市也说：“我们收到不少伙伴国对日本研发的防卫装备深感兴趣的请求。我们希望根据这些需求转让相关装备，这不仅能提升彼此的防御能力，还能帮助预防冲突发生，进而也能保障日本的安全。”
+据日媒报道，高市政府尤其重视与澳洲和菲律宾的军备出口，因为这两国可协助应对中国日益增长的海上扩张。同时，日本也希望开拓东南亚和印度的军备市场。
+分析认为，国际武装冲突频发，各国对弹药和军事物资的需求激增，日本这时松绑条例有利可图。不过，日本防卫产业要中途插队，势必面对激烈竞争。例如，俄罗斯的军火在印度市场已占36%，法国占33%。此外，想要打破中国对泰国和马来西亚的最大供应国地位也非易事。
+尽管日本当局在海外推广日本防卫产业积极，但日本舆论认为，当局在审核杀伤性武器出口留下灰色地带。《朝日新闻》社论指出，新规虽然禁止向交战国出口装备，但也指出，若基于安全需要，日本可以按“特殊情况”允许出口。
+由于新规未明确阐明“特殊情况”，无法确保装备转让不会成为加剧地区紧张局势的导火线。同时，也担心售出的武器可能落在恐怖组织手上。
+曾制止自民党松绑军售条例的公明党高官指出：“一旦装备出口，当局就无法完全控制。”]]></summary>
         <author>
-            <name>Sameerah Abbas</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3554118</id>
-        <link href="https://1x.com/photo/3554118"/>
-        <updated>2026-04-22T07:55:39.949Z</updated>
-        <summary type="html"><![CDATA[Untitled by SUSUMU SASAKI]]></summary>
+        <title type="html"><![CDATA[以黎周四次轮会谈 黎巴嫩国内忧引发派系斗争]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8936846</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8936846"/>
+        <updated>2026-04-22T13:28:45.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／耶路撒冷／贝鲁特综合电）以色列和黎巴嫩定于星期四在华盛顿举行新一轮会谈，以色列外长萨尔呼吁贝鲁特政府与以色列合作对抗真主党，黎巴嫩人民担忧与以色列谈判或激化国内派系斗争。 
+美媒引述美国国务院官员报道，以色列驻美大使莱特和黎巴嫩驻美大使穆阿瓦德星期四（4月23日）在国务院举行第二轮大使级会谈。美国驻以色列大使赫卡比将加入，与国务卿鲁比奥等外交官员一同参与会谈。
+以色列外长萨尔星期三（22日）在一场庆祝以色列建国78周年的外交活动上发表讲话。他呼吁黎巴嫩政府“一起合作，对抗真主党在你们的土地上建立起来的恐怖国度。”
+萨尔说：“你们比我们更迫切需要合作。这么做要有明确的道德认知，以及愿意冒险的勇气，没有其他方法可让你我拥有一个和平的未来。”
+黎巴嫩总理萨拉姆早前在星期二（21日）访问巴黎时，与法国总统马克龙会面后对记者说，黎巴嫩政府并不寻求与伊朗支持的真主党对抗，但绝不会屈服于真主党的威胁。
+马克龙则强调，以黎10日停火协议必须延长，以落实“真正的稳定过程”。他也说，以色列必须放弃对黎巴嫩的领土野心，真主党也必须“由黎巴嫩政府”卸除武装。　　
+黎巴嫩政府去年宣称将推动真主党和平解除武装，但政府军为免激起国内冲突，未真正落实，引致美国和以色列批评。　　
+
+黎巴嫩人担忧会谈将引爆国内派系斗争
+
+以黎上周二（14日）在华盛顿举行首轮会谈，随后在17日正式开始为期10天的停火。停火协议并未要求以军撤出黎巴嫩，也未表明要真主党卸除武装，只是把黎巴嫩政府和以色列拉到谈判桌，但排除导致黎巴嫩卷入中东战事的真主党武装分子。 
+新一轮会谈的目标是要延长停火，或是为更深入的谈判铺路，目前并不明朗，唯一确定的是已引发黎巴嫩内部敌对派系的强烈反弹。真主党盟友、国会议长贝里已表明反对与以色列直接会谈。
+黎巴嫩在1975年爆发内战，直至1990年才结束，导致15万人死亡。一名曾参与内战的前基督教武装组织成员告诉法新社，黎巴嫩人都很担忧会重蹈覆辙。他说：“缺乏良好基础的协议注定会重新点燃内部纷争。”
+一名外交官员也向法新社形容，以黎谈判文本将是引发黎巴嫩内部斗争的“详尽配方”。
+
+以军真主党仍发动零星攻击
+
+黎巴嫩国营媒体报道，以军星期三在贝卡（Bekaa）地区发动无人机袭击，导致一人死亡、两人受伤。不过，以军对此表示不知情。
+前一天，真主党宣称向以色列北部发射火箭弹和无人机，并指责以军违反停火协议，以军则声称击中真主党发射火箭弹的发射装置。]]></summary>
         <author>
-            <name>SUSUMU SASAKI</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ingen kan få tid tillbaka.]]></title>
-        <id>1x-3553555</id>
-        <link href="https://1x.com/photo/3553555"/>
-        <updated>2026-04-22T07:55:39.947Z</updated>
-        <summary type="html"><![CDATA[Ingen kan få tid tillbaka. by Ylva Sjögren]]></summary>
+        <title type="html"><![CDATA[消息：黎巴嫩拟要求停火期延长一个月]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8937321</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8937321"/>
+        <updated>2026-04-22T13:18:25.000Z</updated>
+        <summary type="html"><![CDATA[黎巴嫩官员说，贝鲁特方面会在与以色列的会晤中，要求将当前的临时停火延长一个月。
+法新社星期三（4月22日）引述一名黎巴嫩官员报道这则消息。这名官员说：“黎方会要求将停火期限延长一个月，要求以色列停止在它驻军区域内的轰炸和破坏活动，并承诺遵守停火协议。”
+以黎驻美大使定于星期四（23日）在华盛顿举行第二轮会晤；美国驻以色列大使赫卡比以及美国国务卿鲁比奥等外交官员也将参与会谈。
+以黎上周二（14日）在华盛顿举行首轮会谈，随后于17日正式开始为期10天的停火。若不延长，停火将于星期天（26日）期满。
+黎巴嫩总统奥恩星期三说：“目前正在进行接触，以延长停火期限。”]]></summary>
         <author>
-            <name>Ylva Sjögren</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mixed Emotions]]></title>
-        <id>1x-3546965</id>
-        <link href="https://1x.com/photo/3546965"/>
-        <updated>2026-04-22T07:55:39.944Z</updated>
-        <summary type="html"><![CDATA[Mixed Emotions by Kieron Long]]></summary>
+        <title type="html"><![CDATA[特朗普无限期延长停火 伊朗未确认会否复谈]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8936094</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8936094"/>
+        <updated>2026-04-22T13:02:04.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普在与伊朗的停火协议即将到期前，突然单方面宣布无限期延长停火，缓解了战事立即重燃的风险，但美伊会否举行第二轮谈判仍是未知数。 
+特朗普周二（4月21日）在社交媒体上说，由于伊朗政府内部严重分裂，斡旋方巴基斯坦要求美方暂缓攻打伊朗，直至伊朗领导人与代表能够提出一份意见一致的谈判方案。
+他写道：“因此，我已指示美国军方维持海上封锁，同时在其他方面保持随时待命的状态。我们也延长停火期限，直至伊方提交方案，并完成相关磋商为止。” 
+数小时前，特朗普才称不想延长停火，并指美军已蓄势待发，准备好继续轰炸伊朗。根据特朗普的说法，美伊停火原定美东时间周三（22日）晚上8时（新加坡23日早上8时）结束。
+伊朗媒体称，伊方并没要求延长停火期限。伊朗外交部发言人巴加埃周三说，伊朗正密切关注战场局势与政治动态，同时采取必要措施维护国家利益与安全。 
+巴加埃指出，伊朗没有说过会参加第二轮谈判。但他也提到，外交是维护国家利益的手段，只有在条件符合自身利益时，伊朗才会采取外交行动。　　 
+
+伊朗：特朗普延长停火只为争取时间发动突袭
+
+伊朗议长兼谈判代表卡利巴夫的顾问穆罕默迪指特朗普此举毫无意义。他称：“输家无权主导局势。持续的（海上）围困与轰炸没有什么不同，必须以军事手段予以回应。特朗普延长停火，无疑是为发动突袭争取时间的伎俩。伊朗是时候掌握主动权了。”
+伊朗伊斯兰革命卫队在一份声明中说，已做好准备应对任何新的侵略；如果战火重启，将对敌人残余力量予以毁灭性打击。
+革命卫队航空航天部队也警告，如果波斯湾邻国的领土被敌人用来攻击伊朗，伊朗将摧毁这些国家的石油生产设施。
+伊朗盟友也门胡塞武装表明，如果美以重返战场，他们也将加入战斗。
+白宫证实，美国副总统万斯已取消前往巴基斯坦的行程。他原定率团参加周二在伊斯兰堡举行的第二轮美伊谈判，但伊朗迟迟未同意派团前往。
+巴基斯坦总理谢里夫感谢特朗普按巴方请求同意延长停火，以便推进外交努力。他说：“我衷心希望双方继续遵守停火协议，并且能够在定于伊斯兰堡举行的第二轮谈判中，达成一项全面的和平协议，彻底结束冲突。”
+目前不清楚第二轮谈判何时举行或会否举行。
+
+              
+伊朗民众周二聚集在德黑兰的革命广场和瓦纳克广场，参加反对美国和以色列的示威活动。他们挥舞伊朗国旗，并高喊口号，伊朗武装部队还在现场展示弹道导弹。（路透社）
+            
+伊朗坚持美国解除封锁是复谈前提
+
+伊朗常驻联合国代表伊拉瓦尼周二称，美国解除封锁是恢复谈判的前提，“一旦封锁解除，下一轮谈判将在伊斯兰堡举行”。
+特朗普则在延长停火后数小时再发文称：“如果我们这么做（解除对伊朗海上封锁），就永远不可能与伊朗达成协议，除非我们把他们国家剩余的部分炸毁，包括他们的领导人！”
+美国有线电视新闻网（CNN）引述三名知情官员报道，特朗普仍倾向于寻求外交解决方案，避免重启一场不受美国选民欢迎的战争。因此，他最终决定延长停火，给伊朗领导人时间统一立场。
+中东研究所高级研究员瓦坦卡也认为，特朗普实际上并不想重燃战火，却把自己逼到了墙角。瓦坦卡说：“他犯了一个战略错误，以为对伊朗人越来越大声地叫嚣就能奏效。这种做法对这个政权行不通。相较于公开施压，私下施压要有效得多。”
+据CNN报道，特朗普政府日前向伊朗提交一份协议要点清单，希望伊朗在下一轮谈判前同意这些要点，但一直到停火期限将至，伊朗都未有回应。
+特朗普政府相信，伊方迟迟不回复，是因为现任领导层内部分歧，无法统一立场。这使他们在铀浓缩活动与如何处理现有浓缩铀库存等核心问题上，未能就赋予谈判代表多大权限达成共识。
+特朗普延长停火能否促使伊朗回到谈判桌，还有待观察。特朗普的一些顾问警告，伊朗可能会借机拖延时间，以便挖出在战争期间被掩埋的导弹系统。]]></summary>
         <author>
-            <name>Kieron Long</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Lift of Survival]]></title>
-        <id>1x-3549038</id>
-        <link href="https://1x.com/photo/3549038"/>
-        <updated>2026-04-22T07:55:39.938Z</updated>
-        <summary type="html"><![CDATA[The Lift of Survival by Zeren Gu]]></summary>
+        <title type="html"><![CDATA[雅加达批以军 在加沙印尼医院挂军事“宣传”横幅]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8937162</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8937162"/>
+        <updated>2026-04-22T12:49:19.000Z</updated>
+        <summary type="html"><![CDATA[印度尼西亚指责以色列在加沙一家由印尼出资建造的医院废墟上，悬挂涉对伊朗军事行动的“宣传”横幅。
+法新社引述印尼媒体报道，加沙北部、靠近以色列加固边境的印尼医院于2015年底启动，现已遭战争摧毁。废墟上悬挂一条横幅，暗指以色列去年针对伊朗展开的为期12天军事行动。
+人道主义非政府组织“印尼医疗紧急救援委员会”此前为这家医院筹集了1260亿印尼盾（约930万新元）。
+印尼外交部星期三（4月22日）在社媒平台X发声明说：“在被毁医院废墟上使用军事符号和宣传标语，尤其是将其与特定军事行动挂钩，是极具挑衅性质的行为，绝无正当理由。”
+声明强调，此举是“在侮辱这座由印尼人民为巴勒斯坦人民团结共建的人道主义设施”。
+印尼外交部说，根据国际人道主义法，所有医疗设施必须受到尊重和保护；雅加达呼吁以色列停止危及民用基础设施的行动。
+印尼方面曾在2023年驳斥以色列关于这家医院位于哈马斯地下隧道网络之上的说法。]]></summary>
         <author>
-            <name>Zeren Gu</name>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伦敦地铁工人大罢工 上班族步行骑车通勤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8936938</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8936938"/>
+        <updated>2026-04-22T12:13:08.000Z</updated>
+        <summary type="html"><![CDATA[英国伦敦地铁工作人员大罢工，数千名上班族被迫步行通勤。
+法新社报道，英国铁路、海运和运输工会（Rail, Maritime and Transport union）成员于当地时间星期二（4月21日）中午开始为期24小时罢工，抗议伦敦交通局计划将每周工作日压缩为四天。
+工会成员还会从星期四（23日）中午起再次罢工24小时，这意味着伦敦地铁网络在本周剩余时间里面临中断。
+伦敦交通局说，这次罢工导致伦敦地铁部分线路停运，网络其他区域出现严重延误。
+不过，运营商说，希思罗快线和盖特维克快线等机场接驳线路未受影响；开往法国、比利时和荷兰的欧洲之星列车也正常运行。
+伦敦的上班族星期三不得不步行上班，也有人骑单车或乘巴士通勤。
+工会称，司机在两次公投中，都反对每周工作日压缩到四天，但伦敦交通局仍决定推进这一规定。轮班时长和年假制度调整等问题，也引起工会成员争议。
+伦敦交通局首席运营官克莱尔·曼恩则说：“这些调整都是自愿实行，合同工时不会减少，希望继续保持每周五天工作模式的员工，依然可以选择这么做。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以外长促黎政府共同对抗真主党]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935957</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935957"/>
+        <updated>2026-04-22T10:30:48.000Z</updated>
+        <summary type="html"><![CDATA[以色列即将与黎巴嫩展开直接对话，以外交部长萨尔呼吁黎政府共同抗击真主党。
+法新社报道，萨尔星期三（4月22日）在庆祝以色列独立78周年的外交活动上发表讲话说：“明天，以色列与黎巴嫩的直接对话将在（美国）华盛顿重启。我呼吁黎巴嫩政府，与我们携手对抗真主党在贵国领土上建立的恐怖主义政权。”
+此次华盛顿会晤是以黎第二轮会谈，也是以黎为期10天的停火协议生效以来的首次会谈。
+以色列国防部长卡茨早前表明，以色列在黎巴嫩的军事行动将通过军事和外交双重施压，解除真主党武装。
+真主党议员本周早些时候则说，应该放弃直接谈判的道路，重新就黎巴嫩的最佳方案达成全国共识。
+萨尔向黎政府表明，携手对抗真主党的合作，对贝鲁特而言比对以色列更为紧迫。“这种合作需要道德上的清醒和勇于冒险的勇气，但为了确保你们和我们的和平未来，别无他法。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军核心弹药七周耗半：对伊行动虽足 应对同级别大国难]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935884</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935884"/>
+        <updated>2026-04-22T10:24:25.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美军导弹储备亮起红灯。最新评估显示，美军短期内仍有足够弹药维持对伊行动，但部分核心导弹库存已大幅下滑，在西太平洋形成“脆弱窗口”。
+专家警告，目前剩余关键弹药已不足以支撑与中国等近乎同等实力对手爆发大规模冲突，且补充缺口或需数年时间。
+根据美国智库战略与国际研究中心（CSIS）的最新分析，在过去七周的美伊交战中，美军至少消耗45%的精确打击导弹、至少一半的萨德拦截导弹，以及近50%的爱国者防空导弹。三名熟悉五角大楼机密库存评估的人士说，这些数字与军方掌握的情况基本吻合。
+CSIS专家指出，五角大楼今年初已签署一系列扩大导弹产能的合同，但即便产能提升，补回这些系统的交付时间仍需三至五年。
+从短期看，即便美伊停火协议破裂，美军剩余弹药仍足以支撑对伊朗的后续行动。但评估警告，目前剩余的关键弹药已不足以应对像中国这样的“近乎同等实力”对手；同时，高强度消耗也在西太平洋形成了更脆弱的防卫窗口。
+军方高层早有预警
+
+早在战争爆发前，美国军方便曾提醒总统特朗普，持续军事行动可能冲击美国武器库存，尤其是原本用于支援以色列和乌克兰的弹药与武器储备。
+相比之下，伊朗仍有能力大量生产“见证者”（Shahed）无人机和中短程弹道导弹，而且现有库存规模庞大。
+五角大楼发言人帕内尔回应称，美军拥有在总统选定的时间与地点执行任务所需的一切能力，并强调自特朗普上任以来，美军在多个战区展示了强大的实战与战备韧性。
+五角大楼预算文件显示，美国海军预计明年将采购约785枚战斧巡航导弹，远高于今年的55枚；同时，美国陆军针对爱国者PAC-3 MSE导弹的大规模采购计划预计将持续至2031年，甚至更长时间。
+
+“爱国者”首次上舰 强化舰艇防空层级
+
+另一方面，美国海军正推进把陆军使用的爱国者导弹整合进海军“宙斯盾”作战系统。
+美国国防巨头洛克希德·马丁星期二（4月21日）宣布，已获得相关整合项目首阶段合同。这标志着爱国者导弹将首次部署到海上，可望增强美军舰艇拦截无人机和导弹攻击能力，并提升舰队整体拦截弹储备深度。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普扬言封锁原油输出 让伊朗财政崩溃]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935355</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935355"/>
+        <updated>2026-04-22T09:53:26.000Z</updated>
+        <summary type="html"><![CDATA[（德黑兰／纽约综合电）美国总统特朗普宣布无限期延长与伊朗的停火协议，不过将战略重点转向打击伊朗经济，扬言继续封锁霍尔木兹海峡可切断德黑兰的石油收入，让伊朗财政崩溃。
+然而，美军的封锁线似乎面对局限。卫星图像显示，本周至少有两艘伊朗油轮突破美军封锁线，驶入阿拉伯海。 
+特朗普星期二（4月21日）深夜在自家社媒贴文说：“伊朗的财政正在崩溃！他们要霍尔木兹海峡立即开放，他们很缺钱！每天损失5亿美元。他们的军警都在抗议收不到薪水。情况紧急！”
+当天早前，美国财长贝森特在社媒X贴文重申特朗普的命令，称美国海军会继续封锁伊朗港口，财政部也会继续对伊朗经济“极限施压”。
+
+              
+美国持续对进出伊朗港口的海上交通实时封锁，图为美国空军一架KC-135同温层加油机，上周五（4月17日）在美国中央司令部责任区上空，为一架海军P-8飞机加油。（美国中央司令部脸书）
+            
+贝森特说：“过不了几天，哈尔克岛的石油储存设施将被填满，伊朗脆弱的油井将必须关闭。封禁伊朗的海运直接打击伊朗政府的主要收入命脉。” 
+美国财政部同日还宣布，对帮助伊朗获取武器的14名来自伊朗、土耳其和阿联酋的个人和公司实施新制裁。
+声明称，伊朗政权正试图重建导弹生产能力，并越来越依赖“沙赫德”（也称“见证者”）无人机来攻击美国和盟友，包括中东地区的能源基础设施。
+
+至少两艘伊朗油轮载400万桶原油突破美军封锁
+
+彭博社星期三（22日）引用货运分析公司Vortexa的数据报道，本周至少有两艘满载约400万桶石油的伊朗油轮驶出波斯湾，突破美军的封锁线。
+卫星图像显示，英雄2号（The Hero II）和海蒂号（Hedy）两艘悬挂伊朗国旗的超大型油轮在星期一（20日）越过美国确认的封锁线，驶入阿拉伯海域。
+两艘油轮的最终目的地并不明确。伊朗绝大多数原油都出口到中国，几周前，印度在美国豁免令截止前接收了两艘船的伊朗原油。 
+为了躲避美军，这些船只一般都关闭应答器，因此Vortexa使用卫星图像追踪。英雄2号上一回传送信号已是一个多月前往北驶向马六甲海峡，海蒂号最后一次发出信号则是在2月底行经阿联酋豪尔费坎（Khor Fakkan）附近海域。
+Vortexa的数据也显示，上周至今，有至少34艘与伊朗有关联的油轮和天然气船突破美军的封锁线，当中19艘驶出波斯湾，有17艘是货船。
+
+伊朗促联合国责令美国释放伊朗油船人员
+
+伊朗外长阿拉格齐星期二在社媒贴文称，美军封锁伊朗港口是“战争行为，形同违反停火协议”。他也说：“伊朗知道如何化解封禁，捍卫自身权益及抵抗欺压。”
+伊朗常驻联合国代表伊拉瓦尼同日致信联合国秘书长古特雷斯和联合国安全理事会，指责美国扣押图斯卡号（Touska）是海盗行为，敦促联合国谴责美国并责令释放船只及人员。这是伊拉瓦尼一周内第二次致函联合国。
+
+英国召集30多国规划保护海峡航运
+
+另一方面，英国星期三召开两天的会议，与30多国的军事策划人员探讨，在霍尔木兹海峡具备条件重开后，如何保护航道海运进行的“细节规划”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度学校设“喝水铃” 提醒学生喝水 防高温热浪]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935539</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935539"/>
+        <updated>2026-04-22T09:39:55.000Z</updated>
+        <summary type="html"><![CDATA[（新德里法新电）印度发布新指令，要求所有学校定时鸣钟提醒学生喝水，以应对即将到来的热浪天气。
+印度教育部周二（4月21日）发布指引，要求学校每45至60分钟响起“喝水铃”，并推行同伴制，让学生互相照顾。同时，学校应减少户外活动，避免在露天场所进行集会或上课，并加强补水的意识教育。
+印度气象局对新德里本周可能出现热浪发布“黄色预警”。预计，新德里周三气温将升至41至43摄氏度，本周晚些时候可能达42至44摄氏度。
+政府数据显示，2012年至2021年间，全国约1万1000人因中暑死亡。2024年5月，新德里气温曾升至49.2摄氏度，追平历史最高纪录。
+印度近年来高温天气频发，与全球极端气候趋势一致，对公共健康持续构成压力。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涉传播儿童性虐待内容 英国对Telegram展开调查]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935244</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935244"/>
+        <updated>2026-04-22T09:35:01.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合电）英国政府对社媒平台Telegram展开调查，有证据显示儿童性虐待内容在Telegram上传播，而且有色魔利用青少年聊天平台向孩童伸出触角。
+除了Telegram，英国政府也着手调查在线聊天室Teen Chat和Chat Avenue，查看它们是否履行职责，防止儿童使用者成为性侵犯者的诱骗对象。
+英国通信管理局执法总监凯特周二（4月21日）说，与这些公司沟通过后，认为它们并未为儿童提供足够的保护。“这些公司必须采取更多措施保护儿童，否则将根据网络安全法面临严重后果。”
+英国政府先前已发布声明警告，如果社媒平台不配合通信管理局的命令，撤下未经当事人同意而发布到平台上的私密影像，该平台所属科技公司的高管可能被追究责任，面临监禁。
+工党政府已针对犯罪与警务法案提出修正案，并将这项惩罚措施列入其中，希望借此保护民众免受低俗的网络色情内容之害。
+今年2月，英国政府表示修正案将要求科技公司在48小时内删除未经同意传播的私密影像，否则将面临最高相当于其全球收入10%的罚款，严重情况下甚至可能在英国被禁止提供服务。
+根据修正案，违法的科技公司高管面临监禁或罚款，或两者兼施；持有或发布描绘乱伦或成年人假扮儿童的色情影像属于刑事犯罪，最高可判处五年监禁。
+此前，马斯克旗下社交平台X的人工智能（AI）助手Grok，因能够生成色情深度伪造图像而引发国际谴责。
+英国网络安全事务部长纳拉扬说，太多女性的私密影像被他人擅自发布到网上，导致她们的生活支离破碎。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霍尔木兹海峡一天内三艘集装箱船遭枪击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935765</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935765"/>
+        <updated>2026-04-22T09:27:25.000Z</updated>
+        <summary type="html"><![CDATA[海事安全消息人士及英国海事贸易行动中心称，一天内已有三艘集装箱船在霍尔木兹海峡遭枪击。
+路透社报道，英国海事贸易行动中心星期三（4月22日）报告两起集装箱船遭袭事件。
+其中一艘船悬挂利比亚国旗，在阿曼东北部海域遭枪击和火箭推进榴弹袭击，船只驾驶台受损，但船员未受伤。它在受袭前曾报告，有一艘伊朗伊斯兰革命卫队炮艇靠近。
+海事安全消息人士称，这艘炮艇上共有三人，而遭袭船只最初被告知获准通过霍尔木兹海峡。
+另一艘船悬挂巴拿马国旗，在伊朗以西约八海里处遭到射击，船只未受损，船员也都安全。
+此外，第三艘船在驶离霍尔木兹海峡时，于伊朗以西约八海里处遭枪击。它同样悬挂利比亚国旗，没有受损，已在水面上停下，船员安全。
+德黑兰表明，在美方解除对前往伊朗港口船只实施的海上封锁前，伊朗会持续控制霍尔木兹海峡。
+彭博社报道称，上述枪击事件说明，当前试图穿越霍尔木兹海峡的船只，面临着更高风险。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战事致铝罐供应告急 印度健怡可乐现短缺]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935557</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935557"/>
+        <updated>2026-04-22T09:20:10.000Z</updated>
+        <summary type="html"><![CDATA[由于伊朗战争导致铝罐供应告急，健怡可乐（Diet Coke）在印度市场出现短缺。
+路透社报道，两名可口可乐印度分销商星期三（4月22日）透露，他们接到公司通知，由于伊朗战事造成铝罐供应紧张，会对供应进行配给，甚至可能无法履行部分订单。
+健怡可乐在印度仅以铝罐包装销售。波斯湾地区约占全球铝产量的9%，自2月底伊朗战事爆发、霍尔木兹海峡陷入封锁以来，波斯湾地区的铝产品一直无法顺利运输。
+可口可乐将印度视为主要增长市场，2024至2025财年销售额达500亿卢比（约6亿8000万新元），创至少2021年以来新高。
+印度无糖产品是增长最快的品类之一。市场分析公司Grand View Research数据显示，到2030年，印度低糖食品和饮料市场价值可达到47亿美元（约60亿新元），是2023年的两倍多。
+一名行业高管指出，健怡可乐短缺的原因是部分进口罐装货物运输延误，印度国内的罐装和瓶装生产成本也随之上升。
+北方邦一家杂货店的店主说，以往健怡可乐的订单能在五六小时内送达，如今已出现延迟。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[升学竞争压力大 韩国青少年滥用ADHD药物“提升学习效率”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8924007</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8924007"/>
+        <updated>2026-04-22T09:10:33.000Z</updated>
+        <summary type="html"><![CDATA[韩国近年来有越来越多青少年服用治疗注意力缺陷多动障碍症的处方药，来提升专注力或提高学习效率；调查显示，接受这类治疗剂处方的患者，过去四年增加2.3倍，使青少年滥用药物日益加剧的风险愈发引起关注。 
+韩国青少年政策研究院4月19日发布的《青少年有害药物使用实态及政策方案研究》显示，受访的3384名初中和高中生当中，5.2%曾出于非医疗目的使用过注意力缺陷多动障碍（俗称多动症，Attention-Deficit/Hyperactivity Disorder，简称ADHD）治疗剂、食欲抑制剂、安眠药、镇静剂或抗焦虑药等至少一种药物，高于“一生至少吸过一次烟”的占比（4.2%）。
+从具体类型看，ADHD治疗剂成为青少年最普遍滥用的药物。过去六个月内曾因非医疗用途服用过处方药的受访者当中，24.4%选择了ADHD药物，占比最高；之后依序是食欲抑制剂（20.0%）、安眠药（13.3%）、镇静剂和抗焦虑药（13.3%）。
+
+近四分之一受访者  每月服药20次以上
+
+用药频率现象同样严重，多达23.1%受访者平均每月服用20次以上，另有7.6%为6至19次。
+研究院指出，这个用药频率反映了服用处方药已从纯粹好奇或偶尔一试，逐步转向为提升专注力和学习效率而长期且频密持续的行为。
+同时，为提高学习效率摄入咖啡因的现象也较为普遍。
+54.5%受访者每月至少喝一次咖啡，61.2%每月至少喝一次咖啡因高含量饮料，其中10.8%每月喝超过10次。调查还显示，受访青少年当中，每10人中约有1人处于摄入过量咖啡因范围。
+问及为了什么原因喝咖啡，准备考试或完成课题占比达57.8%；另有11.2%的青少年选择了若不摄入咖啡因会感到疲惫选项，这个现象在高中二年级生（16.4%）和三年级生（15.1%）当中更为显著。
+研究警示，ADHD治疗剂原本仅用于确诊患者，但随着“这种药利于学习”的说法在某些升学竞争激烈的地区传开来，非患者使用治疗剂的现象持续增加。面对升学压力加剧，韩国青少年为维持清醒与集中注意力，对药物及咖啡因的依赖正在不断加深，恐将逐渐演变为应对学业压力的手段之一。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不超过17岁者终身禁止买烟 英国立法培养“无烟一代”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8934728</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8934728"/>
+        <updated>2026-04-22T08:58:13.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦法新电）英国国会两院通过一项法案，限定现年不超过17岁的未成年人终身禁止购买香烟。
+这项《烟草和电子烟法案》的目的是要有效遏制2009年1月1日之后出生（如今年龄不超过17岁）的人开始吸烟。这也意味着，香烟销售对象，将严格止于17岁以上的群体，目前不超过17岁的一整代人以及之后的一代代人，都将终身禁止买烟。
+法案在获得御准后将正式生效，并赋予政府更大监管权力，将室内禁烟令扩展至儿童游乐场、学校和医院周边等室外场所。同时，政府也可限制电子烟口味和包装，并把电子烟纳入禁烟场所管理。 
+这项措施也为了加强预防健康措施，缓解英国国家医疗服务体系长期面临的压力。公共卫生组织“行动控烟”（Action on Smoking and Health）认为，这是公共健康领域发展的重要一步。 
+英国卫生部长韦斯·斯特里廷阐明，新法案通过，是英国公共健康的重要转捩点，有望打造“无烟一代”，彻底杜绝人们长期吸烟成瘾与随之而来的健康风险。
+英国政府去年已宣布禁止销售一次性电子烟，原因是价格低廉、包装吸引年轻人，使用率不断上升。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军取消强制接种流感疫苗 专家忧加速部队疾病传播]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935229</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935229"/>
+        <updated>2026-04-22T08:52:39.000Z</updated>
+        <summary type="html"><![CDATA[美国战争部长宣布，所有现役和预备役美军人员现可自愿接种年度流感疫苗，无须强制接种。
+美军此前要求官兵必须接种流感疫苗，但赫格塞斯星期二（4月21日）在社媒平台X发布视频声明说：“认为所有军人无论何时何地、在任何情况下都必须强制接种流感疫苗，这种观念过于宽泛且不合情理。”
+他表明，新政策允许现役和预备役美军人员自愿接种流感疫苗，此举旨在“恢复我军联合部队的自由与力量”。
+“如果你作为受托保卫国家的美国战士，认为接种流感疫苗符合你的最大利益，那么你可以自由选择接种；你应该接种。但我们不会强迫你。”
+
+
+The War Department is once again restoring freedom to our Joint Force.  
+We are discarding the mandatory flu vaccine requirement, effective immediately. pic.twitter.com/9K5W8g0NsD
+— Secretary of War Pete Hegseth (@SecWar) April 21, 2026
+
+美国广播公司（ABC）报道称，近年来，美国军事医疗人员的接种率超过95%，而民用医疗人员接种率则不足75%。
+乔治华盛顿大学卫生政策与媒体参与中心教授兼执行主任里卡迪认为，赫格塞斯决定取消美军强制接种流感疫苗，是“严重的判断失误”。
+曾在美军服役31年的里卡迪指出，取消流感疫苗接种会导致更多人患病，进而造成更多缺勤天数和住院病例。
+“在军队中，接种疫苗不是政治作秀，而是部队防护措施。官兵生活和工作在密闭空间，流感会迅速传播，使原本健康的服役人员无法履行职责。美国疾控中心（CDC）继续建议六个月及以上人群每年接种流感疫苗，因为这仍是降低流感风险及严重并发症的最佳方式。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涉为高佣金商家推流 Booking意大利公司遭调查]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8935397</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8935397"/>
+        <updated>2026-04-22T08:42:20.000Z</updated>
+        <summary type="html"><![CDATA[意大利监管机构正在调查国际旅游预订平台Booking.com，理由是它涉嫌向支付更高佣金的住宿商家提供更突出的展示位置。
+法新社报道，意大利竞争管理局星期三（4月22日）在一份声明中说，管理局官员与意大利财政警察成员于前一天对Booking.com意大利分公司展开现场检查。
+声明说，这家平台疑似在搜索结果中，为加入“优选合作伙伴计划”的住宿供应商，提供更高的曝光度，包括突出商家质量和性价比。
+管理局认为，这个“优选合作伙伴计划”的入选标准，似乎主要取决于商家向平台支付的佣金多少，而非基于服务质量高低。
+“因此，这些商家的展示方式，加上平台强调质量的宣传，可能会让消费者误以为在其他条件相同的情况下，这些商家的整体性价比高于未加入计划的商家。”
+管理局指出，这种情况甚至可能导致消费者以高于平均水平的价格预订住宿。
+Booking.com总部位于荷兰阿姆斯特丹。平台支持45种语言，并宣称自2010年以来已促成68亿人次入住。它也提供机票和租车服务。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -321,325 +672,6 @@
 前一天，高市早苗以首相名义供奉了被称为“真榊”的供品。
 报道称，考虑到中韩两国，高市早苗不打算在持续至23日的例行大祭期间前往靖国神社参拜。高市早苗过去担任阁僚期间，也配合终战日和春秋例行大祭前往参拜。
 靖国神社位于东京千代田区，神社内供奉包括东条英机在内的14名二战甲级战犯。长期以来，日本部分政治人物、国会议员坚持参拜靖国神社，遭到日本国内众多爱好和平人士和国际社会的强烈反对。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗外长阿拉格齐：伊朗知道如何“抵抗霸凌”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8933217</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8933217"/>
-        <updated>2026-04-22T03:44:45.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外长阿拉格齐说，伊朗知道如何“抵抗霸凌”。
-法新社报道，阿拉格齐星期二（4月21日）在美伊停火协议即将到结束前在社媒平台X发文，谴责美国封锁伊朗港口是战争行为，违反停火协议。　 
-他还说，伊朗知道“如何让限制失效、如何捍卫自身利益以及如何抵抗霸凌”。
-同日，伊朗常驻联合国代表伊拉瓦尼致函联合国秘书长古特雷斯，促联合国责令美国释放伊朗被扣货船。
-美伊两周停火从美东时间4月7日傍晚6时开始生效，原定在21日傍晚到期。美国总统特朗普20日告诉媒体，停火将于美东时间22日晚上8时（新加坡23日早上8时）结束。 
-21日，特朗普在停火期限即将结束前通过Truth Social宣布，应斡旋方巴基斯坦的请求，他同意延长美伊停火期限，直至伊朗方面提交一个“统一方案”，完成相关磋商。 
-另一方面，英国国防部宣布，英国将于22日在伦敦举行为期两天的会谈，邀请来自30多个国家的军事规划人员参加，讨论由英法牵头的多国联合行动，旨在保护霍尔木兹海峡的航行安全。 
-此次会议将“推进在条件允许的情况下重新开放霍尔木兹海峡的详细规划”，此前在巴黎举行的会谈已取得“进展”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储主席人选沃什强调独立性 驳斥总统“傀儡”疑虑]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8933020</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8933020"/>
-        <updated>2026-04-22T03:22:25.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普提名的联邦储备局主席人选沃什在参议院确认听证会上多次强调，如果他获确认为下一任美联储主席，他将是一个独立的决策者，驳斥民主党人指他恐成为总统特朗普的“傀儡”的担忧。 
-彭博社报道，沃什（Kevin Warsh）在星期二（4月21日）参议院银行委员会的听证会，就货币政策的独立性、通胀治理框架、其个人财务状况接受质询。作为特朗普提名的下任美联储掌门人，沃什在开场陈述及问答环节中，极力展现其作为“独立决策者”的形象，并对美联储现行的政策框架提出了激进的改革主张。
-沃什在长达数小时的质询中，将“货币政策独立性”作为他的核心辩护词。
-他认为应该对美联储决策方式进行一系列改革，包括建立新的通胀应对框架以及改进与公众沟通方式。但他未提供太多细节，而且回避有关短期利率路径的问题。
-他也坚称，特朗普未要求他承诺任何具体的利率决定。特朗普去年重返白宫后，一直施压美联储主席鲍威尔降低利率，并多次恫言要开除鲍威尔。
-沃什在回应民主党人关于他将如何应对来自特朗普的压力时说：“总统提名我担任这一职位，如果获得确认，我将作为一名独立的决策者行事。”
-参议院银行委员会资深民主党成员沃伦在开场发言，称沃什将成为特朗普在美联储的“提线木偶”。
-共和党参议员肯尼迪直接问沃什是否会沦为特朗普的“人形木偶”，沃什给出了斩钉截铁的回应：“绝对不会。”
-新华财经指值得注意的是，沃什提出了一种颇具现实主义色彩的观点：美联储的独立性并非理所当然，而是需要通过业绩来赢得的。
-他说，“低通胀是美联储的防护盾”，“当通胀飙升……公民就会受到严重伤害，从而质疑货币政策独立性的意义。”他强调，央行必须在国会授权的范围内行事，避免涉足财政和社会政策等“越界”领域，以此维护专业性和公信力。
-RSM首席经济师布鲁苏拉斯认为沃什的发言恰到好处，让他的支持者们放心，他将继续推进美联储机制变革计划。
-受强劲经济数据和油价上涨影响，交易员下调降息预期，美债下跌。对政策更为敏感的两年期国债收益率一度上升7个基点至3.79%，与此同时，美国原油价格重新升至每桶90美元（约114新元）以上。
-沃什暗示美联储应改变多项现行做法，甚至调整政策决策方式，这与他自2011年离开美联储理事职位以来在专栏文章和演讲中所阐述的观点一致。其中一些调整，例如会后新闻发布会的频率，可以由美联储主席单独决定，其他变革则需要央行另外18名政策制定者的广泛配合。
-美联储官员通常会频繁公开发言，沃什曾对此表示不赞同，但他未必能够改变这一现状。一些更大幅度的措施调整，例如修改或取消每季度发布的经济预测和点阵图，可能会获得部分官员支持。
-在听证会前，外界普遍认为沃什的关键考验在于，能否在安抚白宫的同时保持在通胀问题上的公信力。特朗普21日早前说，如果沃什上任后不立即降息，他将感到失望。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盖茨基金会针对与爱泼斯坦关系启动外部审查]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8932658</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8932658"/>
-        <updated>2026-04-22T02:17:26.000Z</updated>
-        <summary type="html"><![CDATA[据报道，盖茨基金会已就慈善基金会与美国已故金融家、性罪犯爱泼斯坦的往来，启动外部审查。
-《华尔街日报》报道，盖茨基金会首席执行官苏兹曼（Mark Suzman）星期二（4月21日）在发给员工的备忘录中说，他已委托外部审查基金会与爱泼斯坦的往来，以及审批和发展新慈善合作伙伴关系的政策。
-这个基金会因主席比尔盖茨与爱泼斯坦的关系而深陷争议。美国司法部今年1月对外公开的爱泼斯坦档案，显示爱泼斯坦与盖茨基金会员工有通信往来。 
-报道引述苏兹曼的备忘录说：“许多方面对我们机构来说是一个充满挑战的时期，但也凸显了现在采取果断行动的至关重要性。” 
-他说，预计将在夏季发布外部审查的最新进展。
-盖茨基金会未立即回应路透社的置评请求。
-今年2月，盖茨基金会称从未向爱泼斯坦支付任何款项，也从未雇用他，并对任何员工曾以任何形式与爱泼斯坦接触表示遗憾。
-美国司法部公开的爱泼斯坦档案中，包括比尔盖茨与爱泼斯坦以及与一些脸部被涂黑女性的合照。
-盖茨曾说，他与爱泼斯坦的关系仅限于慈善事务，并称与爱泼斯坦会面是个错误。他否认曾与爱泼斯坦性侵案的受害者共处。
-盖茨基金会发言人此前告诉路透社，在2月举行的基金会全体员工大会上，盖茨为自己和爱泼斯坦往来道歉，并“承担责任”。
-比尔盖茨是盖茨基金会的主席和董事会成员。盖茨基金会由盖茨与他当时的妻子梅琳达·盖茨在2000年创立，是全球最大的健康倡议资助机构之一。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本岩手县发现疑遭熊袭击女性尸体]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8932458</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8932458"/>
-        <updated>2026-04-22T01:23:30.000Z</updated>
-        <summary type="html"><![CDATA[日本警方星期二（4月21日）在东北部岩手县发现一具女性尸体。在发现尸体前，一名警员在附近地区遭熊袭击受伤。　
-共同社报道，日本警方说，21日上午，一名56岁的警察在志波市一条溪流附近寻找一名失踪者时遭遇熊袭击，导致他的手臂和脸部受伤。
-当局说，与搜寻队同行的一名猎人射杀了这头熊。这头熊是雌熊，身长高1.3米，看起来是一头成年熊。
-一具成年女性尸体随后在警察被袭地点附近被发现。
-日本环境部说，如果确认女死者是被熊袭击，这将是2026年第一起致命熊袭击事件。上一起致命熊袭击发生在去年11月3日，地点就位于邻近的秋田县汤泽市。
-2025年全年，日本共有13人死于熊袭击。环境部的数据显示，去年7月至10月期间，岩手县共有五人死于熊袭击，其中四起发生在10月。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗武装部队称已做好“百分之百”战斗准备]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8932343</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8932343"/>
-        <updated>2026-04-22T00:37:54.000Z</updated>
-        <summary type="html"><![CDATA[伊朗武装部队哈塔姆安比亚中央总部说，伊朗武装部队已做好“百分之百”的战斗准备，将给侵略者更严厉的教训。
-新华社报道，伊朗塔斯尼姆通讯社星期三（4月22日）凌晨引述哈塔姆安比亚中央总部（Khatam al-Anbiya）发言人的话说，一旦发生针对伊朗的任何侵略行动，伊武装部队将立即对预定目标发动猛烈攻击，给美国和以色列侵略者“比以往更加严厉的教训”。
-他说，伊朗武装部队“早已做好百分之百战斗准备，随时准备开火”。
-塔斯尼姆通讯社21日晚报道，伊朗方面当晚正式拒绝出席22日在巴基斯坦首都伊斯兰堡举行的伊美第二轮会谈。报道说，伊方认为，美国正在阻挠达成任何实质性协议，参与谈判纯属浪费时间。伊朗也通过巴基斯坦方面宣布了这一消息，表示为了充分维护伊朗人民权利，伊方代表团22日将不会前往巴基斯坦。
-美国总统特朗普21日在美伊停火协议即将到期的数小时之前宣布，应斡旋方巴基斯坦的请求，他同意延长停火期限，直至伊朗方面提交一个“统一方案”，完成谈判；他同时指示美军继续对伊朗实施海上封锁并保持战备状态。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称会“铭记”不​​申请关税退税公司]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8932323</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8932323"/>
-        <updated>2026-04-22T00:29:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，他会“铭记”没有就最高法院裁定为非法关税付款寻求退款的公司。不过，他并没有具体说明放弃申请关税退款会有什么好处。 
-路透社报道，特朗普星期二（4月21日）在美国消费者新闻与商业频道（CNBC）现场直播的电话采访中说：“如何他们不申请退款，那是非常明智的。”
-美国海关与边境保护局20日开始接受进口商的电子退税申请。特朗普告诉CNBC，他从媒体报道得知，苹果公司、电商平台亚马逊和其他一些大公司尚未申请关税退款，他很高兴。 
-特朗普说：“如果他们不申请退款，我会记住他们，因为我正在努力让这个国家强大起来。”
-关税争议的焦点是特朗普政府向美国进口商征收了约1660亿美元（约2114亿新元）的关税，这些税收是来自特朗普去年4月援引《国际紧急经济权力法》（IEEPA），对几乎所有贸易伙伴征收的所谓“对等”关税。
-美国最高法院今年2月裁定《国际紧急经济权力法》并未授权总统征收大规模关税，指特朗普越权，构成违宪。 
-特朗普曾将美国进口商缴纳关税形容为爱国之举，但他在21日的电话采访中似乎把申请关税退税的美国公司称为“敌人”。
-特朗普说：“在许多情况下，敌人——这笔钱是落入敌人手里。”
-“那些人仇恨美国，我们却给他们开出数十亿美元的支票。真令人悲哀。”
-特朗普所指的显然是申请关税退款的公司，但他没有点名具体公司或进口产品的原产国。
-特朗普说，最高法院“本可以帮助我们”，维持他全面征收的全球关税政策。
-开市客（Costco）、联邦快递（FedEx）、食品大厂亿滋（Mondelez）等美国大公司，起诉美国政府以维护它们获得关税退款的权利。 
-苹果、亚马逊、美国零售连锁巨头塔吉特（Target）、沃尔玛尚未这么做，但它们仍可通过美国海关与边境保护局门户网站CAPE提交关税退款申请。
-一些专家认为，一些公司保持低调是为了避免惹恼特朗普。
-苹果、亚马逊、塔吉特、沃尔玛没有立即回应置评请求。
-苹果日前披露，关税导致公司去年的成本增加约33亿美元；一些大型零售商并没有具体说明关税对利润的冲击多大。
-去年5月，特朗普要求沃尔玛“自行承担关税”，不要提高价格。此前有报道称，亚马逊曾考虑在低价物流部门Haul的定价中单独列出关税附加费，特朗普政府指责亚马逊此举是“敌对政治行为”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊媒：伊朗拒绝出席谈判 因美国多次违背承诺]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8932184</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8932184"/>
-        <updated>2026-04-21T23:15:40.000Z</updated>
-        <summary type="html"><![CDATA[伊朗媒体星期二（4月21日）晚报道，伊朗方面拒绝出席原定于22日在巴基斯坦首都伊斯兰堡举行的伊美第二轮谈判，原因主要是美方多次违背承诺。
-新华社引述伊朗塔斯尼姆通讯社报道，消息人士透露，伊美在4月上旬达成停火协议仅几天后，美国就开始违背承诺。美国没有向以色列提出在黎巴嫩停火的要求，给伊美谈判造成严重障碍。
-报道称，巴基斯坦最初介入调解，是基于伊朗提出的10点框架进行斡旋。在首轮伊斯兰堡谈判中，美国提出许多违反这一框架的过分要求，导致会谈陷入僵局。
-报道还说，在美国迫于形势要求以色列在黎巴嫩落实停火后，伊朗宣布在达成的停火框架内开放霍尔木兹海峡，允许商船通行。但美军对进出伊朗港口的海上交通实施封锁。过去几天，美方坚持提出侵犯伊朗人民权利的过分要求，致使双方沟通不能取得任何实质性进展。 
-报道说，在当前情况下，伊朗参与谈判纯属浪费时间。伊方通过巴基斯坦方面宣布，为了维护伊朗人民的权利，伊方将不会前往巴基斯坦。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普宣布延长停火到伊朗提交“统一方案”完成谈判]]></title>
-        <id>https://www.zaobao.com/news/world/story20260422-8932146</id>
-        <link href="https://www.zaobao.com/news/world/story20260422-8932146"/>
-        <updated>2026-04-21T22:57:45.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普在美国与伊朗的停火协议即将到期的数小时之前宣布，应斡旋方巴基斯坦的请求，他同意延长停火期限，直至伊朗方面提交一个“统一方案”，完成谈判；他同时指示美军继续对伊朗实施海上封锁并保持战备状态。　 
-特朗普星期二（4月21日）下午在社媒平台Truth Social贴文说：“鉴于伊朗政府内部严重分裂——这是意料中事——巴基斯坦陆军参谋长穆尼尔和总理谢里夫请求我们暂缓对伊朗发动攻击，直到伊朗领导人和代表能够拿出一个统一方案。因此，我已指示美军继续实行封锁，并在其他所有方面保持战备状态，同时将停火期限延长到他们提交一份方案并结束谈判为止。”
-谢里夫对特朗普“欣然接受我们延长停火的请求”表示感谢。谢里夫在线上发布声明说，巴基斯坦将继续真诚地致力于通过谈判化解双方冲突，并希望双方继续遵守停火协议，在伊斯兰堡举行的第二轮谈判中达成一项全面的和平协议，以永久结束冲突。
-《纽约时报》报道，在特朗普宣布延长停火前，美国副总统万斯原定前往巴基斯坦进行第二轮和平谈判的行程已被搁置。一名美国官员透露，搁置原因是德黑兰未回应美方立场。
-特朗普的这份声明与他同日早前对美国消费者新闻与商业频道（CNBC）的说法截然不同。他告诉CNBC， 如果伊朗不满足美国的条件，他预计会轰炸伊朗，并称美军“已在摩拳擦掌”。而在20日的一次电话采访中，特朗普说，如果美伊无法达成协议，他“极不可能延长”停火。
-伊朗议会议长卡利巴夫的顾问穆罕默迪在特朗普宣布延长停火后率先做出回应，他在社媒平台写道：“特朗普延长停火毫无意义。战败方无权制定条件。”　
-特朗普延长停火导致油价下跌超过3美元（约3.80美元），股指期货21日跌幅收窄。
-美伊两周停火协议从美东时间4月7日傍晚6时开始生效，原定在21日傍晚到期。但特朗普20日告诉媒体，停火将于美东时间22日晚上8时（新加坡23日早上8时）结束。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停火将期满续谈未定 美伊双双放话做好再战准备]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8931590</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8931590"/>
-        <updated>2026-04-21T15:52:52.000Z</updated>
-        <summary type="html"><![CDATA[（德黑兰／华盛顿综合讯）美国和伊朗之间的两周停火进入倒计时，但双方是否会展开第二轮谈判仍不明朗。双方在这一片混沌之中强硬放话，宣称已做好恢复作战的准备。
-美伊同意从美东时间4月7日傍晚6时开始停火两周，换言之停火协议在当地星期二（21日）傍晚到期。不过，美国总统特朗普星期一（20日）告诉媒体，停火将于美东时间星期三（22日）晚上8时（新加坡23日早上8时）结束，似乎是在争取更多磋商时间。
-美国新闻网站Axios报道，副总统万斯将于美东时间星期二上午率团启程到伊斯兰堡，准备进行新一轮和平谈判。不过，伊朗尚未派出代表团。
-特朗普星期二接受美国消费者新闻与商业频道（CNBC）访问时指出，他不希望延长美伊的停火期限。他说：“我不想那样做。我们没有那么多时间。”
-他称，美国目前处于有利的谈判位置，最终必可达成“一项很好的协议”。 
-特朗普前一天在社媒发文称，美国同伊朗达成的协议将远胜于前总统奥巴马时期达成的“联合全面行动计划”（JCPOA，简称伊朗核协议）。 他在首个任期时退出这个协议，还称这是“史上最糟糕的协议”。
-他警告伊朗，若不尽快达成协议，美国将恢复对伊朗的军事打击。“我预计会进行轰炸。我认为带着这种态度进入谈判更好……但我们已经准备好了，军方也做好充分准备。”
-他还强调，在达成协议之前，美国不会解除对伊朗港口的封锁。“封锁正在彻底摧毁伊朗。他们每天损失5亿美元（约6亿3600万新元），即使是短期，这也是一个无法承受的数字。”
-
-伊朗：即使参与谈判也会保持战备状态
-
-据伊朗学生通讯社报道，伊朗议会主席团成员纳德里指出，在霍尔木兹海峡封锁问题解决前，“我们不会举行第二轮谈判”。
-伊朗政府发言人莫哈杰拉尼星期二则告诉伊朗国家通讯社伊通社（IRNA），即使德黑兰参与新一轮谈判，也将保持“手握扳机”的战备状态。 
-她指出，伊朗当前同时推进军事与外交双线策略，谈判代表团不会在涉及国家利益的问题上作出任何让步。不过，对于伊朗是否会继续参与谈判，她不置可否。
-伊朗外长阿拉格齐前一天说，伊朗还在综合考量各方面因素，尚未决定下一步怎么做。他指美国“持续违反停火协议”是阻碍外交进程的主因。 
-率团参与第一轮谈判的伊朗议长卡利巴夫也在社媒发文，指特朗普意图逼迫伊朗投降。“通过实施封锁并违反停火，特朗普试图把谈判桌变成投降桌，或为恢复敌对行动寻找借口。”
-他强调，伊朗绝不屈服于美国的威胁，一旦冲突再起，伊朗已“准备好在战场上打出新牌”。
-巴基斯坦持续努力斡旋，要促成双方再度谈判。巴基斯坦副总理兼外交部长达尔星期二敦促美伊考虑延长停火，为对话和外交努力提供机会。
-尽管美伊是否继续谈判仍不确定，巴基斯坦已为会场做准备，在首都伊斯兰堡部署了近2万名安保人员。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞典研究：严重不育男性患结直肠癌风险更高]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8931075</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8931075"/>
-        <updated>2026-04-21T15:28:32.000Z</updated>
-        <summary type="html"><![CDATA[瑞典隆德大学一项新研究发现，男性生育能力严重下降与结直肠癌、甲状腺癌患病风险升高之间存在关联。这提示，男性生育能力或可作为反映整体健康状况的早期信号之一。
-新华社报道，据隆德大学发布的新闻公报介绍，此前研究显示，男性生育力下降与糖尿病、心血管疾病、代谢紊乱、生殖系统癌症以及预期寿命缩短等存在明显关联。
-此次研究人员分析了1994年至2014年间首次生育的110多万名瑞典男性的信息。其中，14540人借助第二代试管婴儿技术（通常用于治疗严重男性不育症的辅助生殖技术）成为父亲。研究人员随后交叉比对这些男性的健康数据与瑞典国家癌症登记系统数据。
-结果发现，与自然受孕成为父亲的男性相比，通过这一辅助生殖技术成为父亲的男性患结直肠癌的风险约为两倍，而患甲状腺癌的风险约为三倍。
-研究人员强调，并不是辅助生殖技术本身导致了癌症。这种关联背后可能同时涉及基因构成、表观遗传和生活方式等多方面因素。
-研究人员表示，接受生育能力检测或相关治疗的男性大多集中在30岁至35岁之间，通常在完成生育诊疗后缺乏后续健康随访。未来若能结合生物标记物、基因突变、表观遗传特征以及环境因素等进一步识别高风险人群，将有助于推动相关癌症的早期筛查和预防。
-相关研究成果已发表在《欧洲流行病学杂志》上。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA探测车在火星发现“生命成分”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8931140</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8931140"/>
-        <updated>2026-04-21T14:39:20.000Z</updated>
-        <summary type="html"><![CDATA[美国国家航空航天局（NASA）的“好奇号”（Curiosity）在火星岩石样本中发现多种新的有机化合物，进一步支持火星远古时期曾具备宜居环境的证据。
-这项发表在英国科学期刊《自然通讯》（Nature Communications）的研究指出，好奇号在火星赤道附近一个干涸湖床沉积岩中确认了七种性质各异的有机化合物，其中五种是首次在火星上被识别。
-实验还暗示可能存在另一种有机化合物，结构类似构成DNA基础分子的有机物。
-有机化合物主要由碳原子与其他元素结合而成，是地球所有生命的结构基础。截至目前，火星上已发现数十种此类化合物。
-不过研究人员强调，这些化合物也可能通过非生物过程形成，尚不能作为火星曾存在生命的确定证据。
-此次实验是在火星盖尔陨石坑（Gale Crater）“格伦托里登”（Glen Torridon）区域进行。好奇号在名为“玛丽·安宁”（Mary Anning）的基岩处钻取样本。这个区域富含黏土矿物，有助于保存远古有机分子，以在火星严酷辐射环境下仍能保留。
-研究负责人、佛罗里达大学天体生物学家威廉姆斯说：“虽然我们还不能断言火星曾孕育过生命，但我们的发现进一步支持这样的证据：在地球生命起源时期，火星也是一个宜居世界。”
-研究还确认，火星近地表基岩中存在并保存着较大、结构更复杂的有机碳物质。
-去年，NASA另一台火星车“毅力号”（Perseverance）在另一处陨石坑获取的岩石样本中，也发现可能由微生物参与形成的结构特征。科学家指出，若要最终确定火星是否存在过生命证据，仍需将岩石样本带回地球进行更精密分析。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列将通过军事外交双重施压解除黎真主党武装]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8931403</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8931403"/>
-        <updated>2026-04-21T14:14:47.000Z</updated>
-        <summary type="html"><![CDATA[（耶路撒冷法新电）以色列国防部长卡茨说，以色列在黎巴嫩的军事行动将通过军事和外交双重施压，以解除黎巴嫩真主党的武装。
-卡茨星期二（4月21日）在以色列全国纪念阵亡将士和恐怖袭击受害者的仪式上说，以色列在黎巴嫩开展军事行动的首要目标是解除真主党武装，并通过军事和外交手段相结合的方式，消除对以色列北部地区的威胁。
-卡茨指出，对于来自利塔尼河以北以及黎巴嫩全境的火力，以色列将采取同样的行动。利塔尼河是横贯黎巴嫩南部的天然屏障，以色列不希望真主党在该河以南继续存在。
-以黎双方上星期同意停火10天，停火在当地时间上星期五（17日）零时生效。尽管停火协议已生效，但以色列军队仍驻扎在黎巴嫩南部，并与真主党武装分子作战。卡茨19日强调，如果以色列受到真主党威胁，以军将动用“全部武力”。
-受伊朗支持的黎巴嫩真主党于3月2日加入中东战争，以色列随后对黎巴嫩全境发动空袭，并在黎南地区部署地面部队。
-以军方一名阿拉伯语发言人20日警告黎南居民暂时不要返回边境村庄，称以色列认为真主党在当地的活动违反了停火协议。
-以色列和黎巴嫩的第二轮会谈将于星期四（23日）在华盛顿举行。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲法院裁定匈牙利反性少数法律违规]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929952</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929952"/>
-        <updated>2026-04-21T14:08:41.000Z</updated>
-        <summary type="html"><![CDATA[欧洲法院周二裁定，匈牙利限制或禁止获取同性恋、双性恋、跨性别者等（LGBTQ）群体相关内容的规定违反欧盟法律，并指这些规定使相关人群遭受污名化和边缘化。
-路透社报道，欧洲法院星期二（4月21日）指出，匈牙利的相关做法违反了《欧洲联盟条约》第二条所列出的欧盟基本价值观，也侵犯了提供和接受服务的自由，并违反数据保护法。
-这项裁决可能成为观察匈牙利新领导人马扎尔（Peter Magyar）未来社会政策走向的一项试金石。马扎尔在4月12日的选举中以压倒性优势胜出，结束了欧尔班（Viktor Orban）长达16年的执政。
-在欧尔班任内，匈牙利的LGBTQ权利持续倒退。去年，政府禁止举行骄傲游行，并允许警方使用人脸识别摄像技术识别参与者。
-马扎尔曾是欧尔班所属右翼政党青民盟的官员，他在竞选期间主张支持平等，但在LGBTQ权利问题上一直避免作出明确表态。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩统一部长泄露朝核设施致美限制情报共享 韩美同盟再起波澜]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929432</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929432"/>
-        <updated>2026-04-21T13:52:34.000Z</updated>
-        <summary type="html"><![CDATA[韩国统一部长郑东泳公开提及朝鲜核设施新地点引发争议持续发酵，不仅波及韩美情报合作，也迅速演变为韩国国内政治攻防的焦点议题。 
-韩国《朝鲜日报》星期天（4月19日）引述政府消息人士报道，美国近期已对向韩方提供的部分对朝情报实施限制。此前，美方长期通过卫星、信号监听及侦察机等多种侦察手段，与韩国共享涉朝关键情报。但在郑东泳3月6日于国会发言中提及，除平安北道宁边及南浦市降仙外，朝鲜还在平安北道龟城市设有铀浓缩设施之后，美方对相关情报的共享与流转明显趋于谨慎。
-分析认为，一旦敏感情报被公开，可能暴露侦察手段与来源，例如卫星运行轨道或通信监听网络遭反向识别，从而促使朝鲜采取伪装、加密乃至更换通信体系等反制措施，削弱情报获取能力及其实际效用。
-针对争议，郑东泳20日回应称，他的相关表述旨在说明朝鲜核问题的严重性，却被解读为情报泄露，令人遗憾。他强调，龟城核设施相关内容已在美国智库科学与国际安全研究所报告及韩国媒体中反复出现，属于公开信息，不应被视为机密外泄。
-随着风波持续扩大，总统李在明20日亲自出面回应，试图平息争议。他在对印度进行国事访问期间通过社媒表示，将郑东泳发言定性为泄露美国机密的说法并不成立，并指部分指控缺乏事实依据。 
-然而，最大在野党国民力量声称此举已损害韩美同盟信任并危及国家安全。该党国会代表宋彦锡将事件定性为前所未有的外交安保事故，并要求立即撤换郑东泳。
-对此，执政的共同民主党反驳称，在野党刻意夸大事态，散布所谓同盟危机论。它表示，龟城核设施问题早已在国际社会公开讨论，将其政治化反而不利于外交稳定。
-分析指出，此次风波不仅凸显韩美在情报共享机制上的高度敏感性，也反映出韩国国内围绕对朝政策与同盟关系的深层分歧。在半岛局势持续紧张的背景下，如何在信息透明、政策沟通与情报安全之间取得平衡，正成为韩国政府面临的一项现实考验。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北约管道优先保障军用 欧洲航油荒恐6月爆发]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8930996</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8930996"/>
-        <updated>2026-04-21T13:46:52.000Z</updated>
-        <summary type="html"><![CDATA[伊朗战争令欧洲航油供应链持续承压之际，一名交易商指出，北约一套关键能源管道系统近期因军事用途增加，挤占了部分民用航油输送能力，令包括法兰克福在内的欧洲机场供油压力加剧。
-彭博社报道，贸易公司Alkagesta创始人兼首席执行长鲁斯塔莫夫（Orkhan Rustamov）说，今年3月和4月，北约“中欧管道系统”（CEPS）鹿特丹段额外注入了更多军事级航油。这挤出了部分民用航油供应，导致包括法兰克福航空枢纽在内的欧洲机场交付量减少。
-鲁斯塔莫夫说，出于潜在安全顾虑，他不愿透露额外军事航油的具体规模，但称大致相当于意大利数天的航油和煤油需求。尽管这一体量只占欧洲市场一小部分，却进一步加重了原已紧张的供应压力。
-中欧管道系统建于冷战时期，如今已成为欧洲能源基础设施的重要组成部分，全长逾5000公里，连接炼油厂、储油库、军用空军基地和民用机场。虽然该系统长期获准用于民用，但前提始终是军事需求优先。
-德国机场协会（ADV）首席执行长拜塞尔（Ralph Beisel）则发声明说，欧洲航油供应正面临越来越大压力，机场本身无法左右价格或供应链，却直接暴露在供应风险之下。
-国际能源署（IEA）此前表明，欧洲或从6月起开始出现航油短缺；瑞安航空则称，供应商目前至少保证供油至5月中旬。交易人士并预计，欧洲5月的航油市场将比4月更趋紧张。
-美国在欧洲维持着密集的空军基地网络，这些基地既用于北约行动，也支撑美军向中东和非洲投送力量。自美以伊战争爆发以来，欧洲各地基地主要在后勤、航空运作和空中加油等方面，为美方行动提供了关键支持。同时，西北欧航油价格本月早些时候已创下历史新高，一些航空公司也已开始取消部分航班。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日相高市上台半年推翻武器出口限令 为实现军售大梦铺路]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8930630</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8930630"/>
-        <updated>2026-04-21T13:32:37.000Z</updated>
-        <summary type="html"><![CDATA[上台半年，日本首相高市早苗着手修改军售条例，为日本军舰和导弹等具杀伤性武器出口开绿灯。这不但为日本国防工业拓展海外市场规模，更扩大“朋友圈”的武器出口，为应对区域危机发挥威慑力。 
-根据2014年制定的《防卫装备转让三原则》规定，日本出口的军事物资只限救援、运输、预警、监视和扫雷设备等五个领域。高市政府星期二（4月21日）通过内阁决议松绑这个限制，允许杀伤性武器出口，无需国会提前审批。
-杀伤性武器主要是具备战斗力的护航舰艇和潜艇，根据新规，这些军备出口将由国家安全保障会议（NSC）审批，一旦获准，只需向国会报告。非武器如防弹背心等，则不受此限制。
-文件阐明，出口只限与日本签署《国防装备和技术转让协议》的17个国家，如菲律宾和印度尼西亚。但也阐明可允许向正在交战中的盟国或志同道合国家提供武器的“特殊情况”。
-
-              
-日本海上自卫队最上级隐形护卫舰三隈号停泊在神奈川县横须贺市的海上自卫队海军基地。（法新社）
-            
-日本长期以来遵守宪法的和平理念，历届政府对武器出口采取谨慎态度。这次高市政府为军售大开绿灯，被指与这个理念背道而驰。
-高市在社媒辩解说，如今没有哪个国家能够独自维护自身和平与安全，在防卫装备与伙伴国相互支持不可少。为此，日本走和平国家道路的基本原则没变。
-内阁秘书长木原稔在记者会上表示，政府将建立由相关部委和机构局长级官员组成的指挥中心来监督和推动军事装备出口。
-《每日新闻》引述日本防卫官员的谈话，透露不少国家对日本军备感兴趣。例如，澳大利亚海军的新舰艇采购计划，就选择日本海上自卫队最上级改进型驱逐舰；新西兰也对采购同款舰艇感兴趣。菲律宾和印尼则有意采购日本二手驱逐舰。消息人士称，日本的首批交易可能是向马尼拉出口二手军舰。
-为应对北京的军力增强，东京和马尼拉深化了“第一岛链”安全合作。去年，两国签署协议，简化了双方军队在对方领土的行动。今年1月，双方又放宽了军事物资交换规则。
-菲律宾国防部长特奥多罗对日本松绑武器出口表示欢迎，他在一份声明中说，这将使菲律宾能够获得最高质量的防卫物资，增强国防韧性，通过威慑作用促进地区稳定。
-美国驻日本大使格拉斯在社媒X平台说：“（日本）这一历史性举措，不仅提升与美日同盟合作国家的防御能力，还将进一步增强美国维护地区和平、捍卫自由的集体能力。”
-分析认为，日本军售伸展海外有助于扩大同盟为核心的防卫体系。当局有意通过向伙伴国提供军备，提升彼此的互操作性，为潜在的冲突建立合作网。
-日本也要以军售拓展经济和技术能力。至今，只做自卫队生意的日本军工产业急需扩大市场，以降低军事技术的研发成本，维持竞争力。
-
-中国对日本政府允许杀伤性武器出口严重关切
-
-在北京，中国外交部发言人郭嘉昆在例行记者会上答问时表示，中方对此严重关切。中国将保持高度警惕，坚决抵制日本“新型军国主义”的妄动。
-针对高市周二以首相名义向靖国神社供奉祭品，郭嘉昆表示，中方坚决反对、严厉谴责日方有关靖国神社的消极动向，已向日方提出严正交涉、强烈抗议。
-韩国政府也对日本高层向供奉二战甲级战犯的靖国神社供奉祭品深表失望和遗憾。韩国外交部发言人表示，韩方敦促日方高层正视历史，以行动体现对侵略历史的谦卑忏悔和真诚反思。韩方再次强调，这是构建基于互信、面向未来的韩日关系的重要基础。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锁定太平洋无人孤岛 日本寻第四处核废料处置场]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8930268</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8930268"/>
-        <updated>2026-04-21T13:14:40.000Z</updated>
-        <summary type="html"><![CDATA[日本政府表明，将对位于太平洋的偏远岛屿南鸟岛（Minamitori Island）展开初步调查，评估其是否适合作为高放射性核废料地下处置场选址的一部分。若最终入选，南鸟岛将成为日本第四处此类候选地点。
-日本经济产业部长赤泽亮正星期二（4月21日）与小笠原村长涩谷正昭会面时指出，政府将开展这项调查。
-南鸟岛隶属东京都小笠原村，位于日本领土最东端的太平洋海域。此前，北海道寿都町和神惠内村已完成初步调查，佐贺县玄海町的调查仍在进行中。
-日本高放射性核废料选址分为三个阶段，预计耗时20年。第一阶段的初步调查预计为期两年，主要根据公开地质资料核查土地条件及火山活动情况。参与调查的地方政府最高可获得20亿日元（约1600万新元）津贴。
-涩谷正昭说，他将“接受政府的决定”，但敦促中央政府兑现承诺，采取措施应对包括负面舆论在内的问题。赤泽亮正则说，政府将“走在最前线”，争取尽早推进到下一阶段。
-与此前三个批准调查的地区不同，南鸟岛没有平民居住，岛上仅有日本海上自卫队成员及政府人员驻留。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
