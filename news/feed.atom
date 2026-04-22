@@ -2,198 +2,368 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T02:53:54.580Z</updated>
+    <updated>2026-04-22T07:56:25.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[no title]]></title>
-        <id>1x-3553513</id>
-        <link href="https://1x.com/photo/3553513"/>
-        <updated>2026-04-22T02:53:11.828Z</updated>
-        <summary type="html"><![CDATA[no title by fifty-yen]]></summary>
+        <title type="html"><![CDATA[A Joyful Return]]></title>
+        <id>1x-3554276</id>
+        <link href="https://1x.com/photo/3554276"/>
+        <updated>2026-04-22T07:55:40.014Z</updated>
+        <summary type="html"><![CDATA[A Joyful Return by Qing Zhao]]></summary>
         <author>
-            <name>fifty-yen</name>
+            <name>Qing Zhao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rise of an Angel]]></title>
-        <id>1x-3553610</id>
-        <link href="https://1x.com/photo/3553610"/>
-        <updated>2026-04-22T02:53:11.812Z</updated>
-        <summary type="html"><![CDATA[Rise of an Angel by renekuipers]]></summary>
+        <title type="html"><![CDATA[The Penguins Trekking Down from the Iceberg]]></title>
+        <id>1x-3554251</id>
+        <link href="https://1x.com/photo/3554251"/>
+        <updated>2026-04-22T07:55:39.998Z</updated>
+        <summary type="html"><![CDATA[The Penguins Trekking Down from the Iceberg by Raymond Ren Rong Liu]]></summary>
         <author>
-            <name>renekuipers</name>
+            <name>Raymond Ren Rong Liu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ceiling]]></title>
-        <id>1x-3550451</id>
-        <link href="https://1x.com/photo/3550451"/>
-        <updated>2026-04-22T02:53:11.810Z</updated>
-        <summary type="html"><![CDATA[Ceiling by Isabelle DUPONT]]></summary>
+        <title type="html"><![CDATA[Winter’s Warm Farewell]]></title>
+        <id>1x-3537731</id>
+        <link href="https://1x.com/photo/3537731"/>
+        <updated>2026-04-22T07:55:39.995Z</updated>
+        <summary type="html"><![CDATA[Winter’s Warm Farewell by Mei Xu]]></summary>
         <author>
-            <name>Isabelle DUPONT</name>
+            <name>Mei Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turn right]]></title>
-        <id>1x-3551199</id>
-        <link href="https://1x.com/photo/3551199"/>
-        <updated>2026-04-22T02:53:11.808Z</updated>
-        <summary type="html"><![CDATA[Turn right by Rana Jabeen]]></summary>
+        <title type="html"><![CDATA[Landing on The Ice]]></title>
+        <id>1x-3554243</id>
+        <link href="https://1x.com/photo/3554243"/>
+        <updated>2026-04-22T07:55:39.992Z</updated>
+        <summary type="html"><![CDATA[Landing on The Ice by Jun Zuo]]></summary>
         <author>
-            <name>Rana Jabeen</name>
+            <name>Jun Zuo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>1x-3554035</id>
-        <link href="https://1x.com/photo/3554035"/>
-        <updated>2026-04-22T02:53:11.804Z</updated>
-        <summary type="html"><![CDATA[. by Miguel Angel Vidal]]></summary>
+        <title type="html"><![CDATA[Mundari Soul]]></title>
+        <id>1x-3514454</id>
+        <link href="https://1x.com/photo/3514454"/>
+        <updated>2026-04-22T07:55:39.990Z</updated>
+        <summary type="html"><![CDATA[Mundari Soul by Amihay Shraga]]></summary>
         <author>
-            <name>Miguel Angel Vidal</name>
+            <name>Amihay Shraga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[color]]></title>
+        <id>1x-3554133</id>
+        <link href="https://1x.com/photo/3554133"/>
+        <updated>2026-04-22T07:55:39.981Z</updated>
+        <summary type="html"><![CDATA[color by wooorry]]></summary>
+        <author>
+            <name>wooorry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Born Into Responsibility]]></title>
+        <id>1x-3553919</id>
+        <link href="https://1x.com/photo/3553919"/>
+        <updated>2026-04-22T07:55:39.977Z</updated>
+        <summary type="html"><![CDATA[Born Into Responsibility by Ilana Lam]]></summary>
+        <author>
+            <name>Ilana Lam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Margins of Knowledge]]></title>
+        <id>1x-3468723</id>
+        <link href="https://1x.com/photo/3468723"/>
+        <updated>2026-04-22T07:55:39.974Z</updated>
+        <summary type="html"><![CDATA[Margins of Knowledge by LILY PHOTOGRAPHY]]></summary>
+        <author>
+            <name>LILY PHOTOGRAPHY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silhouette]]></title>
+        <id>1x-3546937</id>
+        <link href="https://1x.com/photo/3546937"/>
+        <updated>2026-04-22T07:55:39.971Z</updated>
+        <summary type="html"><![CDATA[Silhouette by Kazuhiro Komai]]></summary>
+        <author>
+            <name>Kazuhiro Komai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadhus]]></title>
+        <id>1x-3551471</id>
+        <link href="https://1x.com/photo/3551471"/>
+        <updated>2026-04-22T07:55:39.969Z</updated>
+        <summary type="html"><![CDATA[Sadhus by Giovanni Cavalli]]></summary>
+        <author>
+            <name>Giovanni Cavalli</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3550127</id>
-        <link href="https://1x.com/photo/3550127"/>
-        <updated>2026-04-22T02:53:11.800Z</updated>
-        <summary type="html"><![CDATA[Untitled by Atsuyuki Watanabe]]></summary>
+        <id>1x-3554322</id>
+        <link href="https://1x.com/photo/3554322"/>
+        <updated>2026-04-22T07:55:39.962Z</updated>
+        <summary type="html"><![CDATA[Untitled by MITSUKI]]></summary>
         <author>
-            <name>Atsuyuki Watanabe</name>
+            <name>MITSUKI</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Burn]]></title>
-        <id>1x-3553753</id>
-        <link href="https://1x.com/photo/3553753"/>
-        <updated>2026-04-22T02:53:11.796Z</updated>
-        <summary type="html"><![CDATA[Burn by George Digalakis]]></summary>
+        <title type="html"><![CDATA[Jumping Tanager]]></title>
+        <id>1x-3553057</id>
+        <link href="https://1x.com/photo/3553057"/>
+        <updated>2026-04-22T07:55:39.960Z</updated>
+        <summary type="html"><![CDATA[Jumping Tanager by Serena Duan]]></summary>
         <author>
-            <name>George Digalakis</name>
+            <name>Serena Duan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PPMaster]]></title>
-        <id>1x-3553763</id>
-        <link href="https://1x.com/photo/3553763"/>
-        <updated>2026-04-22T02:53:11.793Z</updated>
-        <summary type="html"><![CDATA[PPMaster by Łukasz Pietrzak]]></summary>
+        <title type="html"><![CDATA[Palace of Solitude]]></title>
+        <id>1x-3554212</id>
+        <link href="https://1x.com/photo/3554212"/>
+        <updated>2026-04-22T07:55:39.957Z</updated>
+        <summary type="html"><![CDATA[Palace of Solitude by Bertrand RENAUD]]></summary>
         <author>
-            <name>Łukasz Pietrzak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Passage]]></title>
-        <id>1x-3551815</id>
-        <link href="https://1x.com/photo/3551815"/>
-        <updated>2026-04-22T02:53:11.749Z</updated>
-        <summary type="html"><![CDATA[Morning Passage by Jianmei Wang]]></summary>
-        <author>
-            <name>Jianmei Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[trees in a mirror]]></title>
-        <id>1x-3553193</id>
-        <link href="https://1x.com/photo/3553193"/>
-        <updated>2026-04-22T02:53:11.718Z</updated>
-        <summary type="html"><![CDATA[trees in a mirror by Roswitha Schleicher-Schwarz]]></summary>
-        <author>
-            <name>Roswitha Schleicher-Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just finished eating]]></title>
-        <id>1x-3554033</id>
-        <link href="https://1x.com/photo/3554033"/>
-        <updated>2026-04-22T02:53:11.707Z</updated>
-        <summary type="html"><![CDATA[Just finished eating by Phillip Chang]]></summary>
-        <author>
-            <name>Phillip Chang</name>
+            <name>Bertrand RENAUD</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Urbanism]]></title>
-        <id>1x-3548614</id>
-        <link href="https://1x.com/photo/3548614"/>
-        <updated>2026-04-22T02:53:11.704Z</updated>
+        <id>1x-3551103</id>
+        <link href="https://1x.com/photo/3551103"/>
+        <updated>2026-04-22T07:55:39.954Z</updated>
         <summary type="html"><![CDATA[Urbanism by Fulvio Pellegrini]]></summary>
         <author>
             <name>Fulvio Pellegrini</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skyline of the City at Dusk]]></title>
-        <id>1x-3553495</id>
-        <link href="https://1x.com/photo/3553495"/>
-        <updated>2026-04-22T02:53:11.696Z</updated>
-        <summary type="html"><![CDATA[Skyline of the City at Dusk by Chong Q. Wu]]></summary>
+        <title type="html"><![CDATA[From the Workplace]]></title>
+        <id>1x-3553935</id>
+        <link href="https://1x.com/photo/3553935"/>
+        <updated>2026-04-22T07:55:39.951Z</updated>
+        <summary type="html"><![CDATA[From the Workplace by Sameerah Abbas]]></summary>
         <author>
-            <name>Chong Q. Wu</name>
+            <name>Sameerah Abbas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wild Horses in Monument Valley]]></title>
-        <id>1x-3553069</id>
-        <link href="https://1x.com/photo/3553069"/>
-        <updated>2026-04-22T02:53:11.688Z</updated>
-        <summary type="html"><![CDATA[Wild Horses in Monument Valley by Catherine Wang]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3554118</id>
+        <link href="https://1x.com/photo/3554118"/>
+        <updated>2026-04-22T07:55:39.949Z</updated>
+        <summary type="html"><![CDATA[Untitled by SUSUMU SASAKI]]></summary>
         <author>
-            <name>Catherine Wang</name>
+            <name>SUSUMU SASAKI</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expansion]]></title>
-        <id>1x-3552450</id>
-        <link href="https://1x.com/photo/3552450"/>
-        <updated>2026-04-22T02:53:11.676Z</updated>
-        <summary type="html"><![CDATA[Expansion by Szabo Zsolt Andras]]></summary>
+        <title type="html"><![CDATA[Ingen kan få tid tillbaka.]]></title>
+        <id>1x-3553555</id>
+        <link href="https://1x.com/photo/3553555"/>
+        <updated>2026-04-22T07:55:39.947Z</updated>
+        <summary type="html"><![CDATA[Ingen kan få tid tillbaka. by Ylva Sjögren]]></summary>
         <author>
-            <name>Szabo Zsolt Andras</name>
+            <name>Ylva Sjögren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quiet Bloom]]></title>
-        <id>1x-3553776</id>
-        <link href="https://1x.com/photo/3553776"/>
-        <updated>2026-04-22T02:53:11.531Z</updated>
-        <summary type="html"><![CDATA[Quiet Bloom by YU LIN]]></summary>
+        <title type="html"><![CDATA[Mixed Emotions]]></title>
+        <id>1x-3546965</id>
+        <link href="https://1x.com/photo/3546965"/>
+        <updated>2026-04-22T07:55:39.944Z</updated>
+        <summary type="html"><![CDATA[Mixed Emotions by Kieron Long]]></summary>
         <author>
-            <name>YU LIN</name>
+            <name>Kieron Long</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Young Lion]]></title>
-        <id>1x-3544350</id>
-        <link href="https://1x.com/photo/3544350"/>
-        <updated>2026-04-22T02:53:11.483Z</updated>
-        <summary type="html"><![CDATA[Young Lion by Dirk Koster]]></summary>
+        <title type="html"><![CDATA[The Lift of Survival]]></title>
+        <id>1x-3549038</id>
+        <link href="https://1x.com/photo/3549038"/>
+        <updated>2026-04-22T07:55:39.938Z</updated>
+        <summary type="html"><![CDATA[The Lift of Survival by Zeren Gu]]></summary>
         <author>
-            <name>Dirk Koster</name>
+            <name>Zeren Gu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sugar factory]]></title>
-        <id>1x-3551238</id>
-        <link href="https://1x.com/photo/3551238"/>
-        <updated>2026-04-22T02:53:11.480Z</updated>
-        <summary type="html"><![CDATA[Sugar factory by Jose A. Parra]]></summary>
+        <title type="html"><![CDATA[乌克兰请土耳其安排泽连斯基普京会晤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8934800</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8934800"/>
+        <updated>2026-04-22T07:30:50.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰请求土耳其主持乌克兰总统泽连斯基与俄罗斯总统普京的会晤，地点可以选在任何地方，只要不是俄罗斯和白罗斯。
+路透社报道，乌克兰外交部长瑟比加星期二（4月21日）告诉记者，他已请求安卡拉方面主持乌克兰和俄罗斯两国元首的会谈，基辅愿意考虑任何会晤地点，除了俄白两地。
+他并未透露土耳其作何回应。
+泽连斯基一直希望与普京直接会晤，以期加速推动结束持续四年多的战争。
+俄乌官员曾在伊斯坦布尔和阿联酋等地进行多轮谈判，但至今没能达成和平协议。]]></summary>
         <author>
-            <name>Jose A. Parra</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mutua Woman portrait, Angola]]></title>
-        <id>1x-3300824</id>
-        <link href="https://1x.com/photo/3300824"/>
-        <updated>2026-04-22T02:53:11.471Z</updated>
-        <summary type="html"><![CDATA[Mutua Woman portrait, Angola by Francisco Mendoza Ruiz]]></summary>
+        <title type="html"><![CDATA[英海上贸易行动办公室：阿曼附近集装箱船遭伊朗袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8934178</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8934178"/>
+        <updated>2026-04-22T06:21:08.000Z</updated>
+        <summary type="html"><![CDATA[英国海上贸易行动办公室收到一艘集装箱船在阿曼东北15海里处遇袭的报告。 
+新华社报道，英国海上贸易行动办公室星期三（4月22日）在官网通报，集装箱船的船长说，伊朗伊斯兰革命卫队一艘炮艇靠近集装箱船并开火，导致集装箱船身严重受损。目前，所有船员安全。]]></summary>
         <author>
-            <name>Francisco Mendoza Ruiz</name>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国告知盟友 须为中国以外地区关键矿产支付“安全溢价”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8934082</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8934082"/>
+        <updated>2026-04-22T05:55:20.000Z</updated>
+        <summary type="html"><![CDATA[美国贸易代表格里尔已告知美国盟友，他们必须为从中国以外地区采购的关键矿产支付更高价格。
+格里尔在《金融时报》星期三（4月22日）刊登的访问中说，美国盟友必须做好准备，为采购自包括欧洲在内的拟议贸易伙伴的矿产，支付一笔“国家安全溢价”。
+格里尔正在为合作伙伴起草一份包含具体细节的草案。他说：“我们须要支付溢价，我称之为国家安全溢价，为了确保供应链安全，我们所有人都得支付国家安全溢价。”
+他认为，各国过于关注商业成本，是导致西方国家依赖中国关键矿产供应的原因。
+格里尔说：“当贸易伙伴对价格下限或相关机制的经济成本表示担忧时，我会说，你们所说的是成本效益，正是我们目前所处境地的原因。”
+格里尔此前曾说，需要对稀土矿产建立某种价格机制。
+美国一直在努力获取关键矿产资源，尤其是目前由中国企业主导的稀土供应链。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国再制裁伊朗武器供应商 贝森特：继续对伊“极限施压”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8933610</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8933610"/>
+        <updated>2026-04-22T05:02:43.000Z</updated>
+        <summary type="html"><![CDATA[美国对帮助伊朗政府获取武器的14名个人和公司实施新的制裁，被制裁目标分别位于伊朗、土耳其、阿拉伯联合酋长国，被指控参与了代表伊朗采购或运输武器或零部件的活动。
+路透社报道，美国财政部星期二（4月21日）发表声明说，伊朗政权正试图重建导弹生产能力，而且越来越依赖“沙赫德”（也称“见证者”）攻击型无人机来攻击美国和美国盟友，包括中东地区的能源基础设施。
+美国财政部长贝森特同日在社媒平台X发文称，美国海军将继续封锁伊朗港口，美国财政部将继续对伊朗“极限施压”。
+贝森特说，不出几天，哈尔克岛的储油设施将达到饱和，伊朗油井将关闭。限制伊朗海上贸易可直接打击它主要收入渠道。
+他还说，美国财政部将继续通过“经济狂怒”行动对伊朗“极限施压”，以“系统性地削弱伊朗筹集、转移、回流资金的能力”。
+美国总统特朗普21日在美伊停火期限即将结束前宣布，应斡旋方巴基斯坦的请求，他同意延长停火期限，直至伊朗伊朗方面能够拿出一个“统一方案”并完成谈判；他同时指示美军继续对伊朗实施海上封锁并保持战备状态。 
+伊朗外长阿拉格齐在X平台贴文，谴责美国封锁伊朗港口是战争行为，违反停火协议，并称伊朗知道如何“抵抗霸凌”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国面对“空椅子”找台阶？分析：伊朗正主导美伊谈判节奏]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8932531</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8932531"/>
+        <updated>2026-04-22T04:26:59.000Z</updated>
+        <summary type="html"><![CDATA[美伊停火协议到期前夕，美国总统特朗普宣布无限期延长停火。这番“主动克制”的表态，在德黑兰坚拒和谈、亦未请求延期的背景下，更像是华盛顿面对“空椅子”时，为自己争取回旋空间。 
+专家指出，华盛顿在缺乏明确战略终点的情况下陷入了被动，令德黑兰在一定程度上掌握了谈判节奏。
+至于局势下一步如何发展，一方面要看美国封锁能否真正压缩伊朗经济空间，另一方面也取决于中国等第三方是否愿意推动美伊谈判重启。
+特朗普星期二（4月21日）宣布，应斡旋方巴基斯坦的请求，他同意延长停火期限，直至伊朗方面提交一个“统一方案”。他补充称，延长停火的决定也考虑到“伊朗政府内部存在严重分歧，而这并不令人意外”。
+
+              
+特朗普发文宣布，同意将停火期限延长至伊朗方面提交“统一方案”为止，同时指示美军继续实施海上封锁并保持战备状态。（取自特朗普的社媒平台Truth Social）
+            
+伊朗视停火延期为美国“变相让步”
+
+南洋理工大学拉惹勒南国际研究院兼任高级研究员多西（James Dorsey）接受《联合早报》采访时分析，特朗普宣布无限期延长停火，本质上是把僵局的“球”踢回给伊朗，并以此展示美方正静待德黑兰提出统一的谈判提案。
+但多西判断，即便伊朗随后抛出新方案，核心诉求预计也不会与首轮谈判时有实质性出入。
+他进一步指出，特朗普在发出强硬军事威胁后却未恢复战事，这种姿态很可能被德黑兰解读为自身已成功顶住压力，从而将停火延期视为美方的一种“变相让步”，这意味着伊朗短期内未必有动力主动调整谈判立场。　　
+
+伊朗正在主导谈判节奏
+
+澳大利亚迪肯大学全球伊斯兰政治学教授巴顿（Greg Barton）接受《联合早报》采访时称，特朗普政府表现“极其无能”，甚至可能是美国现代史上表现最差的一届政府之一。他认为，在当前僵局下，“伊朗确实正在主导谈判的节奏”。
+“德黑兰政权非常希望找到结束这场冲突的办法，但也必须确保政权生存，因此绝不愿在谈判中显得屈服。伊朗并非拒绝谈判，而是在争取以掌握节奏、获取一定优势的方式进入对话。”
+回顾此前的博弈过程，伊方在首轮谈判中已亮明底线：要求美国立即停止海上封锁及军事施压，并释放被扣押船只。德黑兰多次表明，不会接受在持续封锁与高压条件下展开、由美方单方面设定条件的谈判。
+目前，双方的矛盾焦点依然高度集中：霍尔木兹海峡的航行安全与通行安排，以及核问题上的实质进展，仍是横亘在美伊之间、短期内难以跨越的两大鸿沟。
+
+中国或成为打破僵局的关键第三方
+
+巴顿分析称，若谈判要重启，关键外部推手很可能不在华盛顿，而在北京。
+“中国作为伊朗油气的最大买家，最看重地区稳定和能源流动的确定性。因此，中国似乎极有可能支持沙特阿拉伯和波斯湾国家与巴基斯坦合作，通过悄悄说服伊朗有可能实现其所需的结果，帮助这些谈判重新启动并取得成功。”
+不过，美方内部也不乏继续加码的呼声。
+美国前代理国家安全顾问、退役陆军中将凯洛格（Keith Kellogg）接受福克斯新闻访问时直言，特朗普不应再向伊朗寻求更多谈判，而应趁美国仍握有战略优势，进一步升级军事与经济施压。
+凯洛格建议，美方应充分利用当前的战场优势与海上封锁，将打击目标从发电厂等基础设施转向真正的“经济命脉”，例如燃料产业等关键部门。他说：“所以我认为我们还有牌可打。”　
+此外，已被双层封锁的霍尔木兹海峡能否解封，也是决定局势走向的终极变量。
+多西判断：“若封锁显著压缩伊朗的经济空间，局势可能重新转向军事对抗；若封锁未能迫使德黑兰让步，双方则可能在封锁持续下陷入低强度僵持。”
+伊朗常驻联合国代表伊拉瓦尼也说，只要华盛顿结束海上封锁，下一轮谈判就可在伊斯兰堡举行。这表明，对德黑兰而言，解除封锁仍是重启第二轮谈判的关键前提。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美伊谈判前景不明 布伦特油价一度“破百”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8933485</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8933485"/>
+        <updated>2026-04-22T04:20:19.000Z</updated>
+        <summary type="html"><![CDATA[受中东地区局势持续紧张影响，国际大宗商品价格星期二（4月21日）剧烈波动，国际原油价格明显上涨，伦敦布伦特原油期货价格盘中一度突破每桶100美元（约127新元），国际黄金、白银价格大幅下跌。
+新华社报道，美伊能否举行第二轮谈判牵动市场情绪。伊朗方面21日正式拒绝出席预期于22日举行的第二轮谈判。 
+美国总统特朗普21日在美伊停火期限即将结束前宣布，应巴基斯坦方面请求，他同意延长美伊停火期限，直至伊朗方面提交一个“统一方案”并完成相关磋商。 
+当天早些时候，特朗普称不希望延长同伊朗的停火协议，美军已做好作战准备。多方消息存在不确定性，国际大宗商品市场行情剧烈震荡。
+截至21日收盘，纽约商品交易所6月交货的轻质原油期货价格上涨2.25美元，收于每桶89.67美元，涨幅为2.57%；6月交货的伦敦布伦特原油期货价格上涨3美元，收于每桶98.48美元，涨幅为3.14%。
+布伦特原油期货价格盘中一度超过每桶101美元，突破100美元心理关口。
+另外，纽约商品交易所6月黄金期价当天下跌，跌破每盎司4800美元整数关口；5月白银期货价格也一度跌破77美元。此后，国际金价、银价小幅回升。
+有分析认为，除中东局势直接影响外，美元指数走强、美国国债收益率上升也导致金价走低。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高市早苗向靖国神社献祭祀费 内阁一大臣参拜]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8933395</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8933395"/>
+        <updated>2026-04-22T04:09:07.000Z</updated>
+        <summary type="html"><![CDATA[日本首相高市早苗星期三（4月22日）配合东京九段北靖国神社的春季例行大祭，通过自民党总务会长有村治子，以自民党总裁身份自费献上祭祀费“玉串料”。　 
+共同社报道，日本经济财政政策担当大臣城内实22日上午参拜了供奉有二战甲级战犯的靖国神社，这是高市早苗内阁大臣首次参拜。
+126名来自日本跨党派国会议员联盟“大家一起参拜靖国神社”的成员也集体参拜。
+前一天，高市早苗以首相名义供奉了被称为“真榊”的供品。
+报道称，考虑到中韩两国，高市早苗不打算在持续至23日的例行大祭期间前往靖国神社参拜。高市早苗过去担任阁僚期间，也配合终战日和春秋例行大祭前往参拜。
+靖国神社位于东京千代田区，神社内供奉包括东条英机在内的14名二战甲级战犯。长期以来，日本部分政治人物、国会议员坚持参拜靖国神社，遭到日本国内众多爱好和平人士和国际社会的强烈反对。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长阿拉格齐：伊朗知道如何“抵抗霸凌”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8933217</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8933217"/>
+        <updated>2026-04-22T03:44:45.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外长阿拉格齐说，伊朗知道如何“抵抗霸凌”。
+法新社报道，阿拉格齐星期二（4月21日）在美伊停火协议即将到结束前在社媒平台X发文，谴责美国封锁伊朗港口是战争行为，违反停火协议。　 
+他还说，伊朗知道“如何让限制失效、如何捍卫自身利益以及如何抵抗霸凌”。
+同日，伊朗常驻联合国代表伊拉瓦尼致函联合国秘书长古特雷斯，促联合国责令美国释放伊朗被扣货船。
+美伊两周停火从美东时间4月7日傍晚6时开始生效，原定在21日傍晚到期。美国总统特朗普20日告诉媒体，停火将于美东时间22日晚上8时（新加坡23日早上8时）结束。 
+21日，特朗普在停火期限即将结束前通过Truth Social宣布，应斡旋方巴基斯坦的请求，他同意延长美伊停火期限，直至伊朗方面提交一个“统一方案”，完成相关磋商。 
+另一方面，英国国防部宣布，英国将于22日在伦敦举行为期两天的会谈，邀请来自30多个国家的军事规划人员参加，讨论由英法牵头的多国联合行动，旨在保护霍尔木兹海峡的航行安全。 
+此次会议将“推进在条件允许的情况下重新开放霍尔木兹海峡的详细规划”，此前在巴黎举行的会谈已取得“进展”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储主席人选沃什强调独立性 驳斥总统“傀儡”疑虑]]></title>
+        <id>https://www.zaobao.com/news/world/story20260422-8933020</id>
+        <link href="https://www.zaobao.com/news/world/story20260422-8933020"/>
+        <updated>2026-04-22T03:22:25.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普提名的联邦储备局主席人选沃什在参议院确认听证会上多次强调，如果他获确认为下一任美联储主席，他将是一个独立的决策者，驳斥民主党人指他恐成为总统特朗普的“傀儡”的担忧。 
+彭博社报道，沃什（Kevin Warsh）在星期二（4月21日）参议院银行委员会的听证会，就货币政策的独立性、通胀治理框架、其个人财务状况接受质询。作为特朗普提名的下任美联储掌门人，沃什在开场陈述及问答环节中，极力展现其作为“独立决策者”的形象，并对美联储现行的政策框架提出了激进的改革主张。
+沃什在长达数小时的质询中，将“货币政策独立性”作为他的核心辩护词。
+他认为应该对美联储决策方式进行一系列改革，包括建立新的通胀应对框架以及改进与公众沟通方式。但他未提供太多细节，而且回避有关短期利率路径的问题。
+他也坚称，特朗普未要求他承诺任何具体的利率决定。特朗普去年重返白宫后，一直施压美联储主席鲍威尔降低利率，并多次恫言要开除鲍威尔。
+沃什在回应民主党人关于他将如何应对来自特朗普的压力时说：“总统提名我担任这一职位，如果获得确认，我将作为一名独立的决策者行事。”
+参议院银行委员会资深民主党成员沃伦在开场发言，称沃什将成为特朗普在美联储的“提线木偶”。
+共和党参议员肯尼迪直接问沃什是否会沦为特朗普的“人形木偶”，沃什给出了斩钉截铁的回应：“绝对不会。”
+新华财经指值得注意的是，沃什提出了一种颇具现实主义色彩的观点：美联储的独立性并非理所当然，而是需要通过业绩来赢得的。
+他说，“低通胀是美联储的防护盾”，“当通胀飙升……公民就会受到严重伤害，从而质疑货币政策独立性的意义。”他强调，央行必须在国会授权的范围内行事，避免涉足财政和社会政策等“越界”领域，以此维护专业性和公信力。
+RSM首席经济师布鲁苏拉斯认为沃什的发言恰到好处，让他的支持者们放心，他将继续推进美联储机制变革计划。
+受强劲经济数据和油价上涨影响，交易员下调降息预期，美债下跌。对政策更为敏感的两年期国债收益率一度上升7个基点至3.79%，与此同时，美国原油价格重新升至每桶90美元（约114新元）以上。
+沃什暗示美联储应改变多项现行做法，甚至调整政策决策方式，这与他自2011年离开美联储理事职位以来在专栏文章和演讲中所阐述的观点一致。其中一些调整，例如会后新闻发布会的频率，可以由美联储主席单独决定，其他变革则需要央行另外18名政策制定者的广泛配合。
+美联储官员通常会频繁公开发言，沃什曾对此表示不赞同，但他未必能够改变这一现状。一些更大幅度的措施调整，例如修改或取消每季度发布的经济预测和点阵图，可能会获得部分官员支持。
+在听证会前，外界普遍认为沃什的关键考验在于，能否在安抚白宫的同时保持在通胀问题上的公信力。特朗普21日早前说，如果沃什上任后不立即降息，他将感到失望。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -475,178 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美军突袭印度洋油轮 扣押涉运伊朗原油受制裁船只]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8931042</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8931042"/>
-        <updated>2026-04-21T12:45:48.000Z</updated>
-        <summary type="html"><![CDATA[美国战争部星期二（4月21日）宣布，美方于深夜在印太地区登临一艘“无国籍”的受制裁船只。
-根据美国财政部外国资产控制办公室（OFAC）资料，这艘名为“M/T Tifani”的船只因运输伊朗石油而受到制裁。
-航运追踪网站MarineTraffic则显示，拦截事件似乎发生在印度洋海域。
-美国战争部在社媒发声明说，美军部队连夜对这艘受制裁船只实施登临检查、海上拦截和登船行动，过程未发生意外。
-声明指出，美国决心“打击非法网络，并拦截为伊朗提供实质支持的受制裁船只，无论它们在哪里运作”。
-法新社确认，这艘船只与伊朗相关活动有牵连。
-此次行动之前，美国海军周日曾在阿曼湾向一艘悬挂伊朗国旗的船只开火并将其扣押。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霍尔木兹海峡对峙持续 伊朗军方称助一艘油轮突破美军封锁回国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8930226</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8930226"/>
-        <updated>2026-04-21T12:39:11.000Z</updated>
-        <summary type="html"><![CDATA[（德黑兰/华盛顿综合电）尽管美国和伊朗可能举行第二轮谈判，双方继续在霍尔木兹海峡紧张对峙。伊朗军方周二称，伊朗一艘油轮受到美国海军多次警告与威胁，但最终突破封锁回国。伊朗坚称，仍牢牢地掌控着霍尔木兹海峡。
-同日，美国五角大楼发声明说，美军夜里在印太司令部责任区内，登上一艘受制裁的无国籍油轮，过程中没有发生任何意外。
-声明说：“正如我们已经表明的那样，我们将开展全球海上执法行动，以打击为伊朗提供物质支持的非法网络，并拦截参与其中的受制裁船只——无论它们在何处活动。”
-伊朗军方周二（4月21日）说，伊朗油轮Sili City号前一晚在伊军支援下，从阿拉伯海驶入伊朗海域，并已在伊朗南部港口停靠。
-伊朗塔斯尼姆通讯社同日报道，伊朗伊斯兰革命卫队海军正严密控制霍尔木兹海峡，海峡出入口已被封锁。报道称，在伊朗获得彻底解除海上封锁的必要保证之前，任何船只均无权通过。 
-此前一天（20日），塔斯尼姆通讯社报道，悬挂伊朗国旗的舒贾2号（Shoja 2）货轮正在通过霍尔木兹海峡。这艘货轮自伊朗南部的沙希德拉贾伊（Shahid Rajaee）港出发，目的地是印度根德拉（Kandla）港。
-船舶追踪数据显示，舒贾2号周二穿越海峡进入阿曼湾，已航行至阿联酋豪尔费坎（Khor Fakkan）附近海域。据彭博社报道，周二还有一艘货船与一艘油轮穿越海峡，这两艘船与伊朗并无明显关联。
-
-英媒：至少26艘与伊朗“影子舰队”有关的船只突围
-
-美军自上周起封锁所有进出伊朗港口的海上交通。美国中央司令部周一说，至今已阻止27艘船开往或开离伊朗。但英国航运媒体《劳埃德船舶日报》同日报道，至少有26艘与伊朗“影子舰队”有关的船只突破美军的海上封锁。
-美军星期天在阿拉伯海向伊朗货船图斯卡号（Touska）开火，并扣押这艘船，使霍尔木兹海峡局势进一步升级。
-伊朗外交部周二发声明，强烈谴责美军星期天（19日）在阿曼湾袭击伊朗货船是海盗行为和恐怖主义行径，并要求美方立即释放这艘船与船上人员。
-伊朗称，美国此举违反停火协议，并可能带来非常危险的后果。伊方已正式就此事向联合国秘书长与国际海事组织申诉。
-美国总统特朗普周二称，美军昨天拦截了一艘可能载有中国给伊朗“礼物”的船只。他告诉美国消费者新闻与商业频道（CNBC）：“我有点惊讶，因为我和中国国家主席习近平的关系非常好，而且我以为我们已达成共识。” 
-伊朗军方说，图斯卡号是从中国出发，但不清楚特朗普指的是否为这艘船。他一周前说，习近平向他保证，中国不会向伊朗运送武器。 
-《纽约时报》引述美军官员的话说，图斯卡号船员很快将返回伊朗。据悉，美国海军陆战队正在搜查货船上多达5000个集装箱，美国将在搜查完成后，决定如何处置这艘船。
-伊朗上周五（17日）宣布重新开放霍尔木兹海峡，但因美国拒绝解除对伊朗港口的海上封锁，伊朗隔天再度关闭海峡。目前，海峡交通仍处于近乎停滞的状态。
-国际能源署署长比罗尔在法国国际广播电台周二播出的采访中说，美以伊冲突引发全球历史上最严重的能源危机。
-联合国秘书长古特雷斯的发言人迪雅里克同日说，古特雷斯对过去48小时围绕霍尔木兹海峡发生的海上事件感到担忧，并强调海峡的航行自由必须得到各方尊重。
-
-据报有骗子冒充伊朗当局骗航运公司付过路费　
-
-另外，希腊海事风险管理公司MARISKS警告，有身份不明的诈骗分子冒充伊朗当局，要求一些航运公司用加密货币支付过路费，换取安全通过霍尔木兹海峡的权利。
-据信，周六（18日）至少有一艘受骗上当的船只在试图穿越海峡时，遭到炮火袭击。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：若和谈破裂 将继续轰炸伊朗]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8931010</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8931010"/>
-        <updated>2026-04-21T12:31:27.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期二（4月21日）在社交媒体发文，指责伊朗已多次违反停火协议。
-特朗普接受美国消费者新闻与商业频道（CNBC）电话采访时说，他不希望延长美国与伊朗之间的停火期限，称美国目前在谈判中处于有利位置，最终将达成“一项很好的协议”。
-当被问及是否可能延长停火期限时，特朗普说：“我不想这么做。我们没有那么多时间。”
-特朗普还说，如果美国与伊朗未能尽快达成协议，美国将恢复对伊朗的军事打击。　　
-“我预计会进行轰炸，因为我认为带着这种态度进入谈判更好……但我们已经准备好了，军方已做好充分准备。”
-此前，美方消息人士称，美国代表团将“很快”前往巴基斯坦进行新一轮和平谈判，但截至目前，伊方代表团尚未启程赴会，两国和谈前景不明。
-伊朗政府发言人莫哈杰拉尼（Fatemeh Mohajerani）周二指出，德黑兰即使参与新一轮谈判，也将保持“手握扳机”的战备状态。她指出，伊朗当前同时推进军事与外交两套策略，并明确表示，谈判代表团不会在国家利益问题上作出任何让步。
-莫哈杰拉尼表明，尚未确认伊朗是否将参加在伊斯兰堡举行的下一轮会谈。　
-不过，伊朗议会主席团成员纳德里则直言，在海上封锁问题解决前，“我们不会举行第二轮谈判”。
-巴基斯坦副总理兼外交部长达尔敦促美伊两国考虑延长停火，为对话和外交尝试提供机会。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美官员：特朗普频“抢风头”在社媒发文或损害谈判进程]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929750</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929750"/>
-        <updated>2026-04-21T10:32:56.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿讯）美国官员指出，在美国与伊朗首轮谈判接近达成协议之际，美国总统特朗普却频频“抢风头”在社交媒体发文，可能损害谈判进程。 
-美国有线电视新闻网（CNN）引述美方官员报道称，就在美伊看似接近达成协议之际，特朗普试图通过媒体访问及社媒贴文主导与伊朗的谈判，称伊朗已同意许多美国提出的要求，包括交出浓缩铀、开放霍尔木兹海峡，以及停止支持恐怖组织。然而，伊朗否认特朗普的说法。
-4月11日，美伊举行首轮谈判，但经过21小时的马拉松式磋商后，双方仍未能达成协议。美国政府官员私下向CNN承认，特朗普的公开言论对谈判产生负面影响，而且美伊双方本就存在深度不信任。
-一名熟悉谈判的人士说，伊朗尤其不满被特朗普说成脆弱不堪，让外界产生伊朗已同意一些尚未达成共识、且在国内不受欢迎议题的印象。 
-当自己的说法遭伊朗否认后，特朗普又威胁称，伊朗不接受美国条件将面临“大量炸弹”的打击，反而让他显得更加急于达成协议。 
-截至星期一（4月20日）中午，特朗普已在自家社媒多次发文谈及这场战争，总字数超过900字。
-不仅如此，特朗普的贴文和表态经常前后不一，部分说法也明显与事实不符，从而削弱他的可信度。这些持续不断、相互矛盾的信息流，加深外界对他缺乏战略、临时应对的印象，而这是外交政策专家在这场战争期间反复提出的批评。
-《华尔街日报》周末的一篇报道也提到，特朗普可能正在阻碍自身的目标。报道称，在一次关于营救一名在伊朗的美国飞行员的行动更新会议中，他被排除在外，因为助手认为“他的急躁不会有帮助”。
-报道指出，和平谈判极为敏感，通常需要通过秘密渠道进行，并经过数月甚至数年的磋商才能最终达成一致。施压式强硬手段往往难以奏效，而在社媒上高调谈论谈判过程，只会让局势变得更加复杂。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涉委任驻美大使不当 英国首相斯塔默深陷下台危机]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929202</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929202"/>
-        <updated>2026-04-21T10:26:18.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦综合电）英国首相斯塔默周一否认在委任工党元老曼德尔森出任驻美国大使上刻意误导国会，反而指责外交部官员隐瞒后者安全审查不过关的信息。
-斯塔默周一（4月20日）在国会针对这起政治风波发表讲话时承认，任命曼德尔森为驻美大使是他判断错误。他说：“我对此决定负全部责任，并再次向爱泼斯坦的受害者道歉，我的决定显然辜负了他们。”
-自去年9月彭博社披露曼德尔森与已故美国性罪犯爱泼斯坦的密切关系以来，曼德尔森丑闻屡次浮出水面，给斯塔默带来政治压力。
-民调显示，斯塔默是英国史上最不受欢迎的首相之一，部分原因在于多项政策失误。他因选择曼德尔森而不断受到关于其判断力的质疑，使他在5月7日关键的地方选举中承受更大压力。根据民调，他领导的工党可能遭遇重挫。如果这一结果成真，他将面临领导挑战。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗战争重创德国景气 投资者信心跌至三年多新低]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8930060</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8930060"/>
-        <updated>2026-04-21T10:16:07.000Z</updated>
-        <summary type="html"><![CDATA[美以伊战争正在侵蚀欧洲最大经济体的复苏势头，德国投资者信心跌至三年多来最低点。
-分析人士警告，这场冲突对德国经济的负面影响已不止于推高通货膨胀，企业对长期能源供应短缺的担忧正削弱投资。
-彭博社报道，德国智库欧洲经济研究中心（ZEW）星期二（4月21日）公布的调查显示，德国4月经济预期指数从3月的负0.5降至负17.2，创下2022年以来最差表现，衡量当前经济状况的指标也同步下滑。
-ZEW总裁万巴赫（Achim Wambach）指出，伊朗战争的经济后果远不止物价上涨，企业对能源长期短缺的担忧正在抑制投资，并削弱政府刺激措施的效果。
-德国主要研究机构已将今年经济增长预期下调至不足几个月前预测的一半；在经历连续两年萎缩后，德国2025年GDP仅微增0.2%，基础设施和国防领域的公共投资则提供了一定支撑。
-面对能源危机，德国政府已推出16亿欧元（约24亿新元）燃油价格减免措施，并指若局势继续升级，将准备进一步应对方案；欧洲央行则预计在4月30日维持利率不变，以评估战争造成的损害。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【东谈西论】欧盟“刺头”匈牙利变天 全球极右翼受挫]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929737</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929737"/>
-        <updated>2026-04-21T10:10:47.000Z</updated>
-        <summary type="html"><![CDATA[欧洲中部国家匈牙利于4月12日举行了国会选举。律师出身的青年政治人物彼得·马扎尔（Peter Magyar），领导蒂萨党（Tisza Party）取得压倒性胜利，一举推翻了原总理欧尔班长达16年的统治。 
-马扎尔是谁？他凭借什么创造了这次胜利？
-在欧洲，匈牙利不过是人口不足1000万的小国，这次选举却引起举世关注。它是否代表着全球右翼势力和民粹主义的一次挫折？美国副总统万斯在选前还专程到匈牙利为欧尔班助选，但欧尔班依然败阵，这又说明了什么？ 
-这期的早报播客《东谈西论》，听主持人韩咏红与旅欧中国作家、国际政治研究者王庆民深度解析。 
-
-精彩片段
-
-主持人韩咏红：在4月12日的选举中，执政长达16年的青民盟以及总理欧尔班败选，得票率只有约38%，而反对派的领袖马扎尔领导的蒂萨党赢得了53.6%的选票，算是压倒性的胜利……这次这个选举的意义，为什么一般人认为它非常难得？ 
-旅欧中国作家、国际政治研究者王庆民：这个选举之所以能够得到非常大的关注，很大程度上是在于它可以作为当今国际意识形态博弈的一个标杆……虽然匈牙利它是一个很小的国家，但是它所产生的选举影响是一个国际性的……可以说是象征着右翼和建制派谁胜谁负的象征作用。 
-
-本期内容（在播放器中点击书签，就能跳至对应的章节）：
-
-
-01:16 欧尔班败选的国际意义
-
-08:46 马扎尔也是右翼
-
-14:42 不能夸大对民粹主义的打击作用
-
-
-
-纵观天下，监测中国心跳，国际时事播客《东谈西论》，每周探讨国际热点话题，分析国际时政动态。每逢星期二新加坡时间晚上7时更新。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报告：加沙10年重建需714亿美元]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929364</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929364"/>
-        <updated>2026-04-21T10:06:57.000Z</updated>
-        <summary type="html"><![CDATA[（日内瓦综合电）根据欧盟和联合国发表的联合评估报告，估计加沙未来10年的重建需要超过714亿美元（约960亿新元）。
-报告指出，首18个月就需要约263亿美元，用于恢复基本服务、重建关键基础设施及推动经济复苏。估算显示，加沙基础设施损失约352亿美元，经济与社会损失约227亿美元。当地经济已萎缩84%，发展水平倒退数十年。
-由特朗普倡议设立的和平委员会正与阿联酋国企迪拜环球港务（DP World）探讨参与加沙重建计划，包括负责人道援助及物资进入加沙的物流安排。
-目前加沙地带约190万人流离失所，占当地人口的绝大多数，超过六成人失去住所。约37万间房屋被毁或受损，逾半数医院无法运作，几乎所有学校遭破坏。
-和平委员会加沙事务首席特使姆拉德诺夫接受路透社访问时说，对推动哈马斯解除武装的方案“相当乐观”，但也承认进展仍需时间。他说，过去几周已与哈马斯进行非常认真的讨论，但谈判过程复杂。
-他指出，相关方案仍在推进中，除了解除武装，还包括建立新治理架构和以军撤出安排。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本自卫队训练场弹药爆炸 致三死一伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260421-8929833</id>
-        <link href="https://www.zaobao.com/news/world/story20260421-8929833"/>
-        <updated>2026-04-21T09:42:58.000Z</updated>
-        <summary type="html"><![CDATA[日本大分县陆上自卫队日出生台演习场星期二（4月21日）发生弹药爆炸事故，造成三死一伤。防卫省指出，事故发生于约上午8时40分，部队进行坦克射击训练时，炮弹在炮管内爆炸，死者为三名男性，另有一名女性重伤送院。
-据报道，涉事为10式主战坦克。防卫省与相关部门已展开调查，厘清事故原因。防长小泉进次郎说，将彻查事故情况并加强安全管理。日出生台演习场是日本西部最大演习场，也供驻日美军进行实弹训练。（路透社）]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年4月推荐]]></title>
         <id>/archives/2026nian-4yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
@@ -921,11 +919,11 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 會取代你的投資判斷嗎？量化投資六十年歷史給的三個答案]]></title>
+        <title type="html"><![CDATA[大家都用 AI，誰輸錢？Simons 三十年 66% 卻叫散戶買指數]]></title>
         <id>https://ducorn.com/ai-investment</id>
         <link href="https://ducorn.com/ai-investment"/>
         <updated>2026-03-28T15:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Renaissance Medallion 年均回報 66%，是人類史上最成功的量化基金，但它的創辦人給散戶的建議卻是買指數基金。唯一證明 AI 能打敗市場的案例，恰好證明了你不可能複製它。六十年量化歷史和 2026 年 AI 交易數據，三個判斷。]]></summary>
+        <summary type="html"><![CDATA[Medallion 三十年年均 66%，Simons 卻叫散戶買指數基金。2026 年 Polystrat AI 單筆賺 376%，但 63% 的 AI 在虧錢。量化投資六十年的失敗史告訴你：AI 會不會取代你的投資判斷，取決於你能不能答出這三個問題。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
