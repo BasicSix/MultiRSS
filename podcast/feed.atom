@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-24T13:43:31.680Z</updated>
+    <updated>2026-04-24T18:58:46.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Kosovo can teach the world about freedom | Vjosa Osmani Sadriu]]></title>
+        <id>69eb82ed6eeb59e2ba2abbe4</id>
+        <link href="http://go.ted.com/vjosaosmanisadriu"/>
+        <updated>2026-04-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Truth is the real oxygen for democracy,” says Vjosa Osmani Sadriu, the 6th President of the Republic of Kosovo. As a child of war, she once longed for someone to save her people. Now she’s been in the rooms where decisions are made — and she’s never forgotten what brought her there. In conversation with solutions journalist Angus Hervey, she reflects on what it takes to defend democracy in a world where truth itself is under threat. (Recorded on April 14, 2026)
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[265.卷王vs平常心：骑手的两种选择]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/69eb6b2e1e94ae6921126ceb</id>
