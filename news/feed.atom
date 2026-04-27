@@ -2,198 +2,435 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T08:32:56.073Z</updated>
+    <updated>2026-04-27T14:03:35.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Sitting on the Stone Edge]]></title>
-        <id>1x-3559797</id>
-        <link href="https://1x.com/photo/3559797"/>
-        <updated>2026-04-27T08:32:15.544Z</updated>
-        <summary type="html"><![CDATA[Sitting on the Stone Edge by Uryutalk]]></summary>
+        <title type="html"><![CDATA[The View]]></title>
+        <id>1x-3547922</id>
+        <link href="https://1x.com/photo/3547922"/>
+        <updated>2026-04-27T14:02:51.467Z</updated>
+        <summary type="html"><![CDATA[The View by Jürgen Wöhrle]]></summary>
         <author>
-            <name>Uryutalk</name>
+            <name>Jürgen Wöhrle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quiet light]]></title>
-        <id>1x-3554606</id>
-        <link href="https://1x.com/photo/3554606"/>
-        <updated>2026-04-27T08:32:15.533Z</updated>
-        <summary type="html"><![CDATA[Quiet light by Eiji Yamamoto]]></summary>
+        <title type="html"><![CDATA[Make Thung Chai]]></title>
+        <id>1x-3556616</id>
+        <link href="https://1x.com/photo/3556616"/>
+        <updated>2026-04-27T14:02:51.463Z</updated>
+        <summary type="html"><![CDATA[Make Thung Chai by Angela Muliani Hartojo]]></summary>
         <author>
-            <name>Eiji Yamamoto</name>
+            <name>Angela Muliani Hartojo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Still Hope]]></title>
-        <id>1x-3560139</id>
-        <link href="https://1x.com/photo/3560139"/>
-        <updated>2026-04-27T08:32:15.529Z</updated>
-        <summary type="html"><![CDATA[Still Hope by meix]]></summary>
+        <title type="html"><![CDATA[Stretching]]></title>
+        <id>1x-3558688</id>
+        <link href="https://1x.com/photo/3558688"/>
+        <updated>2026-04-27T14:02:51.459Z</updated>
+        <summary type="html"><![CDATA[Stretching by Erik Engström]]></summary>
         <author>
-            <name>meix</name>
+            <name>Erik Engström</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Universidad Laboral]]></title>
-        <id>1x-3554938</id>
-        <link href="https://1x.com/photo/3554938"/>
-        <updated>2026-04-27T08:32:15.519Z</updated>
-        <summary type="html"><![CDATA[Universidad Laboral by Osmel]]></summary>
+        <title type="html"><![CDATA[Footsteps in Deventer, hanseatic city in the Netherlands]]></title>
+        <id>1x-3557923</id>
+        <link href="https://1x.com/photo/3557923"/>
+        <updated>2026-04-27T14:02:51.455Z</updated>
+        <summary type="html"><![CDATA[Footsteps in Deventer, hanseatic city in the Netherlands by Jan van der Linden]]></summary>
         <author>
-            <name>Osmel</name>
+            <name>Jan van der Linden</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Still life with glassware on a colored background]]></title>
-        <id>1x-3560048</id>
-        <link href="https://1x.com/photo/3560048"/>
-        <updated>2026-04-27T08:32:15.512Z</updated>
-        <summary type="html"><![CDATA[Still life with glassware on a colored background by Brig Barkow]]></summary>
+        <title type="html"><![CDATA[Artistic]]></title>
+        <id>1x-3554126</id>
+        <link href="https://1x.com/photo/3554126"/>
+        <updated>2026-04-27T14:02:51.445Z</updated>
+        <summary type="html"><![CDATA[Artistic by Gil Beer]]></summary>
         <author>
-            <name>Brig Barkow</name>
+            <name>Gil Beer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nilpferde]]></title>
-        <id>1x-3551604</id>
-        <link href="https://1x.com/photo/3551604"/>
-        <updated>2026-04-27T08:32:15.503Z</updated>
-        <summary type="html"><![CDATA[Nilpferde by Wiolett]]></summary>
+        <title type="html"><![CDATA[Geometry]]></title>
+        <id>1x-3544839</id>
+        <link href="https://1x.com/photo/3544839"/>
+        <updated>2026-04-27T14:02:51.442Z</updated>
+        <summary type="html"><![CDATA[Geometry by Rana Jabeen]]></summary>
         <author>
-            <name>Wiolett</name>
+            <name>Rana Jabeen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wood Sandpiper (Tringa glareola)]]></title>
-        <id>1x-3547535</id>
-        <link href="https://1x.com/photo/3547535"/>
-        <updated>2026-04-27T08:32:15.487Z</updated>
-        <summary type="html"><![CDATA[Wood Sandpiper (Tringa glareola) by Selim Kaya]]></summary>
+        <title type="html"><![CDATA[Deep In Love]]></title>
+        <id>1x-3556424</id>
+        <link href="https://1x.com/photo/3556424"/>
+        <updated>2026-04-27T14:02:51.439Z</updated>
+        <summary type="html"><![CDATA[Deep In Love by Ben.C.L]]></summary>
         <author>
-            <name>Selim Kaya</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Between night and morning]]></title>
-        <id>1x-3550355</id>
-        <link href="https://1x.com/photo/3550355"/>
-        <updated>2026-04-27T08:32:15.477Z</updated>
-        <summary type="html"><![CDATA[Between night and morning by Yukinori Kishimoto]]></summary>
+        <title type="html"><![CDATA[Behind the City]]></title>
+        <id>1x-3559898</id>
+        <link href="https://1x.com/photo/3559898"/>
+        <updated>2026-04-27T14:02:51.435Z</updated>
+        <summary type="html"><![CDATA[Behind the City by Charlotte Zhang]]></summary>
         <author>
-            <name>Yukinori Kishimoto</name>
+            <name>Charlotte Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tisa]]></title>
-        <id>1x-3526845</id>
-        <link href="https://1x.com/photo/3526845"/>
-        <updated>2026-04-27T08:32:15.471Z</updated>
-        <summary type="html"><![CDATA[Tisa by Joško Šimic]]></summary>
+        <title type="html"><![CDATA[Silvertum II]]></title>
+        <id>1x-3560945</id>
+        <link href="https://1x.com/photo/3560945"/>
+        <updated>2026-04-27T14:02:51.431Z</updated>
+        <summary type="html"><![CDATA[Silvertum II by jordiegeatorrent]]></summary>
         <author>
-            <name>Joško Šimic</name>
+            <name>jordiegeatorrent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facade - London, UK]]></title>
-        <id>1x-3558645</id>
-        <link href="https://1x.com/photo/3558645"/>
-        <updated>2026-04-27T08:32:15.465Z</updated>
-        <summary type="html"><![CDATA[Facade - London, UK by Arnon Orbach]]></summary>
+        <title type="html"><![CDATA[A Road That Waits for No One]]></title>
+        <id>1x-3560150</id>
+        <link href="https://1x.com/photo/3560150"/>
+        <updated>2026-04-27T14:02:51.426Z</updated>
+        <summary type="html"><![CDATA[A Road That Waits for No One by Lior Yaakobi]]></summary>
         <author>
-            <name>Arnon Orbach</name>
+            <name>Lior Yaakobi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blessed… and Unimpressed]]></title>
-        <id>1x-3539144</id>
-        <link href="https://1x.com/photo/3539144"/>
-        <updated>2026-04-27T08:32:15.460Z</updated>
-        <summary type="html"><![CDATA[Blessed… and Unimpressed by txules]]></summary>
+        <title type="html"><![CDATA[Veil of Silence]]></title>
+        <id>1x-3558651</id>
+        <link href="https://1x.com/photo/3558651"/>
+        <updated>2026-04-27T14:02:51.421Z</updated>
+        <summary type="html"><![CDATA[Veil of Silence by Tom Pavlasek]]></summary>
         <author>
-            <name>txules</name>
+            <name>Tom Pavlasek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Happy Anna]]></title>
-        <id>1x-3557176</id>
-        <link href="https://1x.com/photo/3557176"/>
-        <updated>2026-04-27T08:32:15.451Z</updated>
-        <summary type="html"><![CDATA[Happy Anna by Christian Kurz]]></summary>
+        <title type="html"><![CDATA[Royal Opera House Muscat, Oman]]></title>
+        <id>1x-3560930</id>
+        <link href="https://1x.com/photo/3560930"/>
+        <updated>2026-04-27T14:02:51.418Z</updated>
+        <summary type="html"><![CDATA[Royal Opera House Muscat, Oman by Ibrahim Nabeel]]></summary>
         <author>
-            <name>Christian Kurz</name>
+            <name>Ibrahim Nabeel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fight]]></title>
-        <id>1x-3560027</id>
-        <link href="https://1x.com/photo/3560027"/>
-        <updated>2026-04-27T08:32:15.448Z</updated>
-        <summary type="html"><![CDATA[Fight by Milan Malovrh]]></summary>
+        <title type="html"><![CDATA[Held in Silence]]></title>
+        <id>1x-3560932</id>
+        <link href="https://1x.com/photo/3560932"/>
+        <updated>2026-04-27T14:02:51.416Z</updated>
+        <summary type="html"><![CDATA[Held in Silence by Fangping Zhou]]></summary>
         <author>
-            <name>Milan Malovrh</name>
+            <name>Fangping Zhou</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Flycatcher from Paradise]]></title>
-        <id>1x-3560270</id>
-        <link href="https://1x.com/photo/3560270"/>
-        <updated>2026-04-27T08:32:15.446Z</updated>
-        <summary type="html"><![CDATA[The Flycatcher from Paradise by Wagdy]]></summary>
+        <title type="html"><![CDATA[One in my thought]]></title>
+        <id>1x-3559742</id>
+        <link href="https://1x.com/photo/3559742"/>
+        <updated>2026-04-27T14:02:51.399Z</updated>
+        <summary type="html"><![CDATA[One in my thought by Songlin Xu]]></summary>
         <author>
-            <name>Wagdy</name>
+            <name>Songlin Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Serene Light]]></title>
-        <id>1x-3559499</id>
-        <link href="https://1x.com/photo/3559499"/>
-        <updated>2026-04-27T08:32:15.442Z</updated>
-        <summary type="html"><![CDATA[In Serene Light by URANUS  FILM]]></summary>
+        <title type="html"><![CDATA[Eternal Sunshine #3]]></title>
+        <id>1x-3558423</id>
+        <link href="https://1x.com/photo/3558423"/>
+        <updated>2026-04-27T14:02:51.204Z</updated>
+        <summary type="html"><![CDATA[Eternal Sunshine #3 by Pieter De Vries]]></summary>
         <author>
-            <name>URANUS FILM</name>
+            <name>Pieter De Vries</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3559385</id>
-        <link href="https://1x.com/photo/3559385"/>
-        <updated>2026-04-27T08:32:15.428Z</updated>
-        <summary type="html"><![CDATA[Untitled by Karim Al Thahaby]]></summary>
+        <title type="html"><![CDATA[红-4]]></title>
+        <id>1x-3560969</id>
+        <link href="https://1x.com/photo/3560969"/>
+        <updated>2026-04-27T14:02:51.199Z</updated>
+        <summary type="html"><![CDATA[红-4 by Chen Xiao]]></summary>
         <author>
-            <name>Karim Al Thahaby</name>
+            <name>Chen Xiao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Level-headed]]></title>
-        <id>1x-3557940</id>
-        <link href="https://1x.com/photo/3557940"/>
-        <updated>2026-04-27T08:32:15.426Z</updated>
-        <summary type="html"><![CDATA[Level-headed by Yohei Tabuchi]]></summary>
+        <title type="html"><![CDATA[Oblique Heat.]]></title>
+        <id>1x-3559698</id>
+        <link href="https://1x.com/photo/3559698"/>
+        <updated>2026-04-27T14:02:51.194Z</updated>
+        <summary type="html"><![CDATA[Oblique Heat. by Takeborn Nikukyu]]></summary>
         <author>
-            <name>Yohei Tabuchi</name>
+            <name>Takeborn Nikukyu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A glass of champagne]]></title>
-        <id>1x-3560547</id>
-        <link href="https://1x.com/photo/3560547"/>
-        <updated>2026-04-27T08:32:15.418Z</updated>
-        <summary type="html"><![CDATA[A glass of champagne by PETER BALANTIC]]></summary>
+        <title type="html"><![CDATA[Hidden in the Grass]]></title>
+        <id>1x-3559748</id>
+        <link href="https://1x.com/photo/3559748"/>
+        <updated>2026-04-27T14:02:51.191Z</updated>
+        <summary type="html"><![CDATA[Hidden in the Grass by David Manusevich]]></summary>
         <author>
-            <name>PETER BALANTIC</name>
+            <name>David Manusevich</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roses #2]]></title>
-        <id>1x-3560022</id>
-        <link href="https://1x.com/photo/3560022"/>
-        <updated>2026-04-27T08:32:15.406Z</updated>
-        <summary type="html"><![CDATA[Roses #2 by Kristjan Vuk]]></summary>
+        <title type="html"><![CDATA[Contours of a Hidden Truth]]></title>
+        <id>1x-3560768</id>
+        <link href="https://1x.com/photo/3560768"/>
+        <updated>2026-04-27T14:02:51.178Z</updated>
+        <summary type="html"><![CDATA[Contours of a Hidden Truth by Atsushi Inamura]]></summary>
         <author>
-            <name>Kristjan Vuk</name>
+            <name>Atsushi Inamura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日相高市拒绝出台追加预算解除中东油价冲击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8961689</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8961689"/>
+        <updated>2026-04-27T13:43:58.000Z</updated>
+        <summary type="html"><![CDATA[中东局势导致面对通货膨胀的日本市民生活雪上加霜。可是，日本首相高市早苗认为，政府目前还没必要出台追加预算案救市。此外，为了确保即将来临的5月黄金周旅游经济不受影响，她也暂时不采取“省油省电”措施。
+日本参议院预算委员会星期一（4月27日）就中东局势带来的影响展开讨论。朝野议员呼吁高市赶紧推出追加预算救市。据反对党的报告，因面对建筑材料成本飙升，日本一些工程已停摆。
+立宪民主党议员森本真司指出，中东局势恶化影响日本企业，若不采取紧急经济措施和补充预算，恐怕企业倒闭数量将从5月起激增。
+高市回应说：“我认为目前还没必要出台补充预算。政府已经动用2025财年的储备金作为紧急汽油补贴，而且剩余资金充足。”不过，她也表示政府正密切关注（中东）形势，若有必要会做出灵活应对。
+由于日本人担忧能源供应中断，议员们呼吁政府必须采取节约能源措施，高市对此不表赞同。她说：“我认为，这会阻扰经济发展和社会活动。”
+高市之前反复强调，日本的石油储备充足，供应可维持到明年，而且5月1日的黄金周假期开始发放汽油储备。她表示，政府能通过动用战略石油储备和多元采购稳定市场，以免影响经济增长及引发恐慌。
+《日经新闻》和东京电视台4月24日至26日进行的民调显示，高市的支持率为69%，比3月份的民调下降三个百分点。但各媒体的民调都显示，即便有下降，但她的支持率仍保持在高位。
+高市此前的高支持率，日美外交红利的成分高。分析认为，中东紧张局势升级导致原油价格飙升，政府通过补贴油价，将汽油价格维持在每公升170日元（约1.36新元）左右来安抚民心。但是，补贴油价的资金7月前后将耗尽。若中东冲突继续，当局又无足够财源应对的话，极可能引发民愤。
+日本约90%的进口原油都要经过霍尔木兹海峡。自民党高官指出，美国与伊朗重启和谈进程陷入停滞，如果当前的形势无法好转，不排除高市会被迫改变方针追加预算。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黎总统反击真主党：将国家拖入战争才是叛国]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8961730</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8961730"/>
+        <updated>2026-04-27T13:16:58.000Z</updated>
+        <summary type="html"><![CDATA[黎巴嫩总统奥恩说，与以色列的直接谈判是为了结束与真主党的冲突。他指责将黎巴嫩拖入战争的人犯有“叛国罪”。
+法新社报道，奥恩星期一（4月27日）发布声明说：“我的目标是结束与以色列的战争状态，类似于1949年的停战协定。我向你们保证，我不会接受任何屈辱协议。”
+真主党领袖同日早些时候发布声明，拒绝与以色列直接谈判，并呼吁黎巴嫩当局放弃与以色列对话，称此举是“严重罪过”。
+奥恩则说：“把我们拖入战争的人，现在却因为我们决定谈判而追究我们的责任……我们所做的并非叛国。为了实现外国利益而将国家卷入战争的人，才是叛国。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度新西兰签订自由贸易协定]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8961425</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8961425"/>
+        <updated>2026-04-27T12:54:49.000Z</updated>
+        <summary type="html"><![CDATA[印度和新西兰签署自由贸易协定，以期在中东战争加剧全球经济不确定性之际提振出口。
+法新社报道，印度商务部长戈亚尔与新西兰商务部长麦克莱星期一（4月27日）在新德里共同签署自由贸易协定。此举促使印度一系列产品在新西兰获得更大市场准入，包括工程产品、机械和纺织品。
+戈亚尔说：“这项具有前瞻意义的协定，还将促进200亿美元（约255亿新元）投资流入印度。”
+作为交换，新德里承诺降低林业、羊肉和羊毛等领域的关税壁垒，同时给予苹果等水果配额制准入。
+印度与新西兰之间的贸易规模较小，商品贸易额预计从2023至2024财年的8亿7300万美元增长到2024至2025财年的近13亿美元。
+两国自由贸易协定的谈判于2025年12月结束，正值美国特朗普政府发起关税战之际，中东战争则在不久后冲击全球能源领域，扰乱多个行业的生产。
+新西兰总理拉克森星期一说，与印度的自由贸易协定是“划时代的协议”，可使新西兰出口商获得前所未有的机会，进入印度这个世界上人口最多的国家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[边境战火不熄 以黎互指违约停火协议形同虚设]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8961150</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8961150"/>
+        <updated>2026-04-27T11:58:07.000Z</updated>
+        <summary type="html"><![CDATA[（耶路撒冷／贝鲁特综合电）以色列与黎巴嫩真主党的停火协议延长后不久，边境局势便再度紧张。
+以军星期天（4月26日）持续空袭黎南部，造成至少14人死亡，成为停火以来伤亡最严重的一天；双方互相指责对方违反停火安排。
+以黎双方于4月17日启动为期10天的停火安排，并在4月23日同意将协议延长三周。不过停火未能完全止息炮火，以军近期仍多次在黎境内展开军事行动。 
+以色列政府重申，以军仍保留针对“即时甚至潜在威胁”采取先发制人打击行动的空间。目前，以军继续在边境约10公里纵深的“黄线”区域展开行动。
+真主党领导人卡西姆拒绝黎巴嫩政府与以色列展开直接谈判，并提出结束冲突的五项条件，其中包括以色列停止对黎巴嫩陆海空的袭击、以色列从侵略的领土撤出、释放被关押的黎方人员、让流离失所者返回家园以及开展重建。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内坦亚胡再次推迟出席涉贪案听证会]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960984</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960984"/>
+        <updated>2026-04-27T11:33:14.000Z</updated>
+        <summary type="html"><![CDATA[以色列媒体报道，以色列总理内坦亚胡再次推迟出席涉贪腐案听证会，原定听证会临时取消。
+《耶路撒冷邮报》报道，内坦亚胡涉贪腐案听证会原定星期一（4月27日）举行，但开始前约一个半小时，内坦亚胡的律师突然以“安全安排”为由，要求取消出席听证会。
+法庭几小时后正式通知，当天的听证会取消。在此之前，这次听证会已经历大约六周延期。
+以色列检方2020年初正式起诉内坦亚胡，指控他犯有受贿、欺诈和背信三项罪行。
+法院同年5月首次开庭审理内坦亚胡涉贪腐案，他因此成为以色列首名接受司法审理的在任总理。
+以媒报道，如果受贿罪名成立，内坦亚胡可能面临最高10年监禁的刑罚；欺诈和违背公众信任指控对应的最高刑罚为三年监禁。
+自审理启动以来，内坦亚胡已多次以战事、外访、健康等理由，请求取消听证会或推迟作证。
+美国总统特朗普多次要求以色列总统赫尔佐格赦免内坦亚胡，但美媒早前引述消息人士报道，赫尔佐格决定暂不赦免内坦亚胡，而是将启动调解程序，推动达成认罪协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊媒：德黑兰禁钢坯钢板出口至5月底]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8961136</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8961136"/>
+        <updated>2026-04-27T11:20:28.000Z</updated>
+        <summary type="html"><![CDATA[伊朗国家媒体星期一（4月27日）报道，德黑兰已禁止钢坯和钢板出口至5月30日。
+自2月底与美以爆发战争以来，伊朗钢铁行业遭到冲击。伊朗境内权威媒体《信任报》（Etmad）星期天（26日）报道，由于关键设施受损，伊朗约1000万公吨年钢铁产量被迫停产，占总产量的25%至30%。
+战争期间，包括穆巴拉克钢铁公司（Mobarakeh Steel Company）和胡齐斯坦钢铁公司（Khuzestan Steel Company）在内的主要生产商遭受重创。《信任报》称，由此造成的生产中断对建筑、汽车和基础设施等行业产生连锁反应。
+胡齐斯坦钢铁公司的一名副总经理4月初说，受损的设施需要六到12个月才能恢复运营。
+钢铁是伊朗主要的非石油出口创汇产品之一，生产和出口能力的损失可能对伊朗贸易平衡和外汇收入造成压力，同时也可能导致伊朗在全球钢铁市场份额的下降。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和平研究所报告：安全不稳全球军事开支增加]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960338</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960338"/>
+        <updated>2026-04-27T10:50:58.000Z</updated>
+        <summary type="html"><![CDATA[（斯德哥尔摩综合电）最新报告显示，2025年全球军事开支达到近2.9万亿美元（约3.7万亿新元），增长了2.9%，是连续第11年增长，这主要因为安全局势动荡和重新武装推动了国防预算的增长。
+根据瑞典智库斯德哥尔摩国际和平研究所（SIPRI）星期一（4月27日）发表的报告，三大军费开支国，美国、中国和俄罗斯的军费总额为1.48万亿美元，占全球军费开支的略多于一半。
+美国的军事支出高达9540亿美元，因为美国总统特朗普停止向乌克兰提供新的财政军事援助，因此比起2024年是下降了7.5％。
+不过，国际和平研究所的研究员斯卡拉扎托（Lorenzo Scarazzato）告诉法新社，美国军费开支的减少，已被欧洲和亚洲的增长完全抵消，说明全球处在又一个充满战争和紧张局势的年头。
+他表示，全球军事负担，即全球国内生产总值（GDP）中军事开支的占比，也反映了这一点。这个比例已达到2009年以来的最高水平。
+斯卡拉扎托说：“一切迹象都表明，世界的安全感下降，各国增加军费开支以应对全球局势的变化”。
+全球军事开支增长主要来自欧洲，包括俄罗斯和乌克兰。欧洲的整体军事开支飙升了14％，达到8640亿美元。
+斯卡拉扎托说，欧洲的开支大幅增加，“主要由两个因素驱动，即俄乌战争和美国对欧洲的参与度下降”。
+德国是全球第四大军事开支国，2025年德国开支增长24％，达到1140亿美元。
+西班牙的军事开支也大幅增长50％，达402亿美元。西班牙开支占GDP的比重，是自1994年以来首次超过2％。
+俄罗斯与乌克兰这两个交战国的军事开支都增加。俄罗斯的开支增加了5.9％，达到1900亿美元，相当于俄国GDP的7.5％；乌克兰的开支增加了20％，达到841亿美元，占GDP的40％。
+尽管中东局势持续紧张，但这个区域的军事开支仅增长0.1％，达到2180亿美元。大多数国家的开支都增加，伊朗军事开支减少5.6％，达74亿美元，但这主要是由于高达42%的年通货膨胀率。按名义值计算，开支实际上有所增长。
+以色列的开支下降了4.9%，至483亿美元。研究人员说，这主要因为2025年1月以色列和哈马斯达成停火协议后，加沙战争的强度有所降低。不过，他们也指出，以色列的开支仍比2022年高出97％。
+至于亚洲和大洋洲的军事开支达到6810亿美元，比2024年增长了8.5％，是这个区域自2009年以来最大的年度增长。
+斯卡拉扎托表示，过去30年，中国每年都在增加开支，2025年的开支约3360亿美元。
+另一方面，澳大利亚国防部星期天宣布将花费超过8亿美元，购买近300辆“野外征服者”（Bushmaster）新型装甲车，并升级陆军的装甲卡车。
+自2022年工党政府上台以来，澳洲一直在重塑军事政策。随着中美在印太地区的竞争日益加剧，澳洲也改变军事态势，提升军力。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝鲜频试射导弹 分析：平壤欲赶在特习会前坐实拥核地位]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960427</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960427"/>
+        <updated>2026-04-27T10:49:11.000Z</updated>
+        <summary type="html"><![CDATA[（首尔综合电）分析指出，朝鲜正趁中东战争牵制美国注意力之际，通过密集导弹试射加速武器研发，并借由深化与俄罗斯的安全合作，试图在国际规范松动的环境中巩固“不可逆转”的拥核国地位。
+据法新社统计，自美国和以色列2月下旬对伊朗发动打击以来，朝鲜已进行五次导弹试射，其中仅4月至今便有四次，是自2024年1月以来单月试射次数最多的一次。 
+韩国庆南大学朝鲜问题专家林乙哲分析，全球安全格局正趋于无序，既有国际规范不再有效发挥作用。朝鲜正利用这一战略空档，推动完成核武库建设。
+
+借美中峰会前夕释放信号 强调威慑态势有别于伊朗
+
+美国总统特朗普预计下月访华，外界也猜测他可能在同一时期与朝鲜领导人金正恩会面。 
+韩国统一研究院高级研究员洪民指出，若峰会重新把朝鲜议题推上议程，平壤可能借机强化外界对朝鲜核地位“不可逆转”的认知。“朝方也希望发出一个持续的信号，显示自身具备不同于伊朗的威慑态势。”
+林乙哲则说：“在美国被中东局势牵制之际，朝鲜政权判断，这是加速进攻性威慑、同步发展核力量和常规力量的最佳时机。”
+
+              
+朝鲜领导人金正恩（右）星期天（4月26日）在平壤劳动党中央委员会总部，会见到访的俄罗斯国防部长别洛乌索夫（左）。（法新社）
+            
+俄防长访朝 双方拟定五年军事计划
+
+朝鲜也有意凸显俄罗斯的支持，以显示即便面对美国和中国压力，平壤仍拥有强大盟友。
+金正恩星期天（4月26日）会见到访的俄罗斯防长别洛乌索夫。双方代表团讨论深化军事关系，莫斯科已准备签署一份涵盖2027年至2031年的合作计划。 
+朝俄关系因乌克兰战争持续升温。别洛乌索夫此行也出席了纪念在库尔斯克地区阵亡朝鲜士兵的纪念设施落成典礼。乌军曾于2024年进入库尔斯克地区展开军事行动，朝军随后被部署到当地，协俄参战。 
+林乙哲说，这也显示朝鲜试图借俄罗斯支持来缓解国际制裁压力。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真主党领袖拒绝与以色列直接谈判]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960832</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960832"/>
+        <updated>2026-04-27T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[黎巴嫩真主党领导人卡西姆拒绝与以色列直接对话，称此举是“严重罪过”，会破坏黎巴嫩稳定。
+法新社报道，卡西姆星期一（4月27日）发布声明说：“我们坚决反对与以色列直接谈判，当权者应该明白，他们的行为既无益于黎巴嫩，也无益于他们自己。”
+卡西姆呼吁当局“放弃这一将黎巴嫩推入动荡漩涡的严重罪行”。
+美国总统特朗普上星期四（23日）宣布，以黎临时停火延长三周，并在会见以色列和黎巴嫩特使后，对和平持乐观态度。 
+不过，作为交战方之一的真主党至今未加入与以色列的谈判，并一再敦促黎当局退出谈判。
+卡西姆表明，与以色列的直接谈判和谈判结果“对我们来说相当于不存在，与我们毫无关系”。他誓言真主党“决不屈服、不会退缩”，“会继续为黎巴嫩和黎巴嫩人民进行防御抵抗”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泽连斯基提议继续延长乌克兰战时状态90天]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960735</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960735"/>
+        <updated>2026-04-27T10:03:37.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰总统泽连斯基向国会提交法令草案，请求继续延长国家战时状态90天。
+新华社报道，乌克兰最高拉达（国会）星期一（4月27日）发布消息说，泽连斯基当天提交法令草案，提议将目前乌克兰国家战时状态从5月4日延长到8月2日。
+据乌克兰国家通讯社报道，最高拉达会在本周就延长国家战时状态法令草案投票。
+这是自2022年初俄乌冲突升级以来，乌克兰最高拉达第19次对延长国家战时状态作出投票审议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄称乌无人机空袭扎波罗热核电站 致一职工身亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960279</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960279"/>
+        <updated>2026-04-27T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯方面说，乌克兰无人机对俄占扎波罗热核电站的空袭，造成一名运输工人死亡。
+法新社报道，扎波罗热核电站新闻处星期一（4月27日）在Telegram发文说，一名运输工人当天在核电站运输车间遭乌军无人机袭击身亡。
+扎波罗热核电站是欧洲最大核电站，靠近乌克兰南部战线，2022年起被俄军占领。四年战争期间，俄乌多次指责对方发动袭击，称此举将引发核灾难。
+核电站目前处于冷停堆状态，且自战争爆发以来已多次因遭袭停电。
+乌克兰国家核能公司星期天（26日）说，扎波罗热核电站的输电线路遭切断，因此停电长达一个半小时。
+“这是扎波罗热核电站被占领以来，发生的第15次断电。每次发生此类事件，不仅会显著增加乌克兰的核安全与辐射安全风险，更会危及整个欧洲。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列批准首个驻索马里兰大使任命]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8960160</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8960160"/>
+        <updated>2026-04-27T09:10:35.000Z</updated>
+        <summary type="html"><![CDATA[继承认索马里兰为主权国家后，以色列内阁批准任命首个驻索马里兰大使。　
+以色列外交部星期天（4月26日）发布声明说，以色列内阁批准洛塔姆（Michael Lotam）担任首个驻索马里兰大使。他曾任以色列驻肯尼亚和阿塞拜疆大使。
+声明补充说，洛塔姆最初会担任非驻在外交代表（non-resident diplomatic representative），这意味着他不会居住在索马里兰。
+索马里兰是索马里的分离地区，1991年宣布从索马里独立，并建立自己的政府、军队、货币，但国际社会仍将它视为索马里的一部分。
+以色列去年12月成为首个对索马里兰予以承认的国家，此举激怒索马里当局和中东及非洲的其他国家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大曼尼托巴省拟禁青少年用社媒AI聊天机器人]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959651</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959651"/>
+        <updated>2026-04-27T08:42:16.000Z</updated>
+        <summary type="html"><![CDATA[（曼尼托巴彭博电）加拿大曼尼托巴省计划禁止青少年使用社交媒体和人工智能（AI）聊天机器人。
+曼尼托巴省（Manitoba）省长基纽星期六（4月25日）说，社交媒体和AI聊天机器人正日益被用于侵蚀儿童的注意力。
+“这些应用的设计目的是为了最大限度地提高用户参与度，以服务少数科技巨头的商业利益，但价值观并不符合加拿大和曼尼托巴省。”
+加拿大联邦政府正考虑在全国实施社媒限制措施；基纽的宣布意味着，曼尼托巴省将抢在联邦政府之前采取行动。
+不过，一名曼尼托巴政府代表说，目前尚未公布受影响的具体年龄范围，也未说明如何在省内实施。
+加拿不列颠哥伦比亚省曾于2024年起草立法，拟追究社媒公司“算法对人们，尤其是儿童造成的伤害”，但草案后来被搁置，政府改为召集科技公司成立线上安全小组。
+AI聊天机器人对青少年的影响正引发关注。其中，不列颠哥伦比亚省图姆布勒里奇镇今年早些时候发生的校园枪击案，嫌疑人曾使用ChatGPT查询与犯案相关内容。事件共造成九人死亡，包括嫌疑人。 
+OpenAI首席执行官奥特曼上周对此致歉，承认公司未能及时向执法部门通报嫌疑人曾使用的ChatGPT账号。这个账号早在案发前约八个月已因违反使用政策被封禁。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列反对派两巨头结盟 内坦亚胡10月大选成保位战]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959629</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959629"/>
+        <updated>2026-04-27T08:31:38.000Z</updated>
+        <summary type="html"><![CDATA[（耶路撒冷综合电）以色列政坛在今年10月议会选举前迎来重大变动。两名前总理贝内特与拉皮德宣布组建联合政党，试图集结反对派力量，在选举中挑战总理内坦亚胡领导的执政联盟。 
+新政党名为“团结”（Together），将由贝内特（Naftali Bennett）领军。贝内特在星期天（4月26日）与拉皮德共同举行的记者会上表明，以色列需要改变方向，虽然他和拉皮德在许多议题上存在分歧，但两人将为以色列下一代的利益并肩作战。
+贝内特说：“30年后，是时候与内坦亚胡告别，为以色列开启新篇章。”
+拉皮德（Yair Lapid）目前仍是反对党“拥有未来”党的领袖，他说，两人此番联手是为了下一代。“我们为了我们的孩子站在这里。以色列国必须改变方向。”
+贝内特与拉皮德曾在2021年联手结束内坦亚胡连续12年的执政，并组建联合政府。不过，这个联合政府在以巴冲突等重大议题上分歧严重，仅维持18个月便告瓦解。与上次不同的是，新协议没有设置轮流担任总理的安排。
+最新民调显示，贝内特与内坦亚胡目前支持率旗鼓相当。若加上拉皮德预计取得的议席，两人有望组成议会最大政党，从而获得组阁机会。
+最新民调显示，在不包括以色列阿拉伯人的情况下，反对派阵营或取得120个议席中的60至61席，接近或达到组建联合政府的门槛。
+贝内特承诺，若能重新执政，将成立国家调查委员会，彻查导致哈马斯于2023年10月7日发动袭击的一系列失误。内坦亚胡政府至今拒绝成立类似调查委员会。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -258,19 +495,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2028美国总统大选 鲁比奥行情看涨]]></title>
+        <title type="html"><![CDATA[鲁比奥支持率飙升 或有望角逐2028美国总统大位]]></title>
         <id>https://www.zaobao.com/news/world/story20260427-8959065</id>
         <link href="https://www.zaobao.com/news/world/story20260427-8959065"/>
         <updated>2026-04-27T07:10:03.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普的一些亲密心腹日益认为，国务卿鲁比奥是角逐2028年总统大位的潜在人选，因为他在处理外交冲突方面手腕老练，且具备避免政治风险的能力。
-美国政治新闻网Politico报道，鲁比奥曾被认为过于鹰派或过于建制派。他在2016年问鼎总统宝座失败后，在特朗普时代的共和党中无足轻重。但他在推动委内瑞拉总统马杜罗下台方面的表现，以及对特朗普高度忠诚，提升了他在白宫西翼与部分“让美国再次伟大”（MAGA）选民心中的地位。
-虽然他本人表明不会挑战副总统万斯，万斯目前也仍在民调中领先，但特朗普是否支持可能决定共和党2028年初选格局。
-目前，特朗普核心圈中越来越多人将鲁比奥迟来的“特朗普主义”视为他的一大优势。特朗普喜欢“皈依者”的热情，与一些老派共和党精英形成鲜明对比，后者情愿避开共和党或远离华盛顿也不愿与特朗普和解。
-特朗普顾问布鲁塞维茨（Alex Bruesewitz）说：“万斯是一位出色的副总统，而鲁比奥是一位优秀的国务卿。”
-他说，鲁比奥在2016年总统大选后有两条路可走，他可以像卡西奇（John Kasich）那样，患上“特朗普精神错乱综合症”，最终销声匿迹。但奥比奥“选择了拥抱MAGA运动”，并成为MAGA最坚定的盟友和支持者之一。
-卡西奇为前俄亥俄州州长，2016年与特朗普竞争共和党内初选提名，2020年宣布支持民主党总统候选人拜登。
-与Politico的其他受访者一样不愿具名的一名白宫高级官员，形容鲁比奥“忠诚、极其精明、能言善道且经验老到”，并补充说他是一位“赢家”。
-特朗普尚未宣布支持谁成为他的继任者，他的意见可能具有决定性作用。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿讯）美国政治新闻网Politico报道，美国总统特朗普的一些心腹日益认为，国务卿鲁比奥有望凭借应对外国冲突的老练手腕，以及避开政治风险的能力，成为下一任总统的有力竞争者。 
+鲁比奥过去被认为过于鹰派和建制派，并因2016年角逐共和党总统候选人提名失败而受到重挫，在特朗普时代的共和党中无足轻重。
+然而，他出任国务卿后，在推动委内瑞拉前总统马杜罗下台方面表现亮眼，且对特朗普高度忠诚，从而显著提升了在白宫西翼与部分“让美国再次伟大”（MAGA）选民中的地位。
+美国保守派政治行动会议（CPAC）上个月进行的非正式民调显示，鲁比奥的支持率已从去年的3%飙升到35%。副总统万斯则仍遥遥领先，但支持率从去年的61%降到53%。
+特朗普顾问布鲁塞维茨（Alex Bruesewitz）指出，2016年竞选失利后，鲁比奥有两条路可以选择，一是像俄亥俄州前州长卡西奇（John Kasich）那样与特朗普作对，最终销声匿迹。卡西奇也参与了2016年共和党初选，后在2020年大选中支持民主党的拜登。
+鲁塞维茨指出，鲁比奥最终选了第二条路，即拥抱MAGA运动，成为MAGA坚定的盟友与支持者。
+不过，这能否在竞选中为鲁比奥赢得特朗普基本盘的选票仍是未知数。
+特朗普前顾问科尔特斯（Steve Cortes）就认为，共和党的决策者和金主虽认为鲁比奥“足够MAGA”，但他仍然“更像建制派共和党人”。
+目前，万斯仍较受看好，鲁比奥也已表明不会挑战万斯。
+不过，特朗普尚未钦点接班人，而他的选择可能会对2028年共和党初选格局起到决定性作用。预料，特朗普要到今年11月中期选举后，才会敲定接班人选。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -356,53 +594,21 @@ Axios报道的伊朗谈判新方案，与黎巴嫩“广场”电视台稍早前
         <id>https://www.zaobao.com/news/world/story20260427-8958043</id>
         <link href="https://www.zaobao.com/news/world/story20260427-8958043"/>
         <updated>2026-04-27T03:47:56.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿路透电）美国白宫记者协会晚宴枪击事件虽未造成严重伤亡，但特勤局的现场安保问题仍引发广泛质疑，下一场晚宴将如何加强防护措施成为外界关注的焦点。 
+        <summary type="html"><![CDATA[（华盛顿路透电）美国白宫记者协会晚宴枪击事件虽未造成伤亡，但特勤局的现场安保部署仍引发广泛质疑，接下来补办的晚宴将如何加强防护措施备受关注。 
 两名前特勤局特工和三名美国高官告诉路透社，联邦特工在星期六（4月25日）晚上的白宫记者协会晚宴上有效地执行了保护总统的计划，在枪手到达华盛顿希尔顿酒店地下室之前制伏他。
-不过，一些官员和评论员认为安保措施应该更加严密，嫌犯不应如此接近目标。此前，在2024年总统竞选期间，针对美国总统特朗普的两起暗杀未遂事件已促使当局加强总统的安保措施。
-尽管特朗普在记者会上赞扬特勤局反应迅速，但他明确指出华盛顿希尔顿酒店“并不是一个特别安全的建筑”。
-华盛顿希尔顿酒店长期承办该晚宴，但由于规模庞大、对公众开放且人员流动频繁，一直是特勤局难以完全掌控的场地。此外，这项活动往往汇集总统和多名内阁政要，使风险进一步上升。
-在星期六的晚宴上，宾客须通过金属探测器的检测才能进入宴会厅，但公众只需凭票即可进入酒店。据一名直接了解活动策划的人士透露，有多人试图使用去年的门票进入酒店，而嫌犯可能在活动前几天入住酒店，从而绕过这一基本检查。
+不过，一些官员和评论员认为安保措施应该更加严密，嫌犯不应如此接近目标。在2024年总统竞选期间，针对美国总统特朗普的两起暗杀未遂事件已促使当局加强总统的安保措施。
+尽管特朗普事后在记者会上赞扬特勤局反应迅速，但他明确指出华盛顿希尔顿酒店“并不是一个特别安全的建筑”。
+华盛顿希尔顿酒店长期承办白宫记者协会晚宴，但由于酒店规模庞大、对公众开放且人员流动频繁，一直是特勤局难以完全掌控的场地。此外，这项活动往往汇集总统和多名内阁政要，使风险进一步上升。
+星期六的晚宴上，宾客须通过金属探测器的检测才能进入宴会厅，但公众只需凭票即可进入酒店。据一名了解活动策划的人士透露，有多人试图使用去年的门票进入酒店，而嫌犯可能在活动前几天入住酒店，从而绕过这一基本的查票程序。
 就连31岁嫌犯艾伦也批评这次活动的安保措施。据《纽约邮报》报道，嫌犯在一份书面宣言中提及安保措施似乎过于松懈。 
 他对于自己能够携带一支霰弹枪、一支手枪和一把刀入住酒店感到惊讶。
 他写道：“我原以为每个拐角都有监控摄像头，酒店房间都被监听，每隔10英尺（约3米）就有武装特工，到处都是金属探测器……结果我看到的却是什么都没有。”
-这场宴会将在30天内再次举行，加强安保将成为关键焦点。
-曾在特勤局反突击小组任职六年的盖奇告诉路透社，事后审查很可能会重点考虑将金属探测设备前移，以扩大外围警戒范围。这意味着如果有人再次试图冲破安保人员的防线，冲突将发生在建筑物外，而不是建筑物内。
-不过，曾在特朗普第一任期担任特工的埃克洛夫接受《纽约时报》访问时说，警戒范围过大可能反而削弱关键区域的安保力量。“关键不在于扩大警戒范围，而是更快、更精准地做出反应。”
+这场宴会将在30天内再次举行，加强安保成为关键焦点。
+曾在特勤局反突击小组任职六年的盖奇告诉路透社，事发后的检讨很可能会把重点放在金属探测设备是否须要前移，以扩大外围警戒范围的问题上。这意味着如果有人再次试图冲破安保人员的防线，冲突将发生在建筑物外，而不是建筑物内。
+不过，曾在特朗普第一任期担任特工的埃克洛夫接受《纽约时报》访问时说，警戒范围过大反而可能削弱关键区域的安保力量。“关键不在于扩大警戒范围，而是更快、更精准地做出反应。”
 他说，安保人员必须在瞬间做出许多战术决定，包括是否要躲在桌子后面原地防御，以确定是否有人向主席台开枪。
-盖奇也说，特勤局需要在协调其他政府官员的撤离方面做得更好。
-枪击事件发生后，美国法警局和外交安全局等多个执法机构迅速疏散与会者，这凸显负责保护不同要员的复杂机构网络可能导致缺乏协调的应对措施。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金正恩：朝鲜一如既往支持俄罗斯政策]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957704</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957704"/>
-        <updated>2026-04-27T02:58:18.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜领导人金正恩会见来访的俄罗斯国防部长时说，朝鲜将继续支持俄罗斯的政策，并与俄国防部长讨论了国际政治局势。
-朝中社星期一（4月27日）报道，金正恩26日分别接见俄罗斯国家杜马主席沃洛金和国防部长别洛乌索夫。在与别洛乌索夫举行会谈时，双方就加强军事合作事宜交换意见。
-报道指，朝俄重申要本着全面战略伙伴关系条约精神，全方位扩大发展双边关系。双方还讨论了进一步加强两国政治军事合作的一系列问题。
-金正恩说，朝俄两国军队和人民并肩作战，在库尔斯克的军事行动中取得胜利，是证明两国同盟关系强大和巩固的历史事件。
-他还说：“朝鲜政府将继续全力支持俄罗斯捍卫国家主权、领土完整、安全利益的政策。”
-俄罗斯塔斯社同日报道，别洛乌索夫在会上说，俄方已做好与朝方签署俄朝军事合作计划的准备，期限为2027年至2031年。
-但韩联社指朝中社并未报道相关内容。分析人士认为，俄方表态展现出将与朝鲜开展中长期军事合作并强化同盟关系的意愿。
-据路透社报道，朝鲜与俄罗斯签署共同防御条约后，估计向库尔斯克派遣了约1万4000名士兵，与俄军并肩作战。韩国、乌克兰、西方官员称，超过6000名朝鲜士兵在战斗中丧生。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿拉格齐：伊朗以邻国为优先 重点确保海峡安全通航]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957247</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957247"/>
-        <updated>2026-04-27T01:35:20.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐说，伊朗“以邻国为优先”，访问阿曼期间与阿方讨论了确保霍尔木兹海峡安全通航的方式。
-阿拉格齐星期一（4月27日）凌晨在社媒X平台说，在阿曼的会谈重点是确保通过霍尔木兹海峡的安全通行，“以造福所有亲爱的邻国和全世界”。
-阿拉格齐为帖子配发一张他与阿曼苏丹海赛姆见面握手的照片，并写道：“作为霍尔木兹海峡沿岸国家，我们关注的重点包括确保安全通航的方式，以造福所有亲爱的邻国和全世界。”
-他还说：“我们以我们的邻国为优先。”
-阿拉格齐26日在阿曼首都马斯喀特会晤海赛姆，当天晚些时候离开阿曼，在巴基斯坦停留数小时后，前往俄罗斯访问。阿曼通讯社报道，海赛姆在会晤中强调应优先采取对话和外交方式解决问题。
-另据沙特阿拉伯通讯社报道，沙特外长费萨尔26日与阿拉格齐通电话，讨论地区局势发展以及缓和紧张局势的努力。费萨尔当天还同卡塔尔首相兼外长穆罕默德、巴林外长扎耶尼、阿富汗外长穆塔基分别通电话，讨论当前地区局势。]]></summary>
+盖奇也说，特勤局须在协调其他政府官员的撤离方面做得更好。
+枪击事件发生后，美国法警局和外交安全局等多个执法机构都赶忙撤离各自负责保护的官员，显得缺乏协调。路透社对现场的录像和音频进行分析发现，特朗普在最后一声枪响后约30多秒就被撤离，但卫生与公众服务部长小罗伯特·肯尼迪至少在100秒后离场，国务卿鲁比奥及战争部长赫格塞斯则约在150秒后才离场。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -415,230 +621,6 @@ Axios报道的伊朗谈判新方案，与黎巴嫩“广场”电视台稍早前
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月27日 无羁 音乐播放器 一款现代化的 Windows 在线和本地音乐播放器，免费开源 基地 一个PC 3A游戏下载库 4月24日 小白羊网盘 支持阿里云盘、百度网盘、123网盘、115网盘等主流网盘服务，现已更新到v4.0.2-beta版本 4月23日 哔哩哔哩音]]></summary>
         <author>
             <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黎巴嫩媒体披露伊朗提出三阶段谈判框架]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957169</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957169"/>
-        <updated>2026-04-27T01:01:53.000Z</updated>
-        <summary type="html"><![CDATA[黎巴嫩“广场”电视台星期一（4月27日）凌晨报道，伊朗已向斡旋方提出一项分三阶段推进的谈判框架，并表示若美国接受这一方案，谈判即可恢复。
-新华社引述黎巴嫩“广场”电视台驻德黑兰记者的报道，伊朗谈判框架的第一阶段重点在于结束美国和以色列的侵略，确保战火不会在伊朗和黎巴嫩重燃。在这一阶段，伊方不会讨论其他议题。
-若第一阶段达成一致，谈判将进入第二阶段，重点围绕霍尔木兹海峡的管理。伊方拟与阿曼方面协调，推动建立管理这一战略水道事务的新法律框架。
-第三阶段将涉及伊朗核计划。报道说，伊方只会在前两个阶段达成一致后，才准备就核计划展开讨论。
-伊朗外交部长阿拉格齐26日结束对阿曼的访问，在巴基斯坦停留数小时，随后前往俄罗斯访问。俄罗斯国家媒体报道，俄罗斯总统普京拟于27日会见阿拉格齐。
-另据伊朗塔斯尼姆通讯社报道，阿拉格齐将伊朗结束战事的条件告知巴方，其中包括在霍尔木兹海峡实施新的法律制度、获得赔偿、确保不再发动军事侵略、解除海上封锁等。谈判条件与核问题无关。
-美国总统特朗普26日受访时说，如果伊朗希望通过谈判结束两国之间的战事，可以主动联系美国。
-特朗普称“希望伊朗聪明些”，他说：“如果他们想谈，可以打电话给我们。”
-特朗普也再次指责北约在伊朗战事方面对美国缺乏支持。他说：“英国说战争结束后将派出船舰”，“这可不好”。
-特朗普25日取消了美方代表前往巴基斯坦首都伊斯兰堡与伊朗方面会晤的行程。美媒认为，美伊谈判陷入僵局显示双方在关键问题上分歧严重。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不受枪击事件影响 英王查尔斯三世27日访问美国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957134</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957134"/>
-        <updated>2026-04-27T00:37:49.000Z</updated>
-        <summary type="html"><![CDATA[美国白宫记者晚宴枪击事件发生后，英国国王查尔斯三世仍将按原定计划到美国进行访问。
-路透社报道，查尔斯三世和王后卡米拉定于星期一（4月27日）起对美国进行四天国事访问。英国王室发言人26日说，英美双方经过磋商后，决定查尔斯三世的行程不变。
-这是查尔斯三世于2022年9月登基后，首次对美国进行国事访问。
-白宫记者晚宴25日在华盛顿希尔顿酒店举行，宴会刚开始不久，一名持枪男子就在酒店内一处安全检查站开枪击中一名特勤局特工，之后被执法人员逮捕。
-《纽约时报》26日引述一名知情人士称，调查人员收集了31岁男嫌犯艾伦（Cole Tomas Allen）的一些短信和字条，内容谴责特朗普政府的政策，并简要说明了他将采取的暴力行动。
-特朗普同日接受福克斯新闻采访时说，这名枪手写了一份反基督“宣言”，“心中充满仇恨”。
-美国代司法部长布兰奇说，嫌犯的目标是美国政府官员，可能包括特朗普。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知情者：意大利批准引渡涉窃取冠病研究中国男子到美国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957078</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957078"/>
-        <updated>2026-04-27T00:08:53.000Z</updated>
-        <summary type="html"><![CDATA[一名掌握第一手信息的知情者向路透社透露，意大利政府已决定批准美国引渡一名因黑客罪名被通缉的中国男子。
-美国政府指控中国男子徐泽伟窃取了包括2019冠状病毒（COVID-19）医学研究在内的成果。彭博社率先报道了这一消息。意大利一家法院4月初裁定，徐泽伟可以被引渡到美国。
-意大利政府发言人拒绝对报道置评。徐泽伟的律师告诉路透社，他的当事人尚未收到相关通知。
-应美国当局要求，徐泽伟去年7月3日在米兰被捕。美国当局指控他犯有电信诈骗和严重身份盗窃罪，涉嫌参与2020年2月至2021年6月期间的电脑网络盗窃行为。
-徐泽伟的律师说，他的当事人是身份误认的受害者。
-美国司法部指徐泽伟受中国政府指使，进行黑客活动并窃取关键的2019冠状病毒研究成果。
-司法部称，徐泽伟是一个网络专家团队的成员，这个团队2020年锁定美国境内大学、免疫学家、病毒学家，窃取他们正在进行的冠状病毒疫苗、治疗和检测方面的研究。
-司法部还指徐泽伟是2021年一个名为“铪”（Hafnium）的网络间谍组织成员，这个组织入侵了全球数千台电脑，包括美国境内的电脑。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本北海道发生6.1级地震 部分交通停运]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957042</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957042"/>
-        <updated>2026-04-26T23:21:30.000Z</updated>
-        <summary type="html"><![CDATA[据日本气象厅消息，日本北海道十胜地区南部星期一（4月27日）发生6.1级地震，本次地震无海啸风险。
-日本气象厅说，地震发生在27日凌晨5时24分（新加坡时间27日凌晨4时24分）左右，震源深度约80公里。数小时之前，北海道以南几百公里的海域发生了一次5.0级地震。
-据共同社报道，暂无人员伤亡报告。北海道泊核电站未报告异常。受地震影响，部分公路和轨道交通暂停运行。
-4月20日，日本岩手县北部海域发生7.7级地震，日本气象厅随后警告，日本接下来发生8.0级或以上特大地震的风险增加。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[枪击嫌犯字条谴责特朗普政策 特朗普指枪手写反基督“宣言”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8957003</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8957003"/>
-        <updated>2026-04-26T23:08:50.000Z</updated>
-        <summary type="html"><![CDATA[与美国白宫记者晚宴枪击事件嫌犯相关的一些字条信息谴责总统特朗普的政策。而特朗普称，嫌犯在闯入宴会厅前写了一份反基督“宣言”。 
-《纽约时报》引述一名知情人士称，调查人员收集了嫌犯艾伦（Cole Tomas Allen）的一些短信和字条，内容谴责特朗普政府的政策，并简要说明他将采取的暴力行动。
-特朗普星期天（4月26日）说，这名枪手写了一份反基督“宣言”，“心中充满仇恨”，并指枪手当场被执法人员制服，并未接近举办晚宴的宴会厅。
-白宫记者晚宴25日在华盛顿希尔顿酒店举行，宴会刚开始不久，持枪男子艾伦就在酒店内一处安全检查站开枪击中一名特勤局特工，之后被执法人员逮捕。
-调查人员还在继续审查嫌犯的字条信息及其他证据，以查明他的动机。这起袭击似乎是针对特朗普和他的高级官员。
-另据《华尔街日报》报道，与嫌犯有关的一些文档提到一些安全漏洞，称因为这些安全漏洞，将枪械带入举办白宫记者晚宴的酒店比枪手的预想要容易得多。
-特朗普26日接受福克斯新闻采访时指嫌犯“是问题人物”，他的家人在枪击事件发生前曾向警方表示对他感到担忧。
-特朗普说：“当你看到他的宣言，你会发现他仇恨基督徒。”
-一名执法人员告诉路透社，嫌犯的家人在枪击事件发生前收到这份宣言。嫌犯在宣言中自称“友好的联邦刺客”。
-宣言中写道：“对*他人*遭受压迫袖手旁观不符合基督教义，这是与压迫者同谋共犯。”
-美国代司法部长布兰奇说，嫌犯已被拘留，面临包括袭击联邦执法人员和非法开枪等多项指控。
-嫌犯艾伦27日将上庭面控，一名在事发时身穿防弹背心、遭枪击的执法人员已经出院。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姜贵瑛：一张入境卡引发命名困局 韩国在海峡两岸间左右为难]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8952796</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8952796"/>
-        <updated>2026-04-26T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[韩国因为入境卡上“中国（台湾）”标注的去留问题，被推入一场典型的命名政治困局：一边是必须谨慎对待的北京“一中原则”，另一边是愈发高调强调主体性的台北诉求。
-一个原本属于行政流程设计的技术细节，迅速外溢为牵动韩中关系，甚至影响高层外交节奏的敏感变量。
-争议始于制度更新。去年2月，韩国法务部全面引入电子入境申报系统。设计上虽允许旅客在“国家／地区”栏选择“台湾”，但在“出发地”和“下一目的地”栏目中却标注为“中国（台湾）”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：如果伊朗想谈判 可以给美方打电话]]></title>
-        <id>https://www.zaobao.com/news/world/story20260427-8956667</id>
-        <link href="https://www.zaobao.com/news/world/story20260427-8956667"/>
-        <updated>2026-04-26T16:03:32.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，他认为伊朗战争很快就会结束，美国将取得胜利，并指如果伊朗想谈判，可以给美方打电话。 
-特朗普星期天（4月26日）接受福克斯新闻采访时说，如果伊朗想谈判，可以给美方打电话，“希望伊朗聪明一点”。　　
-另据伊朗塔斯尼姆通讯社报道，伊朗外长阿拉格齐星期天前往巴基斯坦展开磋商。 
-除双边关系会谈外，阿拉格齐将伊朗结束战事的条件转交给巴基斯坦，条件包括在霍尔木兹海峡实施新的法律制度、获得赔偿、确保不再发动军事侵略、解除海上封锁等。谈判条件与核问题无关。
-特朗普星期六（25日）告诉记者，他决定取消美国特使威特科夫和女婿库什纳的访问计划，因为在伊斯兰堡的会谈涉及过多的差旅和费用，而且伊朗最新的和平提议对他来说还不够好。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[枪手闯白宫记者晚宴 特朗普紧急离场 自称或是袭击目标之一]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956364</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956364"/>
-        <updated>2026-04-26T15:53:13.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普出席的白宫记者晚宴发生袭击事件，一名男子开枪打伤一名特勤局特工后被捕，特朗普由特勤人员紧急护送离场。特朗普说，自己可能是枪手的目标，但此事应与伊朗战事无关。目前仍不清楚枪手的作案动机。 
-一年一度的白宫记者晚宴星期六（4月25日）在华盛顿希尔顿酒店举行，晚宴刚开始不久，一名持枪男子就在酒店内一处安全检查站开枪击中一名特勤局特工，之后被执法人员逮捕。
-事发时，特朗普与夫人梅拉尼娅坐在舞台上的宴会桌旁，特朗普原定发表演讲，这是他首次以总统身份出席这个活动。宴会厅内聚集2000多名记者和其他宾客，包括副总统万斯、国务卿鲁比奥、战争部长赫格塞斯、财政部长贝森特、国土安全部长马林、众议院议长约翰逊等政要。
-现场传出巨大声响后，许多宾客吓得躲到桌底下。特勤局人员立即拔枪，快速冲上舞台把特朗普夫妇带离现场，其他内阁成员也由各自的安保团队护送离开。
-特朗普过后在白宫记者会上说，枪手来自加利福尼亚州，事发时携带多件武器强闯安全检查站，遇袭的特工因穿着防弹衣而逃过一劫。特勤局发言人证实，这名特工已出院。
-特朗普说，当局初步认为枪手单独行动。至于他本人是不是枪击目标，特朗普回应：“我猜是吧。”
-
-              
-白宫记者晚宴发生枪击事件后，美国众议院议长约翰逊（左一）由安保人员护送离场。（路透社）
-            
-特朗普认为这起事件应与伊朗战争无关，并强调“这不会阻止我赢得伊朗战争”。 
-随着美国政治两极分化加剧，自2024年以来，特朗普已遭受两次未遂暗杀。
-特朗普也借机为耗费巨资建造白宫宴会厅的计划争取支持，称这样的事件绝不会在“配备所有最高级别安全设施”的宴会厅发生。上个月，美国联邦法官叫停这项工程，直至获得美国国会授权。 
-特朗普在社交媒体上发布的监控录像显示，嫌犯快速冲过安全检查站，安保人员随即拔枪追击。
-特朗普也批评，事发酒店不是特别安全。1981年，时任美国总统里根就是在这家酒店外中弹受伤，酒店之后加强安保措施。 
-警方说，嫌犯相信是酒店住客，干案时持有一把霰弹枪、一把手枪与多把刀，他在遭到拦截期间与执法人员交火。 
-多家媒体引述执法部门消息报道，嫌犯是31岁的男子艾伦（Cole Tomas Allen），来自加州托伦斯市（Torrance）。据悉，他此前并不在当局监控名单上，携带的两把枪都是合法购得。
-消息人士告诉哥伦比亚广播公司（CBS），艾伦向执法人员供称，他的目标是特朗普政府官员。
-
-              
-现场拍摄的视频显示，宴会厅外传出枪响后，一名安保人员抓住美国副总统万斯（中）的肩膀，把他带到安全的地点。（网络视频截图）
-            
-这起事件再次引发人们对美国安保水平和高级官员安全问题的关注。枪手如何把霰弹枪偷带进酒店，预料是调查重点。
-美国代理司法部长布兰奇星期天（26日）说，嫌犯星期一（27日）将在联邦法院出庭面控，罪名包括袭击联邦官员、开枪以及企图杀害联邦官员。
-布兰奇说，嫌犯目标似乎是特朗普政府官员，其中可能包括总统，但动机还有待调查。 
-被问及这起事件是否标志着安保工作的失败，布兰奇称：“我们的目标不是阻止所有袭击，而是像昨晚那样，创造一个非常安全且可靠的环境。毫无疑问，特勤局尽到自己的职责。”
-他说，嫌犯虽开了数枪，但刚越过警戒线就立即被制服。
-世界多国领导人对这起事件表示震惊。欧盟委员会主席冯德莱恩星期天说，她事后与特朗普通了电话，两人一致认为，“政治暴力在民主国家没有立足之地”。法国总统马克龙称，这起枪击事件不可接受。 
-以色列总理内坦亚胡、印度总理莫迪、加拿大总理卡尼、墨西哥总统辛鲍姆、英国国王查尔斯三世等领导人，也对特朗普安然无事表示欣慰。
-查尔斯三世与王后卡米拉定于星期一（27日）起对美国展开四天访问。白金汉宫说，英方将同美方讨论，这起事件会否影响此次行程的安保计划。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华府晚宴枪击后 特朗普借机再推白宫巨型宴会厅计划]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956611</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956611"/>
-        <updated>2026-04-26T15:39:53.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期天借白宫记者协会晚宴枪击事件，力推他在白宫旁建造巨大宴会厅的计划。 
-特朗普星期天（4月26日）在社媒发文说：“昨晚发生的事情，正是为何我们伟大的军队、特勤局和执法部门，以及出于各种原因，过去150年来历任总统一直要求在白宫内修建一个大型且安全可靠的宴会厅。”
-特朗普3月说，美军计划在白宫新宴会厅下方，修建一座大型综合建筑，会配备防弹玻璃和防无人机等防护设施。
-特朗普在星期天的贴文称，如果是在白宫正在修建的那座具有最高军事安全措施的宴会厅，这次事件根本不会发生。
-特朗普去年10月下令推平白宫东翼，建造用于举办招待会和国宴的巨大宴会厅。然而，这项工程在进行时，并未经过通常针对华盛顿建筑景观变更所要求的繁琐审查程序。
-宴会厅项目堪称白宫百余年来最宏大的工程之一，且规模持续扩大，私人出资预算已从2亿美元（约2亿5500万新元）翻倍至4亿美元。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北爱尔兰一警局附近发生汽车爆炸]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956455</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956455"/>
-        <updated>2026-04-26T14:29:14.000Z</updated>
-        <summary type="html"><![CDATA[英国北爱尔兰首府贝尔法斯特郊区一个警察局外星期六晚上发生汽车爆炸事件，未导致人员伤亡。
-综合新华社和法新社报道，北爱尔兰警方星期天（4月26日）说，一辆汽车星期六（25日）晚在贝尔法斯特西部的特温布鲁克遭劫持，一个压缩气体储存装置被放入汽车后备箱。随后，劫车者要求司机将车开到邓默里镇（Dunmurry）警察局。
-当地警方立即拉响警报并疏散附近居民。汽车在疏散期间发生爆炸，幸未造成人员伤亡。当地警方已对事件展开调查。
-这是北爱尔兰近期发生的针对警局的第二起类似事件。
-3月30日，劫车者在北爱尔兰阿马郡劫持一辆汽车，并放入爆炸装置。劫车者要求司机将车开至勒根镇的一座警察局。警方对爆炸装置实施了引爆。
-北爱尔兰的异见准军事组织“新爱尔兰共和军”宣称，对3月底的袭击负责。
-北爱尔兰警察局副局长辛格尔顿告诉记者说：“这两起时间存在诸多相似之处……我们的初步假设是，这可能是新爱尔兰共和军所为。”
-他补充说，调查仍处于初步阶段，而调查人员将“保持开放态度”展开调查。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日媒：日本松绑军售条例扩大国防商机 二手军舰受青睐]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956256</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956256"/>
-        <updated>2026-04-26T14:27:18.000Z</updated>
-        <summary type="html"><![CDATA[日本修订《防卫装备转让三原则》，松绑武器出口条例，有消息称，向东南亚出售二手军舰极可能成为一大热门。日本防长小泉进次郎下月出访菲律宾和印度尼西亚，将与两国洽谈转让二手军舰事宜。 
-据《读卖新闻》，自民党内部正在整理一份自卫队里的二手军舰清单，因了解到一些发展中国家缺乏足够财力购买，也在考虑以低价出口。
-报道称，菲律宾看上的是海上自卫队用了30年的六艘“阿武隈”级驱逐舰。日本正在更新军备，将陆续淘汰这些军舰。日本当局拟通过改装舰上的通讯系统，改装这些二手军舰，预计最早可于明年开始分批对菲律宾交付。 
-报道也说，日菲之间自去年就开始磋商，防长小泉5月访问菲律宾为转让这些军舰进行总结。如果菲律宾的防御能力能够通过自卫队的二手装备取得提升，那么区域的海防威慑和应对能力都将得到加强，营造更加稳定的地区安全环境。
-当局对军售大开绿灯，一大目标是要通过扩大与西方的联合研发和出口高攻击能力的装备。例如，日本与英国和意大利联合研发下一代战斗机。 
-此外，日本也将向澳大利亚出售最上级驱逐舰的新型舰艇。据报道，澳洲拟购买日本海上自卫队的驱逐舰订单约2.3万亿日元（约184亿新元)。
-目前，全球十大武器制造商和国防承包商的销售额，其中六家来自美国，两家来自中国，俄罗斯和英国各占一家。日本国防企业排名最高的列第32位。
-
-受国内市场局限 日本国防产业依赖出口　　
-
-日本有分析指出，美国、中国和俄罗斯等大国可以依靠国内需求推动国防工业增长，但受国内市场局限的日本和英国，国防产业要出头就得依赖出口。
-对于开放军售，小泉此前说：“国防产业是国防能力的基石，将有助于维护和加强日本的国防生产技术。”
-长期以来，日本学术界对军事研究持谨慎态度，但也因军售条例放松而松动。自民党3月刷新学术界科技政策方针，出台的《科学技术创新基本计划》拟定今后五年推进产学合作开展军民两用技术研究。 
-分析指出，当局解除武器出口禁令，若能振兴国防工业，也就能为中小企业和初创企业打造新商机。
-根据《防卫白皮书》，日本约有1300家与坦克相关的企业和约8300家与驱逐舰相关的企业，扩大武器出口有可能催生新的国防相关产业。
-基于日本汽车制造业大不如前，当局寄望国防工业复兴，进而巩固日本产业的国际地位。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯塔默与特朗普通话讨论霍尔木兹海峡事宜]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956330</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956330"/>
-        <updated>2026-04-26T13:54:49.000Z</updated>
-        <summary type="html"><![CDATA[英国首相斯塔默与美国总统特朗普于星期天（4月26日）通电话，讨论尽快恢复霍尔木兹海峡航运的紧迫性。
-路透社报道，英国首相办公室发言人在一份声明中说：“两位领导人讨论尽快恢复霍尔木兹海峡航运的紧迫性，因为当前局势对全球经济以及英国和世界各地民众的生活成本都带来严重影响。”
-发言人补充称：“首相介绍他与法国总统马克龙共同发起、旨在恢复航行自由的最新进展。” 
-伊朗伊斯兰议会国家安全和外交政策委员会主席易阿齐兹星期天说，所有通过霍尔木兹海峡的船只必须缴纳通行费。
-阿齐兹在社交媒体上发文说：“47年的热情好客时代已结束，所有想要通过霍尔木兹海峡的船只都必须缴纳通行费。”
-德黑兰早前再度宣称完全掌控霍尔木兹海峡主权。
-伊朗伊斯兰议会议员赛义迪星期六说，德黑兰已就管理海峡拟定综合方案，在那里航行的船只须有伊朗许可，若被认定为敌国船只则不得通过，以色列的船只更是绝对禁止。获准通过的船只须就安全、环境保护、航运管理、许可发放等付费。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>

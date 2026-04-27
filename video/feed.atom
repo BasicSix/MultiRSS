@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T08:32:10.492Z</updated>
+    <updated>2026-04-27T14:02:50.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[谁才是AI编程王者？ChatGPT5.5、Claude 4.7、Deepseek V4、Qwen 3.6 实测见真章！| 零度解说]]></title>
+        <id>https://www.youtube.com/watch?v=LupCuWxtktg</id>
+        <link href="https://www.youtube.com/watch?v=LupCuWxtktg"/>
+        <updated>2026-04-27T13:29:03.000Z</updated>
+        <author>
+            <name>零度解说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【免费VPS】3分钟搞定两个免费VPS！新手也能轻松白嫖服务器 | Setup 2 Free VPS in 3 Mins! Beginner's Guide🚀]]></title>
         <id>https://www.youtube.com/watch?v=6oarnmJ3BHY</id>
@@ -307,15 +316,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>科技梦星云</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 最强 Cloudflare 免费VPN自建！无限复活、永久可用｜全球高速节点｜秒开4K8K | 零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=chcFg878840</id>
-        <link href="https://www.youtube.com/watch?v=chcFg878840"/>
-        <updated>2026-04-02T11:56:57.000Z</updated>
-        <author>
-            <name>零度解说</name>
         </author>
     </entry>
     <entry>
