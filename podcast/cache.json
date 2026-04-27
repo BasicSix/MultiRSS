@@ -1012,24 +1012,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69c15cd5d832f1da93ba7e28",
-          "author": null,
-          "description": "Finance doesn't have to feel like a foreign language. Wall Street trader-turned-financial educator Vivian Tu helps millions of people make sense of money, breaking down complex concepts into everyday terms you can understand. She shares how she broke free from the stress of living paycheck to paycheck — and explores how we can shift power structures to give everyone a real shot at building wealth.\n\n(Following the talk, Elise Hu, host of TED Talks Daily, interviews Tu on why financial literacy isn’t just about building generational wealth but rather is a way to pass on generational knowledge to your loved ones.)\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/viviantu",
-          "publishedOn": "2026-03-28T15:00:00.000Z",
-          "wordCount": null,
-          "title": "3 things I wish I knew when I was broke | Vivian Tu",
-          "itunes": {
-            "duration": "27:55"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69c15cd5d832f1da93ba7e28/media.mp3",
-            "length": "36765024",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
