@@ -330,6 +330,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "69ef7b1a1557b3279dde9a14",
+          "author": null,
+          "description": "Over two decades of interviewing countless creative people, Debbie Millman (host of the iconic \"Design Matters\" podcast) had a realization: the pride and joy of accomplishing something often evaporates almost instantly. She explains how to stop chasing external validation for your achievements and instead live for the act of creation itself.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/debbiemillman26",
+          "publishedOn": "2026-04-28T15:00:00.000Z",
+          "wordCount": null,
+          "title": "You got what you wanted. Now what? | Debbie Millman",
+          "itunes": {
+            "duration": "10:07"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ef7b1a1557b3279dde9a14/media.mp3",
+            "length": "9815279",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "69ef7a4dca8040fd317d3a2c",
           "author": null,
           "description": "Why does searching your symptoms online always leave you more frightened than before? As former chief medical officer of WebMD, physician John Whyte spent years believing more information meant better health — until he saw how too much of it was making people spiral. In a world of health influencers, algorithms and AI tools designed to keep you clicking, he reveals why clarity and context is a better prescription. \nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",

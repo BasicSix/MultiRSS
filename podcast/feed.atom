@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T14:21:04.943Z</updated>
+    <updated>2026-04-28T19:46:02.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You got what you wanted. Now what? | Debbie Millman]]></title>
+        <id>69ef7b1a1557b3279dde9a14</id>
+        <link href="http://go.ted.com/debbiemillman26"/>
+        <updated>2026-04-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over two decades of interviewing countless creative people, Debbie Millman (host of the iconic "Design Matters" podcast) had a realization: the pride and joy of accomplishing something often evaporates almost instantly. She explains how to stop chasing external validation for your achievements and instead live for the act of creation itself.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to google your symptoms without freaking out | John Whyte]]></title>
         <id>69ef7a4dca8040fd317d3a2c</id>
