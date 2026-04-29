@@ -2,198 +2,352 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T03:32:45.631Z</updated>
+    <updated>2026-04-29T08:25:22.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Cheetah silhouetted.]]></title>
-        <id>1x-3562802</id>
-        <link href="https://1x.com/photo/3562802"/>
-        <updated>2026-04-29T03:32:01.821Z</updated>
-        <summary type="html"><![CDATA[Cheetah silhouetted. by Tessa Schack]]></summary>
+        <title type="html"><![CDATA[Great Horned Owlet]]></title>
+        <id>1x-3551800</id>
+        <link href="https://1x.com/photo/3551800"/>
+        <updated>2026-04-29T08:24:40.775Z</updated>
+        <summary type="html"><![CDATA[Great Horned Owlet by sherry ma]]></summary>
         <author>
-            <name>Tessa Schack</name>
+            <name>sherry ma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arrecife de Las Sirenas - Cabo de Gata]]></title>
-        <id>1x-3562837</id>
-        <link href="https://1x.com/photo/3562837"/>
-        <updated>2026-04-29T03:32:01.819Z</updated>
-        <summary type="html"><![CDATA[Arrecife de Las Sirenas - Cabo de Gata by Manuel Jose Guillen Abad]]></summary>
+        <title type="html"><![CDATA[fur]]></title>
+        <id>1x-3544147</id>
+        <link href="https://1x.com/photo/3544147"/>
+        <updated>2026-04-29T08:24:40.609Z</updated>
+        <summary type="html"><![CDATA[fur by Albert Lim]]></summary>
         <author>
-            <name>Manuel Jose Guillen Abad</name>
+            <name>Albert Lim</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gulliver]]></title>
-        <id>1x-3562806</id>
-        <link href="https://1x.com/photo/3562806"/>
-        <updated>2026-04-29T03:32:01.816Z</updated>
-        <summary type="html"><![CDATA[Gulliver by Łukasz Pietrzak]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3562988</id>
+        <link href="https://1x.com/photo/3562988"/>
+        <updated>2026-04-29T08:24:40.607Z</updated>
+        <summary type="html"><![CDATA[Untitled by Raad Btoush]]></summary>
         <author>
-            <name>Łukasz Pietrzak</name>
+            <name>Raad Btoush</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transparens.]]></title>
-        <id>1x-3562641</id>
-        <link href="https://1x.com/photo/3562641"/>
-        <updated>2026-04-29T03:32:01.807Z</updated>
-        <summary type="html"><![CDATA[Transparens. by Ylva Sjögren]]></summary>
+        <title type="html"><![CDATA[Winding]]></title>
+        <id>1x-3562593</id>
+        <link href="https://1x.com/photo/3562593"/>
+        <updated>2026-04-29T08:24:40.598Z</updated>
+        <summary type="html"><![CDATA[Winding by Swen MUN]]></summary>
         <author>
-            <name>Ylva Sjögren</name>
+            <name>Swen MUN</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raimu]]></title>
-        <id>1x-3532479</id>
-        <link href="https://1x.com/photo/3532479"/>
-        <updated>2026-04-29T03:32:01.805Z</updated>
-        <summary type="html"><![CDATA[Raimu by KOIKI]]></summary>
+        <title type="html"><![CDATA[Toward the Green Light]]></title>
+        <id>1x-3562962</id>
+        <link href="https://1x.com/photo/3562962"/>
+        <updated>2026-04-29T08:24:40.596Z</updated>
+        <summary type="html"><![CDATA[Toward the Green Light by masaki kaneko]]></summary>
         <author>
-            <name>KOIKI</name>
+            <name>masaki kaneko</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Double Reward]]></title>
-        <id>1x-3557746</id>
-        <link href="https://1x.com/photo/3557746"/>
-        <updated>2026-04-29T03:32:01.800Z</updated>
-        <summary type="html"><![CDATA[Double Reward by Victor Wang]]></summary>
+        <title type="html"><![CDATA[Childhood on the Edge of Survival]]></title>
+        <id>1x-3544813</id>
+        <link href="https://1x.com/photo/3544813"/>
+        <updated>2026-04-29T08:24:40.594Z</updated>
+        <summary type="html"><![CDATA[Childhood on the Edge of Survival by Ala Askool]]></summary>
         <author>
-            <name>Victor Wang</name>
+            <name>Ala Askool</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JAPAN, LAKE KAWAGUCHI - MOUNT FUJI-14891]]></title>
-        <id>1x-3562808</id>
-        <link href="https://1x.com/photo/3562808"/>
-        <updated>2026-04-29T03:32:01.797Z</updated>
-        <summary type="html"><![CDATA[JAPAN, LAKE KAWAGUCHI - MOUNT FUJI-14891 by Raimondo Restelli]]></summary>
+        <title type="html"><![CDATA[Way Home]]></title>
+        <id>1x-3549169</id>
+        <link href="https://1x.com/photo/3549169"/>
+        <updated>2026-04-29T08:24:40.592Z</updated>
+        <summary type="html"><![CDATA[Way Home by Tomoaki Katsuba]]></summary>
         <author>
-            <name>Raimondo Restelli</name>
+            <name>Tomoaki Katsuba</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anaglyptus]]></title>
-        <id>1x-3562746</id>
-        <link href="https://1x.com/photo/3562746"/>
-        <updated>2026-04-29T03:32:01.794Z</updated>
-        <summary type="html"><![CDATA[Anaglyptus by Krzysztof Rudziński]]></summary>
+        <title type="html"><![CDATA[Walking between giants]]></title>
+        <id>1x-3547751</id>
+        <link href="https://1x.com/photo/3547751"/>
+        <updated>2026-04-29T08:24:40.590Z</updated>
+        <summary type="html"><![CDATA[Walking between giants by Siyu_Wei APA]]></summary>
         <author>
-            <name>Krzysztof Rudziński</name>
+            <name>Siyu_Wei APA</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Great Horned Owl at Dusk]]></title>
-        <id>1x-3561650</id>
-        <link href="https://1x.com/photo/3561650"/>
-        <updated>2026-04-29T03:32:01.757Z</updated>
-        <summary type="html"><![CDATA[Great Horned Owl at Dusk by Amy Marques]]></summary>
+        <title type="html"><![CDATA[“Between Bars and Breath”]]></title>
+        <id>1x-3562078</id>
+        <link href="https://1x.com/photo/3562078"/>
+        <updated>2026-04-29T08:24:40.588Z</updated>
+        <summary type="html"><![CDATA[“Between Bars and Breath” by Cristina Navarro]]></summary>
         <author>
-            <name>Amy Marques</name>
+            <name>Cristina Navarro</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where once]]></title>
-        <id>1x-3554288</id>
-        <link href="https://1x.com/photo/3554288"/>
-        <updated>2026-04-29T03:32:01.755Z</updated>
-        <summary type="html"><![CDATA[Where once by Leszek Paradowski]]></summary>
+        <title type="html"><![CDATA[Emperor penguins in Antarctica]]></title>
+        <id>1x-3561647</id>
+        <link href="https://1x.com/photo/3561647"/>
+        <updated>2026-04-29T08:24:40.586Z</updated>
+        <summary type="html"><![CDATA[Emperor penguins in Antarctica by HJ Yang]]></summary>
         <author>
-            <name>Leszek Paradowski</name>
+            <name>HJ Yang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[154]]></title>
-        <id>1x-3560142</id>
-        <link href="https://1x.com/photo/3560142"/>
-        <updated>2026-04-29T03:32:01.735Z</updated>
-        <summary type="html"><![CDATA[154 by Turgan Gürmen]]></summary>
+        <title type="html"><![CDATA[Fukuoka City Museum]]></title>
+        <id>1x-3557797</id>
+        <link href="https://1x.com/photo/3557797"/>
+        <updated>2026-04-29T08:24:40.584Z</updated>
+        <summary type="html"><![CDATA[Fukuoka City Museum by Dazhi Cen]]></summary>
         <author>
-            <name>Turgan Gürmen</name>
+            <name>Dazhi Cen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[leisure]]></title>
-        <id>1x-3562759</id>
-        <link href="https://1x.com/photo/3562759"/>
-        <updated>2026-04-29T03:32:01.731Z</updated>
-        <summary type="html"><![CDATA[leisure by Weiwei]]></summary>
+        <title type="html"><![CDATA[W260543]]></title>
+        <id>1x-3531643</id>
+        <link href="https://1x.com/photo/3531643"/>
+        <updated>2026-04-29T08:24:40.582Z</updated>
+        <summary type="html"><![CDATA[W260543 by Allen SDCA]]></summary>
         <author>
-            <name>Weiwei</name>
+            <name>Allen SDCA</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Entrone"]]></title>
-        <id>1x-3562752</id>
-        <link href="https://1x.com/photo/3562752"/>
-        <updated>2026-04-29T03:32:01.728Z</updated>
-        <summary type="html"><![CDATA["Entrone" by Branko Markovic]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3559008</id>
+        <link href="https://1x.com/photo/3559008"/>
+        <updated>2026-04-29T08:24:40.574Z</updated>
+        <summary type="html"><![CDATA[Untitled by Atsuyuki Watanabe]]></summary>
         <author>
-            <name>Branko Markovic</name>
+            <name>Atsuyuki Watanabe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morning surprise]]></title>
-        <id>1x-3561993</id>
-        <link href="https://1x.com/photo/3561993"/>
-        <updated>2026-04-29T03:32:01.650Z</updated>
-        <summary type="html"><![CDATA[Morning surprise by Peter Zahorecz]]></summary>
+        <title type="html"><![CDATA[K]]></title>
+        <id>1x-3562412</id>
+        <link href="https://1x.com/photo/3562412"/>
+        <updated>2026-04-29T08:24:40.573Z</updated>
+        <summary type="html"><![CDATA[K by Masaki Yazaki]]></summary>
         <author>
-            <name>Peter Zahorecz</name>
+            <name>Masaki Yazaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ONE WAY]]></title>
-        <id>1x-3562789</id>
-        <link href="https://1x.com/photo/3562789"/>
-        <updated>2026-04-29T03:32:01.628Z</updated>
-        <summary type="html"><![CDATA[ONE WAY by Jesus Concepcion Alvarado]]></summary>
+        <title type="html"><![CDATA[The Chisel and the Hunger]]></title>
+        <id>1x-3563512</id>
+        <link href="https://1x.com/photo/3563512"/>
+        <updated>2026-04-29T08:24:40.571Z</updated>
+        <summary type="html"><![CDATA[The Chisel and the Hunger by Jorge Pimenta]]></summary>
         <author>
-            <name>Jesus Concepcion Alvarado</name>
+            <name>Jorge Pimenta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grandmother and granddaughter]]></title>
-        <id>1x-3562614</id>
-        <link href="https://1x.com/photo/3562614"/>
-        <updated>2026-04-29T03:32:01.411Z</updated>
-        <summary type="html"><![CDATA[Grandmother and granddaughter by Jose C. Lobato]]></summary>
+        <title type="html"><![CDATA[Craig at sunrise]]></title>
+        <id>1x-3562954</id>
+        <link href="https://1x.com/photo/3562954"/>
+        <updated>2026-04-29T08:24:40.569Z</updated>
+        <summary type="html"><![CDATA[Craig at sunrise by Luigi Ruoppolo]]></summary>
         <author>
-            <name>Jose C. Lobato</name>
+            <name>Luigi Ruoppolo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angry dog and smiling lady]]></title>
-        <id>1x-3562811</id>
-        <link href="https://1x.com/photo/3562811"/>
-        <updated>2026-04-29T03:32:01.408Z</updated>
-        <summary type="html"><![CDATA[Angry dog and smiling lady by Stanislav Kompas]]></summary>
+        <title type="html"><![CDATA[Fast]]></title>
+        <id>1x-3562787</id>
+        <link href="https://1x.com/photo/3562787"/>
+        <updated>2026-04-29T08:24:40.567Z</updated>
+        <summary type="html"><![CDATA[Fast by Phillip Chang]]></summary>
         <author>
-            <name>Stanislav Kompas</name>
+            <name>Phillip Chang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sunset Watcher]]></title>
-        <id>1x-3562938</id>
-        <link href="https://1x.com/photo/3562938"/>
-        <updated>2026-04-29T03:32:01.403Z</updated>
-        <summary type="html"><![CDATA[Sunset Watcher by John Fan]]></summary>
+        <title type="html"><![CDATA[Mundari]]></title>
+        <id>1x-3560762</id>
+        <link href="https://1x.com/photo/3560762"/>
+        <updated>2026-04-29T08:24:40.564Z</updated>
+        <summary type="html"><![CDATA[Mundari by Trevor Cole]]></summary>
         <author>
-            <name>John Fan</name>
+            <name>Trevor Cole</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Three Musketeers]]></title>
-        <id>1x-3562122</id>
-        <link href="https://1x.com/photo/3562122"/>
-        <updated>2026-04-29T03:32:01.380Z</updated>
-        <summary type="html"><![CDATA[The Three Musketeers by Li Chen]]></summary>
+        <title type="html"><![CDATA[Le Passage Hiver]]></title>
+        <id>1x-3562961</id>
+        <link href="https://1x.com/photo/3562961"/>
+        <updated>2026-04-29T08:24:40.555Z</updated>
+        <summary type="html"><![CDATA[Le Passage Hiver by Piotr Maczka]]></summary>
         <author>
-            <name>Li Chen</name>
+            <name>Piotr Maczka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美司法部再起诉前FBI局长科米 罪名包括威胁杀害特朗普]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8971350</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8971350"/>
+        <updated>2026-04-29T07:44:28.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部再次对联邦调查局（FBI）前局长科米提起刑事指控，检方指控他曾在社交媒体上发布威胁总统特朗普生命的帖子。
+这是美国司法部针对科米（James Comey）的第二次起诉。
+彭博社报道，北卡罗来纳州东区联邦地区法院星期二（4月28日）提交的起诉书显示，一个大陪审团指控科米“明知故犯”地威胁要“夺取特朗普的生命并对他造成人身伤害”，以及通过“州际以及国际商业渠道”传送威胁信息。
+这两项指控均为重罪，最高可判处五年监禁。
+
+              
+科米自2013年至2017年担任联邦调查局局长。（路透社档案照片）
+            
+检方起诉围绕的核心是科米去年5月在网上发布的一张照片，照片显示用贝壳组成“86”和“47”两个数字。批评者称，这可能是在暗示刺杀第47任美国总统特朗普。
+美国代司法部长布兰奇在新闻发布会说，司法部绝不容忍威胁美国总统生命的行为，并依法予以起诉。
+起诉书称，“任何了解情况的理性者”都会将科米发布的照片解读为“意图严重伤害特朗普总统的严重行为”。
+科米当天在社交媒体上发布视频声明回应说：“他们又来了——这次是关于一年前在北卡罗来纳州海滩上拍的一张贝壳照片，但这不会是事情的终结，而我没有任何改变。” 
+“我仍然清白。我仍然无所畏惧……请记住，这并非我们作为一个国家的真实面貌，这也不是司法部应有的样子。”
+科米当时在社媒平台发布这张照片后很快删帖。他说，以为这两个数字代表某种政治信息，但不知道会有人把数字与煽动暴力联系起来。然而，一些特朗普政府官员声称科米鼓吹暗杀特朗普。
+美国媒体认为，特朗普去年1月再次出任总统以来，一直要求司法机关对他的政敌追究法律责任，美国司法部一直面临着巨大压力。
+去年9月，司法部以“虚假陈述”和“妨碍国会程序”等罪名起诉科米。案件核心指控围绕科米2020年9月在国会参议院司法委员会听证会上所作的陈述。那场听证会聚焦联邦调查局在特朗普第一个任期时的“通俄门”调查中是否存在不当行为。
+案件随后被联邦法官驳回，理由是当时负责起诉的检察官任命程序不合法。
+科米自2013年至2017年担任联邦调查局局长。2016年，特朗普首次赢得总统选举后，科米负责调查特朗普竞选团队是否同俄罗斯合谋干预美国大选。科米2017年被特朗普解职。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本东京都发生持械伤人 八人伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8971212</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8971212"/>
+        <updated>2026-04-29T06:50:07.000Z</updated>
+        <summary type="html"><![CDATA[日本媒体称，东京都福生市星期三（4月29日）上午发生持械伤人事件，造成八人受伤，袭击者仍在逃。
+共同社报道，29日早上7时20分许，一名男子在福生市遭到另一名男子用类似锤子的工具殴打。赶到现场的几名警察被催泪瓦斯喷到并受伤。
+另据日本TBS电视台报道，袭击者在逃回附近住家时向赶来的警察喷洒液体，事件已导致八人受伤。
+警方未在袭击者家中找到嫌犯，追捕行动还在进行。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普支持率创第二任期新低 支持美伊战争再下滑]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970941</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970941"/>
+        <updated>2026-04-29T06:39:14.000Z</updated>
+        <summary type="html"><![CDATA[路透社/益普索（Ipsos）星期二（4月28日）公布的民意调查显示，美国总统特朗普的支持率从上月的36%降至34%，为他开启第二个总统任期以来的最低水平。
+4月15日至20日进行的上一次民调显示，36%的美国人认可特朗普的执政表现。
+根据民调结果，美国人对特朗普在处理生活成本问题方面的评价明显变差，仅有22%的受访者认可特朗普对生活成本问题的处理，低于上一次民调的25%。
+自2月28日美国和以色列对伊朗发动大规模袭击以来，美国汽油价格已上涨超过40%。
+调查还发现，仅34%的美国人支持美国与伊朗打仗，低于4月中旬的36%和3月中旬的38%。
+这项全国性在线民调共收集1269名美国成年人的回复。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民调：超四成澳洲人认为燃油危机主要责任在美以]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970675</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970675"/>
+        <updated>2026-04-29T06:04:28.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚一项最新民调报告显示，超过40%的澳洲民众将当前燃油危机归咎于美国和以色列。
+新华社报道，澳洲独立研究机构精髓研究公司星期三（4月29日）发布的报告显示，42%的受访者认为，美国和以色列对伊朗发动打击是造成当前燃油危机的主要原因；32%的受访者认为澳洲政府未能提前规划应对措施，应承担主要责任；另有17%认为主要原因是伊朗关闭霍尔木兹海峡。
+当前中东冲突导致澳洲燃油价格近期飙升至历史高位，澳洲联邦及各州政府因此临时下调燃油税。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东战事胶着 亚太航空业者航班机遇与燃油挑战并存]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970680</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970680"/>
+        <updated>2026-04-29T05:31:35.000Z</updated>
+        <summary type="html"><![CDATA[（新加坡讯）中东战事促使一些旅客转搭亚太航空公司的航班飞往欧洲，带动业者的乘客增长，但燃油价格飙涨也迫使业者在未来几个月削减航班，对全球航空客运需求带来更大不确定性。
+《日经亚洲》星期二（4月28日）引述亚太航空协会的最新数据报道，亚太地区航空公司3月份的乘客量比去年同期增长了8.5%，达到3390万人次，维持了过去一年的上扬势头。
+在中东战争2月底爆发以后，亚太航空公司增加了从亚洲飞往欧洲的航班；原本服务这些航线的中东航空公司则深受战事影响。 
+亚太航空协会发表声明说：“随着中东机场枢纽的运作停顿，空域关闭，旅客转往其他替代航线。”
+协会总干事黄康说，亚太航空公司迅速回应市场需求，调整航班，增加主要的亚洲飞欧洲航线，并因应燃油和其他营运成本上涨而削减不赚钱的航线。
+不过他也指出，飞机燃油价格同比飙涨80%，在3月份达到每桶156美元，“中东冲突的冲击已开始影响今年的良好开局，这场冲突会持续多久，将影响全球经济展望和航空需求。”
+亚航泰国子公司星期二宣布将把5月至6月的航班平均削减30%，以应对燃油价格飙涨的打击。亚航X上周也已宣布将减少从曼谷飞东京、大阪、新德里和其他几个区域城市的航班。
+另一方面，越捷航空（VietJet）也削减多达18%的4月份航班以节省燃油成本。
+不过，公司同时计划今年内增加欧洲航线以抓住需求的增长，其中飞往布拉格的航班已经在公司的订票系统上线，其他飞往德国、法国和英国的航班也在筹备中。
+这个趋势反映了亚太航空业者如今须在管控燃油成本与抓紧新航线需求之间求取平衡的挑战。
+新加坡管理大学战略管理学助理教授范正平向《日经亚洲》直言，中东业者如阿联酋航空和卡塔尔航空突然停飞，使得亚太业者从载客量和价格增长中获利不少，“我不确定它们都想回到战争爆发前的局面”。
+挪威咨询公司睿咨得能源（Rystad Energy）分析师巴拉卡什（Nithin Prakash）则说：“就算美伊如今停火，石油现货市场仍未完全恢复宽松，燃油价格继续反映这个供应紧绷的状况。” 
+分析也称，亚太区域的航班削减，在接下来的旅游旺季将对不少国家如菲律宾、泰国和越南的旅游业造成冲击。
+调研公司牛津经济的高级经济师余欣娜说，战争的冲击并不止于航空公司，“旅游业高度人力密集，航班减少可迅速演变成酒店、零售和交通需求疲软”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹锡悦妨害拘留案二审宣判 刑期从五年上调至七年]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970392</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970392"/>
+        <updated>2026-04-29T04:45:29.000Z</updated>
+        <summary type="html"><![CDATA[韩国前总统尹锡悦涉嫌妨害拘留案二审，星期三（4月29日）被判七年有期徒刑。
+韩联社报道，首尔高等法院专门负责内乱案审判的刑事审判第一庭，29日就尹锡悦涉嫌动用特殊手段妨害执行公务等案件进行宣判，将刑期从五年上调至七年。
+尹锡悦去年1月动员总统警卫处职员妨害高级公职人员犯罪调查处（公调处）执行拘留令，涉嫌动用特殊手段妨害执行公务罪；仅召集部分国务委员举行国务会议讨论紧急戒严事宜，涉嫌滥用职权；在戒严解除后补制相关文件，试图为实施戒严提供正当依据，随后又予以销毁，涉嫌伪造公文。
+一审法院认定针对尹锡悦的多项指控成立，并判处他有期徒刑五年。但负责调查内乱案的独立检察组（独检组）4月6日进行的二审结案庭审时给出有期徒刑10年的量刑建议。 
+身着黑色西装、白色衬衫出庭的尹锡悦在聆听判决时面无表情。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗官员：美国试图以封锁逼迫伊朗是徒劳的]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970207</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970207"/>
+        <updated>2026-04-29T04:35:46.000Z</updated>
+        <summary type="html"><![CDATA[伊朗驻埃及开罗利益代表处负责人菲尔多西普尔说，美国试图以海上封锁迫使伊朗接受其单方面要求是徒劳的。
+新华社引述伊朗伊斯兰共和国通讯社星期三（4月29日）的报道，菲尔多西普尔说，伊朗可以利用与周边国家的陆地边界绕过封锁。
+菲尔多西普尔指美国继续对伊朗实施海上封锁不符合美国政治和经济利益，并重申霍尔木兹海峡仅对与以色列和美国有关的船只关闭。伊朗有权掌控霍尔木兹海峡的安全，并不违反国际公约。
+菲尔多西普尔还说，伊朗不信任美国，也不希望与美国直接谈判，伊朗有权动用一切手段捍卫自身安全，抵御美国和以色列攻击，美国“已在第一阶段耗尽其在中东地区的导弹储备，而伊朗更愿意重返战场”。
+《华尔街日报》28日报道，多名美国官员透露，美国总统特朗普已指示幕僚，为长期封锁伊朗做准备。
+美国官员说，对伊朗实施长期封锁，旨在打击伊朗政权的资金来源，以高风险方式迫使德黑兰放弃核计划。
+美国和以色列2月28日向伊朗发动空袭后，伊朗向以色列及有美军设施的中东国家进行反击，并封锁霍尔木兹海峡，美国随后宣布对伊朗港口和船只实施海上封锁。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美参议院否决限制特朗普对古巴动武议案]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970130</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970130"/>
+        <updated>2026-04-29T04:11:18.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院在程序性投票中否决民主党提出的一项限制总统战争权力的议案，该议案旨在阻止总统特朗普在未经国会授权的情况下对古巴发起军事行动。
+新华社报道，美国参议院星期二（4月28日）以51票对47票的结果，通过由共和党籍参议员斯科特提出的一项“程序性异议”，阻止了由三名民主党参议员共同提出的限制总统战争权力的议案。投票几乎完全按照党派划分，两名共和党议员投票支持民主党议案，一名民主党议员投票反对。
+斯科特说，由于美国目前没有对古巴发动任何敌对行动，因此试图限制总统战争权力“并不合适”。他说：“我们讨论的这项措施完全脱离古巴的实际情况，也与古巴目前正在发生的任何事情毫无关系。特朗普总统从未建议在古巴派遣地面部队。因此，这一切尝试都是无意义的。”
+民主党方面则强调美国对古巴的海上封锁以及特朗普此前发表的“下一个就是古巴”的言论。法案主要发起人之一、弗吉尼亚州民主党参议员凯恩认为，美国对古巴进行能源封锁的行动构成了军事行动。
+凯恩在投票前的参议院演讲中说：“如果有人对美国做我们正在对古巴做的事情，我们肯定会将其视为战争行为。”
+美国今年年初对委内瑞拉发动大规模军事打击后，进一步加大对古巴的压力，包括实施新一轮石油限制措施。特朗普1月29日签署行政令，威胁对向古巴提供石油的国家输美商品加征从价关税。他3月多次威胁称，完成对委内瑞拉、伊朗的军事行动后，“下一个就是古巴”。
+依据美国宪法，只有国会能授权发动战争。美国国会1973年通过的法案规定，仅由针对美国的攻击或迫在眉睫的威胁所引发的国家紧急状态下，美国总统才能在未经国会授权的情况下采取有限的军事行动。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：特朗普要求准备长期封锁伊朗]]></title>
+        <id>https://www.zaobao.com/news/world/story20260429-8970031</id>
+        <link href="https://www.zaobao.com/news/world/story20260429-8970031"/>
+        <updated>2026-04-29T03:49:55.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普已指示幕僚，为长期封锁伊朗做准备。
+《华尔街日报》星期二（4月28日）引述多名美国官员说，对伊朗实施长期封锁，旨在打击伊朗政权的资金来源，以高风险方式迫使德黑兰放弃核计划。德黑兰长期以来一直拒绝这么做。
+特朗普倾向于取得决定性的胜利，但目前所有的选项都无法让他迅速结束伊朗战争。
+美国官员称，在近日的会议中，包括27日在战情室举行的一次讨论，特朗普选择通过阻止船只进出伊朗港口来继续打压伊朗经济和石油出口。他认为恢复轰炸或退出伊朗战争比维持封锁的风险更大。
+然而继续封锁伊朗，也意味着延长这一场已经导致汽油价格上涨、损害了特朗普的民调支持率的战争，并使共和党在11月中期选举的前景更为暗淡。
+而且霍尔木兹海峡的船舶通行量也降至美以伊战争爆发以来的最低水平。
+目前特朗普认为无限期封锁伊朗是一个好选项。28日，他在社媒平台Truth Social贴文称，封锁正将伊朗推向“崩溃边缘”。
+一名美国高级官员说，封锁措施显然正在重创伊朗经济，伊朗正竭力储存未售出的石油，并促使伊朗重新向华盛顿寻求接触。
+特朗普的决定标志着这场战争进入一个新阶段，但同时也凸显了一个事实：总是寻求速战速决，且能带来可观收益胜利的特朗普，缺乏一个万全之策。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -447,157 +601,6 @@ Devex引述其中一份文件称：“这些改革将表明联合国认真对待
 此外，一审已认定涉不当利益罪的其他名牌包及格拉夫项链，在二审中亦维持有罪判断。量刑理由中，法院特别提及金建希“总统配偶”身份，指出这一身份具备对国家权力的间接影响力及高度象征性，应承担更高标准的廉洁与道德责任。然而，被告人却利用其地位实施违法行为，损害公共信任。
 法院还指出，这起案件在社会层面引发广泛争议，加剧舆论分裂与社会矛盾，负面影响重大。
 当天公审经法院许可进行现场直播。宣判结束后，金建希律师团向媒体表明，对判决是否“扩大部分事实认定”存有疑问，将在与当事人协商后向最高法院提起上诉。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄莫斯科一栋建筑发生火患 造成至少七死13伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8967774</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8967774"/>
-        <updated>2026-04-28T13:05:39.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯莫斯科北部一栋建筑发生火患，造成至少七人死亡，13人受伤。
-据俄罗斯塔斯社报道，俄罗斯紧急救援部门说，火患发生于星期二（4月28日），地点是机场区一栋未完工的多层住宅楼，火势迅速蔓延至二楼和三楼。
-当局说，当时楼内有多达200人。消防员迅速赶到现场使用起重设备到达高层，救援队也在浓烟弥漫的楼内展开灭火行动。
-初步评估认为，施工中违反安全规定可能是引发火灾的原因之一。检察官已对此立案调查。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟历来首次制定猫狗动物保护法令]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8967737</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8967737"/>
-        <updated>2026-04-28T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[欧盟星期二（4月28日）首次通过覆盖整个欧盟地区的猫狗等动物保护法令，包括禁止对猫狗施行残害肉体的剪耳和截尾等行为。
-根据欧盟委员会数据，欧盟27个成员国共有7200万只狗和8300万只猫，在这以前只制定了涉及在欧盟地区旅行所须遵循的卫生医疗条例。
-周二新通过的条例禁止具有侵害性的育种方式，也规定蓄养的猫狗必须佩戴微型晶片，以更有效管制这个总值超过13亿欧元（约19.4亿新元）的猫狗市场，并协助扼制一些东欧国家如保加利亚和罗马尼亚相对严重的动物走私问题。
-新条例也禁止近亲繁殖以及刻意凸显某些可能影响动物身心福利的特征如短腿的配种。只有当某个品种的遗传多样性较低，才可进行近亲繁殖。
-新条例的最终法律文本也禁止家畜和野生品种的交杂配种，因为这可导致动物产生不适宜蓄养的行为。
-另外，警犬、军犬和边境巡逻犬也可豁免于一些禁令，例如训练狗只须佩戴的强制性项圈。
-欧盟议员也试图禁止宠物店蓄养及售卖猫狗宠物，但最终没有涵盖在最终文本。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋宣布退出石油输出国组织]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8967749</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8967749"/>
-        <updated>2026-04-28T12:59:15.000Z</updated>
-        <summary type="html"><![CDATA[阿联酋宣布退出石油输出国组织，这对相关组织及事实上的领导者沙特阿拉伯来说无疑是沉重的打击。
-阿联酋官方通讯社WAM报道称，阿联酋将于5月1日退出石油输出国组织（OPEC），以及石油输出国组织及盟友（OPEC+），并称这是阿联酋的一项战略决策。
-报道称，这一决定体现了阿联酋的长期战略和经济愿景，以及不断变化的能源结构。
-阿联酋能源部长马兹鲁伊（Suhail Mohamed al-Mazrouei）告诉路透社，阿联酋在仔细审视该地区大国的能源战略后做出这个决定，这将让阿联酋拥有更大的灵活性，因为它在该组织下没有任何义务。
-他也说，阿联酋在做出这一决定之前没有直接咨询其他国家，包括沙特阿拉伯。
-马兹鲁伊也说，鉴于海峡局势，此举不会对市场产生巨大影响。
-作为石油输出国组织长期成员国的阿联酋，突然退出组织可能会造成混乱。尽管组织内部在从地缘政治到产量配额等一系列问题上存在分歧，但一般力求保持团结。
-阿联酋退出组织对美国总统特朗普来说无疑是一次胜利，特朗普曾指责石油输出国组织通过抬高油价“剥削世界其他国家”，甚至将美国对海湾地区的军事支持与油价挂钩，称美国在保护组织成员国的同时，这些成员国却“利用美国抬高油价”。
-作为地区商业中心和华盛顿最重要的盟友之一的阿联酋，曾批评其他阿拉伯国家在战争期间未能充分保护它其免受伊朗的多次袭击。
-阿联酋总统外交顾问加尔加什星期一（27日）在海湾影响力论坛上，批评阿拉伯国家和海湾国家对伊朗袭击事件的回应。“海湾合作委员会成员国在后勤方面互相支持，但在政治和军事方面，我认为他们的立场历来最弱。”
-他也说：“我预料到阿拉伯联盟会采取这种软弱的立场，对此我并不感到意外，但我没想到海湾合作委员会也会如此，这让我感到惊讶。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布伦特原油重回110美元以上 市场等待美对伊提议回应]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8967720</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8967720"/>
-        <updated>2026-04-28T12:58:34.000Z</updated>
-        <summary type="html"><![CDATA[伦敦市场油价上涨至三周以来的高点，突破每桶110美元，全球正等待美国对伊朗提议作出回应。
-彭博社报道，布伦特原油价格星期二（4月28日）升至111美元以上，使本周累计涨幅接近6%。西得克萨斯中质原油（WTI）原油价格也在98美元以上。
-伊朗媒体称，伊朗外长阿拉格齐已传达提议，即如果美国解除海上封锁、同意为通过海峡的航运建立新的法律框架，并保证未来不会对伊朗采取军事行动，这场冲突就有可能结束。
-《华尔街日报》引述美国官员报道称，美国总统特朗普及国家安全团队对伊朗的提议持怀疑态度，但将继续进行磋商，白宫可能会在未来几天提出回应和建议。不过，报道称，德黑兰不愿满足特朗普的关键要求，包括停止铀浓缩并承诺永不制造核武器。
-美国国务卿鲁比奥说，伊朗似乎仍希望保留对霍尔木兹海峡的控制权，他强调这对美国来说不可接受。
-自4月初以来，停火总体上得以维持，但伊朗和美国的封锁已使霍尔木兹海峡的每日通行量几乎降至零。霍尔木兹的关闭阻断了原油、天然气和成品油的运输，推高了能源价格，并加剧了人们对通胀的担忧。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗宣布禁止出口钢铁产品]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8967679</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8967679"/>
-        <updated>2026-04-28T12:41:21.000Z</updated>
-        <summary type="html"><![CDATA[伊朗宣布禁止出口钢铁产品，伊朗钢铁工业此前遭到空袭。
-法尔斯通讯社星期二（4月28日）报道，伊朗海关当局发布指令，禁止钢铁产品出口，包括钢坯、钢板和钢带等。这项指令自4月26日起生效。
-以色列在4月8日停火生效前几天空袭伊朗，摧毁伊朗70%的钢铁产能，同时袭击伊朗石化设施和交通基础设施。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟加拉首座核电厂周二开始装载铀燃料]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8967275</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8967275"/>
-        <updated>2026-04-28T11:40:55.000Z</updated>
-        <summary type="html"><![CDATA[孟加拉首座核电厂星期二（4月28日）开始装载铀燃料，目标是在明年底全面投入运作，供应2400兆瓦的电力，满足全国约20%的基本电力需求，缓解当前电网供应不足的紧张局面。
-由俄罗斯负责兴建的鲁普尔核电厂（Rooppur Nuclear Power Plant）于2017年动工，总共耗资110亿美元（约140亿新元）。
-核电厂高级科学信息官艾哈迈德（Saikat Ahmed）告诉法新社：“一旦燃料装载完成，反应堆堆芯将启动可控核裂变链式反应。这标志着物理启动阶段的开始。”
-核电厂的目标是今年8月可开始提供约300兆瓦电力，在年底进一步提高至1200兆瓦。专家指出，在当前能源紧张的局面，核电厂的投入能起到的作用有限，不过在长期将可提供可观的缓冲，应对将来可能发生的能源冲击。
-孟加拉的工业可持续和环境管理研究机构ESTex基金会主席何赛因（Ijaz Hossain）接受《日经新闻》访问时说：“孟加拉的基本负荷电力需求约介于1万至1万2000兆瓦，如果我们能从鲁普尔核电厂获得2400兆瓦，就相当于满足了24%的需求，这是很显著的。”
-不过每年盛夏，民众大量使用高耗能的冷气空调，孟加拉电网都会面临更巨大压力。何赛因说，孟加拉在夏天的总电力需求可高达1万8000兆瓦，意味着它还需要额外的政策来进一步拓展电力来源。
-根据国际能源署数据，截至2023年，孟加拉约66%电力来自天然气，其余三分之一则来自石油和煤炭，可再生能源只占非常小的部分。
-孟加拉95%的石油和天然气都依赖进口，其中大部分来自中东地区。自2月底中东战争爆发以来，途经霍尔木兹海峡的能源运输受到干扰。
-2月才刚刚上任的孟加拉新政府，至今致力保持能源价格稳定，不过仍在4月19日被迫调高柴油和汽油价格多达15%。这对它的财政赤字状况造成极大压力，且孟加拉的外债已高达1130亿美元。
-美国智库能源经济与财务分析研究所分析师阿拉姆（Shafiqul Alam）向《日经新闻》说：“中东战事推高了天然气的成本，加重政府补贴的负担。从这个角度看，鲁普尔核电厂投入运作除了可协助缓解电力供应压力，也能局部降低对进口能源的依赖，减少政府当前面对的补贴压力。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电动空中德士试飞纽约]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8966978</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8966978"/>
-        <updated>2026-04-28T11:36:20.000Z</updated>
-        <summary type="html"><![CDATA[（纽约综合电）美国一家空中德士开发商星期一（4月27日）宣布，完成纽约市首次点对点、电动垂直起降空中德士示范飞行，展示了零排放、低噪音的飞行技术。
-这些示范飞行属于一项新的联邦试点项目，旨在加速空中德士融入美国空域。
-这家公司Joby Aviation将进行为期10天的试验飞行，它从肯尼迪国际机场起飞，降落在市内数个直升机场，可在不到10分钟内连接曼哈顿下城和中城到肯尼迪机场。
-空中德士可搭载四名乘客和一名飞行员，最高时速可达每小时200英里（约322公里）。
-去年，纽约通勤者因交通拥堵平均损失约102小时，而公司目标是将前往肯尼迪机场长达120分钟的车程，大幅缩短为约7分钟的飞行。
-据《纽约邮报》报道，Joby旗下子公司Blade Air Mobility总裁维森塔尔称，乘坐公司空中德士的费用，大致相当于优步高级轿车服务的费用。例如，星期一下午，从曼哈顿中城到肯尼迪机场的优步高级轿车服务收费193美元（约246新元）。 
-Joby首席执行官贝维特说，他们计划最早今年下半年在纽约、得克萨斯州和佛罗里达州启动载客飞行。公司仍须获得美国联邦航空管理局的批准才能在美国开展商业运营。
-近年来，直升机被广泛利用于观光、包机和通勤服务，噪音投诉随之飙升。公司称，空中德士在空中噪音约为45分贝，仅为传统直升机的一半左右。
-此外，空中德士在安全方面优于传统直升机；机身配有六个螺旋桨，每个螺旋桨由两台电动机驱动，并分别连接独立的电池组，并配有三台飞行计算机。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普遇刺未遂 俄伊官媒疑借机放大阴谋论]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8965673</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8965673"/>
-        <updated>2026-04-28T11:31:52.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普遭遇枪击未遂事件后，网络迅速充斥“自导自演”的阴谋论。分析指出，这些未经证实的说法不仅反映美国政治极化加剧，更被俄罗斯和伊朗官媒放大，进一步加剧美国社会舆论分裂。 
-上星期六（4月25日），华盛顿希尔顿酒店会场外响起枪声，特朗普和政府高级官员在特勤人员护卫下撤离。美执法部门仍在调查袭击事件，目前没有证据显示特朗普政府参与策划。
-不过，一些反特朗普账号在没有证据的情况下，声称白宫策划这起枪击事件，目的是转移外界对不利新闻的关注，包括不受欢迎的美以伊战争。另有说法声称，特朗普欲借此争取公众同情，以应对支持率下滑和共和党可能在中期选举失利的局面。 
-虚假信息监测机构NewsGuard数据显示，单是在社媒平台X，有关阴谋论在事发两天内的浏览量已达8000万次。
-
-敌对国家媒体放大阴谋论
-
-伦敦战略对话研究所指出，枪击事件发生后，俄罗斯和伊朗官方媒体进一步放大相关阴谋论，包括声称袭击者与以色列军方有关。
-虚假信息研究人员指出，这类叙事之所以迅速扩散，与美国社会对主流媒体的不信任、党派化信息消费，以及突发事件初期可靠信息不足有关。
-
-政治极化助推阴谋论扩散
-
-《华盛顿邮报》分析发现，约五分之一发布相关内容的左翼和自由派网红及政治人物使用了阴谋论语言。同时，部分“让美国再次伟大”（MAGA）的网红近来也重新传播特朗普曾自导自演2024年刺杀未遂事件的虚假说法，显示支持特朗普的基本盘也开始松动。
-研究阴谋论的学者罗斯柴尔德（Mike Rothschild）指出，“自导自演刺杀”的说法最初主要流传于自由派内容创作者之间，但随着部分右翼支持者对特朗普信心下降，这类说法也开始在右翼阵营传播。
-罗斯柴尔德说：“这种说法把（特朗普）描绘成一个操控局势的人。这些所谓的‘证据’，要么是误解，要么是其他网络疯传的视频，甚至只是人们凭空编造的内容。”
-白宫驳斥这些阴谋论。白宫发言人英格尔发声明称：“任何认为特朗普总统自导自演暗杀企图的人，都是极其愚蠢的。”
-也有分析指，阴谋论持续扩散，还与社交媒体平台近年来缩减内容审核资源有关。部分平台的收入分成机制也鼓励网红传播耸动内容，以吸引流量并提高收益。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英王查尔斯三世访美安保严密]]></title>
-        <id>https://www.zaobao.com/news/world/story20260428-8966948</id>
-        <link href="https://www.zaobao.com/news/world/story20260428-8966948"/>
-        <updated>2026-04-28T11:17:19.000Z</updated>
-        <summary type="html"><![CDATA[英国国王查尔斯三世和王后卡米拉周一（4月27日）如期抵达美国，展开四天国事访问。这是查尔斯三世登基后首次访美，也是英国君主自2007年以来首次对美国进行国事访问。
-由于美国总统特朗普日前出席白宫记者协会晚宴时遭遇枪击事件，查尔斯三世此行的安全备受关注，英美当局加大了安保力度。图为工人周一在美国国会山附近设置安全路障，为查尔斯三世周二在美国国会的演讲做准备。 
-白金汉宫说，此次访问旨在纪念美国独立250周年，同时彰显英美两国历史渊源与现代双边关系。预料，查尔斯三世将趁此行，修复因美伊战争而趋于紧张的英美关系。（彭博社）]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -871,16 +874,6 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         <link href="https://ducorn.com/agi-definition-war"/>
         <updated>2026-03-31T05:47:54.000Z</updated>
         <summary type="html"><![CDATA[GPT-5 的 AGI 分數 57%，記憶力拿了 0 分。黃仁勳說 AGI 已經到了，OpenAI 合約裡秘密把 AGI 定義成能賺到 1000 億美元利潤的技術。三把尺量出三個完全相反的結論——你老闆用的是哪一把，決定你該不該擔心自己的工作。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你讀了《原子習慣》為什麼還是沒改變]]></title>
-        <id>https://ducorn.com/identity-lag</id>
-        <link href="https://ducorn.com/identity-lag"/>
-        <updated>2026-03-30T17:05:12.000Z</updated>
-        <summary type="html"><![CDATA[《原子習慣》教你先決定身份，Ibarra 叫你別想了先去做，兩個方向完全相反。五本暢銷書的處方互相矛盾：先做再想、先想再做、先放下、像科學家測試。因為「卡住」有四種不同形態，你要先診斷自己是哪一種，才知道該聽誰的。問題不在方法。你拿胃藥去治頭痛。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
