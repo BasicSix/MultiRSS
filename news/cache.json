@@ -53,14 +53,64 @@
       "siteUrl": "https://www.zaobao.com/realtime/world",
       "articles": [
         {
+          "id": "https://www.zaobao.com/news/world/story20260501-8981825",
+          "author": null,
+          "description": "美国申请失业救济人数降至数十年来最低水平，表明裁员公告尚未明显转化为实际裁员。\n美国劳工部星期四（4月30日）公布的数据显示，在截至4月25日当周，首次申领失业救济人数减少2.6万人，降至18.9万人。彭博对经济学家进行调查得出的预测中值为21.2万人。\n持续申领失业救济人数——也是领取救济人数的替代指标——在之前一周下降至179万人，为两年来的最低水平。\n彭博社报道，尽管Meta Platforms Inc.和耐克等知名公司宣布裁员，但申领失业救济人数仍维持在低位，这表明劳动力市场仍处于低裁员环境。美联储周三维持利率不变，美国联邦储备局主席杰罗姆·鲍威尔将劳动力市场显示出“越来越多稳定迹象”列为无需急于进一步降息的原因之一。\n在未经季节性因素调整之前，首次申领失业救济人数上周也有所下降。纽约州降幅居首，申领人数减少近1.1万人，抹去了此前两周的大幅增加。加利福尼亚州和康涅狄格州的申领人数也显著下降。\n星期四公布的另一份报告显示，受企业和消费者需求稳健推动，美国第一季度国内生产总值增长2%。",
+          "link": "https://www.zaobao.com/news/world/story20260501-8981825",
+          "publishedOn": "2026-04-30T16:05:03.000Z",
+          "wordCount": 680,
+          "title": "美国首次申请失业救济人数下降 至1969年以来最低水平",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/8760962c4869699d3e0cda20242641ad1ca5e41abd11ea6c65dcf77e981a3f9e"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260430-8981771",
+          "author": null,
+          "description": "美国商务部公布的初步数据显示，今年第一季度美国国内生产总值（GDP）环比按年率计算增长2%，低于市场预期。\n星期四（4月30日）发布的数据显示，当季占美国经济总量约70%的个人消费支出增长1.6%，低于前一季度的1.9%。个人消费支出、国内私人投资以及政府消费和支出对一季度经济增长的贡献分别为1.08个百分点、1.48个百分点和0.73个百分点，商品与服务净出口的贡献为负1.3个百分点。\n新华社引述数据说，受中东战事带来的能源价格大幅上涨影响，美国一季度个人消费支出价格指数上涨4.5%，显著高于前一季度的2.9%；同期扣除食品和能源后的核心消费支出价格指数上涨4.3%，高于前一季度的2.7%。",
+          "link": "https://www.zaobao.com/news/world/story20260430-8981771",
+          "publishedOn": "2026-04-30T15:39:16.000Z",
+          "wordCount": 669,
+          "title": "美国一季度经济增长低于预期",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a50560cdd797f8a7a84df2ae2dd30411e19b2ab0651995b30a563bb9225a116a"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260430-8981734",
+          "author": null,
+          "description": "德国联邦统计局公布的初步数据显示，经价格、季节和工作日调整后，今年第一季度德国国内生产总值环比增长0.3%。去年第四季度，德国经济环比增长0.2%。\n德国联邦统计局在星期四（4月30日）发布的公告中说，今年第一季度，私人和政府消费支出是经济增长的主要驱动力。此外，出口也有所增长。\n新华社引述德国基尔世界经济研究所发表的声明说，中东战事引发的能源及原材料价格急剧上涨已开始对经济形成压力。若冲突持续，不仅将继续削弱企业和消费者信心，还将扰乱国际供应链，可能导致第二季度经济产出下降。\n德国联邦政府日前在春季经济预测报告中指出，受中东战事冲击，德国经济复苏前景较为脆弱。报告预计，2026年德国经济仅增长0.5%，明显低于今年1月预测的1%；同时，持续存在的贸易保护主义措施也将拖累出口，对经济造成更大压力。\n中国新闻社引述德国中央合作银行经济分析师克里斯托夫·斯翁克说，当前德国经济表现虽令人欣慰，但可能难以持续。霍尔木兹海峡航运受阻推高通胀，并导致包括慕尼黑莱布尼茨经济研究所（Ifo）商业景气指数在内的重要信心指标大幅下降。他指出，只有结束冲突并尽快恢复霍尔木兹海峡通航，才能避免更大损失。\n德国工业联合会主席彼得·莱宾格认为，得益于政府在基础设施等领域的大规模投资，德国经济今年或有望避免衰退。但他强调，仅靠财政支出无法替代结构性改革，应对外部冲击的关键是打造具有竞争力的经济环境。",
+          "link": "https://www.zaobao.com/news/world/story20260430-8981734",
+          "publishedOn": "2026-04-30T15:29:58.000Z",
+          "wordCount": 552,
+          "title": "德国经济第一季度环比增长0.3%",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/23348d6050fcd66b84462886ac5556452bf45e4be1db4ae0fc8505bfde41ee10"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260430-8981559",
+          "author": null,
+          "description": "巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）发表声明，谴责以色列海军扣押驶往加沙地带的“全球坚韧船队”（Global Sumud Flotilla）船只及人员。\n哈马斯在星期四（4月30日）的声明中称以海军在希腊克里特岛附近海域对驶往加沙地带的船队发动袭击是“海盗行为”，呼吁国际社会采取行动，追究以方责任，促使释放被扣押的活动人士。\n杰哈德在声明中称，以色列军舰袭击了手无寸铁的活动人士船只，并用激光束照射他们，强迫他们下跪，以海军的行为是对国际法的践踏。\n新华社也引述意大利安莎社的报道说，“全球坚韧船队”上载有人道主义援助物资，试图突破以色列对加沙地带的海上封锁。船队方面说，以方拦截了22艘船，扣押人员中包括24名意大利人。意大利总理梅洛尼对以方行动表示谴责，要求以方“立即释放”相关人员。\n以色列外交部同日发表声明称，该船队的幕后推手是哈马斯，目的是为了阻挠加沙停火谈判推进、转移人们对哈马斯拒绝解除武装的注意力。",
+          "link": "https://www.zaobao.com/news/world/story20260430-8981559",
+          "publishedOn": "2026-04-30T14:44:37.000Z",
+          "wordCount": 680,
+          "title": "以色列海军扣押国际船队 巴勒斯坦组织与意大利谴责",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/943c5f896b313626ee45b75bc8d8f40ba8227b25e73c4e72e8823a2011fd4d12"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260430-8981382",
+          "author": null,
+          "description": "（华盛顿／迪拜综合电）美国特朗普政府正在要求其他国家加入一个新国际联盟，通过分享信息、协调外交与落实制裁来推动霍尔木兹海峡恢复航运。美伊则仍毫无重启谈判的迹象，双方剑拔弩张，市场持续担忧导致油价一度创下四年来高位。\n《华尔街日报》周三（4月29日）报道，特朗普政府要求其他国家加入一个由美国主导、名为“海事自由建构”（Maritime Freedom Construct）的国际联盟。美国国务院周二已向各地使馆发送内部电讯，要求外交官们力推各国政府加入，显示特朗普政府需要其他国家共同参与海峡当前和未来的管理。但这似乎与特朗普总统此前屡次主张盟友尤其是欧洲的盟友，应该带头解决海峡封堵的立场相反。\n特朗普政府一名高级官员证实，这是提供给特朗普的许多外交和政策方案之一。根据美国国务院的内部电讯，国务院将扮演外交运作枢纽的角色，美军中央司令部则负责为商业船运提供即时海事讯息，以及协调伙伴国军方的信息分享。\n在这之前，欧洲各国已召开数次会议商讨对策，以在美伊战争结束后，确保船只能够继续在霍尔木兹海峡通行。英国和法国4月中旬就共同主持了一场有50多个国家参加的国际会议。美国国务院的内部电讯指出，“海事自由建构”将与其他海上安全行动联盟形成互补，这包括英法牵头的海事规划行动。\n伊朗最高领袖穆杰塔巴周四发声明称，自2月28日战争爆发以来，波斯湾和霍尔木兹海峡的局势已翻开了新的一页。他指美国遭遇了“耻辱性失败”，并称伊朗将确保波斯湾地区安全。他还说，以新的方式管理霍尔木兹海峡，今后将为所有地区国家带来和平、进步与经济利益。\n伊朗总统佩泽希齐扬同天说，美国对伊朗港口的海上封锁只是在加剧波斯湾地区的动荡，这么做既违反国际法，也无法实现美方的目标，最后注定失败。\n伊朗革命卫队一名高级官员周四称，美国对伊朗的任何攻击，即使规模有限，都将引来伊朗的长期反击。前一天，伊朗军方警告，如果美国继续封锁与伊朗有关的船只，伊朗将采取前所未有的军事反击。 \n特朗普已在周一指示官员准备对霍尔木兹海峡进行长期封锁，直到伊朗屈服并满足特朗普的要求。他周三接受美国新闻网站Axios的电话采访强调，在与伊朗针对核计划达成协议之前，他不会解除对伊朗港口的海上封锁，并称封锁比轰炸更有效。\nAxios周三也报道，美军中央司令部司令库珀周四会向特朗普汇报可对伊朗采取的新军事行动，以迫使伊方在核问题的谈判上让步。消息人士说，中央司令部已经制定一项针对伊朗的短期强力打击计划，可能打击包括伊朗的基础设施。\n另一项计划则是要控制霍尔木兹海峡的部分区域，以重新开放商业航运，此类行动可能需要地面部队参与。军事汇报可能提及的另一个选项是派出特种部队，确保伊朗高浓缩铀库存的安全。\n彭博社引述消息人士的话报道，美军中央司令部已经要求把陆军的“暗鹰”（Dark Eagle）高超音速导弹运到中东，以在必要时打击伊朗境内的弹道导弹发射阵地。如果这项要求获得批准，那将是美国首次部署高超音速导弹。暗鹰导弹的射程超过3500公里。美国政府问责局曾说，暗鹰系统包括导弹的造价高达27亿美元。 \n另一方面，白宫官员周三说，前一天特朗普与石油公司高官探讨如何减缓霍尔木兹海峡长期封锁，对美国消费者造成的冲击。\n国际油价在特朗普宣布长期封锁海峡后飙升超过7％，布伦特油价截至周四下午每桶报超过126美元，再创俄乌战争爆发以来最高，过后到了晚上稍微下跌。\n新西兰资源部长琼斯（Shane Jones）周四呼吁美国落实承诺，派船运石油到太平洋岛国地区。琼斯对华盛顿愿意协助他们应对燃油供应安全挑战表示赞许，但提醒美方应当付诸行动。\n本月初美国国务卿鲁比奥与新西兰外长彼得斯在华盛顿会面，讨论美国派油船到新西兰，援助太平洋岛国。彼得斯当时告诉新西兰媒体，美方非常积极表示，如有必要，他们可以向太平洋岛国提供支持。",
+          "link": "https://www.zaobao.com/news/world/story20260430-8981382",
+          "publishedOn": "2026-04-30T14:34:15.000Z",
+          "wordCount": 701,
+          "title": "特朗普号召各国加入新国际联盟 重开霍尔木兹海峡",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/f03833fcc433bc7c54bf3e0b9828569588114f74cc145efdd910eef30138e20d"
+        },
+        {
           "id": "https://www.zaobao.com/news/world/story20260430-8981359",
           "author": null,
           "description": "挪威诺贝尔委员会秘书长克里斯蒂安·贝格·哈普维肯说，有约287名候选人角逐2026年诺贝尔和平奖，美国总统特朗普很可能位列其中。他说，今年的提名名单中，208位是个人，79位是组织，与去年相比，今年的提名人选有很多新面孔。\n哈普维肯（Kristian Berg Harpviken）星期四（4月30日）在接受采访时说：“我上任不久，让我感到有些意外的是，每年的提名名单都有如此多的新面孔。”他自2025年1月起担任秘书长。\n路透社引述他说，尽管全球冲突不断增加，国际合作面临压力，但诺贝尔和平奖仍然具有现实意义。\n哈普维肯指出：“在我们生活的这个时代，和平奖显得尤为重要。现在各界所投入的贡献，比起过去可谓是有增无减。”\n柬埔寨、巴基斯坦和以色列领导人表示，他们已提名特朗普角逐今年的和平奖。提名的截止日期为1月31日。\n由于提名名单必须保密50年，因此无法验证上述说法。哈普维肯拒绝透露特朗普是否已获得提名。\n除了委员会成员外，能递交提名的包括各国政府成员与国会议员、现任国家元首、大学的历史、社会科学、法律与哲学教授，以及往届诺贝尔和平奖得主等。",
           "link": "https://www.zaobao.com/news/world/story20260430-8981359",
           "publishedOn": "2026-04-30T13:54:34.000Z",
-          "wordCount": 693,
+          "wordCount": 697,
           "title": "诺贝尔和平奖287人或组织获提名 特朗普或在名单上",
-          "imageUrl": "https://www.zaobao.com.sg/_web2/assets/social-share.png"
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ae9e4b1882a70f518a989604b9d4c280949d3026e8a7cefc72910ac7165030e3"
         },
         {
           "id": "https://www.zaobao.com/news/world/story20260430-8980071",
@@ -68,7 +118,7 @@
           "description": "澳大利亚悉尼附近海滨小镇格林贡（Gerringong）的塔斯曼大道（Tasman Drive），被誉为“澳洲最美街道”，在全网爆红。各路游客纷纷“打卡”拍照，打破镇上的宁静，引起当地居民不满。\n格林贡只有4000多人口，有居民反映，一些游客在路中间摆拍，还有人乱扔垃圾，“大家已忍无可忍”。\n一些居民采取极端措施，打开花园洒水器，阻止游客在自家草坪上拍照。还有居民尝试组建委员会，要求将塔斯曼大道改为单行道，以防游客车辆为拍照而减速停车。（法新社）",
           "link": "https://www.zaobao.com/news/world/story20260430-8980071",
           "publishedOn": "2026-04-30T12:50:23.000Z",
-          "wordCount": 609,
+          "wordCount": 611,
           "title": "澳洲小镇沿海街道爆红 过多游客“打卡”引居民不满",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/145e72d5778cbcceaa551a9ad9108d53ade577276fb4f81baac65b1be0a6ab16"
         },
@@ -241,56 +291,6 @@
           "wordCount": 695,
           "title": "美联储主席人选沃什通过参议院关键关卡 有望5月确认",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0ea949ce2ec673c7980787b4d78b46a96e0306b40fc84eee56521668e611ae20"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260430-8975510",
-          "author": null,
-          "description": "美国联邦储备局周三宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间不变。这一决定符合市场预期，为今年连续第三次维持利率不变。\n不过，围绕星期三（4月29日）发布的政策声明，美联储负责制定货币政策的核心决策机构——联邦公开市场委员会却出现了自1992年以来最严重的分歧：委员会12人中，八票赞成，四票反对。\n一名投反对票的成员主张降息25个基点，另有三人支持维持利率不变，但不支持在声明中体现放松货币政策的倾向。\n美联储周三在声明中指出，近期指标显示经济活动正稳步扩张，新增就业大体上依然处于低位，失业率近几个月变化很小。通胀居高不下，部分原因是近期全球能源价格上涨。\n美联储说，中东局势的变化给经济前景带来高度不确定性。美联储重申将致力于实现最大程度就业和2%通胀目标。\n在考虑进一步调整利率目标区间的幅度和时间方面，美联储将仔细评估新的数据、不断变化的经济前景以及风险的总体情况。\n利率决议公布后，美股三大指数短线走低，现货黄金微幅下挫，美元指数短线走高10点。",
-          "link": "https://www.zaobao.com/news/world/story20260430-8975510",
-          "publishedOn": "2026-04-29T23:41:11.000Z",
-          "wordCount": 680,
-          "title": "美联储连续三次宣布维持利率不变",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/cf2e9def5751a906607fa221982d13b731ccb31f9b00aa44f5f2fbf1cee2fde5"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260430-8975487",
-          "author": null,
-          "description": "（华盛顿综合电）美国联邦储备局主席鲍威尔说，他5月15日卸任主席后，将继续当一名“低调的理事”。这番表态引来美国总统特朗普和财长贝森特强烈反弹，指他“破坏常规”，也“羞辱”了即将接任的沃什。\n鲍威尔星期三（4月29日）最后一次主持政策会议后在记者会上说，虽然司法部官员已向他担保不会重启联储翻修总部的刑事调查，除非联储内部监管单位建议这么做，但哥伦比亚区联邦检察官皮罗（Janine Pirro）仍表明若有必要还是会重启。 \n理事任期在2028年1月才结束的鲍威尔说：“我说过，在调查真正透明地完结前不会离开，我坚持这一点。当我认为应当离开，就会离开。”\n鲍威尔还说，美联储过去一年遭受史无前例的司法攻击让他担忧，美联储不受政治影响的独立货币政策运作将受到威胁。他希望这样的政治氛围能平静下来，让美联储专注执行它的核心任务。\n鲍威尔决定留任，意味着特朗普暂时无法在七名理事中安插新人，完全如愿地重塑美联储。\n特朗普在社媒贴文说，鲍威尔要留任是因为“他找不到其他工作，没人要他”。\n贝森特当天接受福克斯商业频道访问时，也批评鲍威尔的决定“违背了美联储的所有常规”。\n他说：“对一名自诩为体制主义者并注重联储常规的人来说，这么做高度不寻常。” \n贝森特声称，鲍威尔的决定对特朗普提名接任主席的沃什和其他两位理事鲍曼和沃勒是一种“羞辱”，等于在暗指“他们对联储体制毫不在乎，只有自己才能维护联储的诚信”。\n美联储第七任主席埃克尔斯（Marriner Eccles）1948年卸任后还留任理事至1951年，是唯一这么做的美联储主席。\n\n沃什联储主席提名通过参议院小组表决\n\n同天，参议院银行委员会以13票赞成、11票反对，通过了沃什的联储主席提名，接下来将交由共和党掌控的参议院进行全体表决。 \n鲍威尔对沃什通过这道重要关卡表示祝贺，对于接任者能否不受特朗普左右，鲍威尔说：“他在听证会上表达了非常强烈的立场，我相信他是真心的。”",
-          "link": "https://www.zaobao.com/news/world/story20260430-8975487",
-          "publishedOn": "2026-04-29T23:20:27.000Z",
-          "wordCount": 699,
-          "title": "鲍威尔：卸任主席后将留任美联储理事",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/21890c3a747bd7cdab622f422a4018b75a13934246d471d4ec3bd3655f21aa45"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260430-8975413",
-          "author": null,
-          "description": "（华盛顿/基辅/巴黎综合电）美国总统特朗普周三与俄罗斯总统普京通电话。特朗普说，他敦促普京结束对乌克兰的战争，也拒绝了普京愿意帮忙处理伊朗浓缩铀的提议。\n特朗普周三（4月29日）在白宫告诉记者，他同普京聊得很愉快，他建议俄乌实行短期停火，“我认为他可能会同意”。\n特朗普说，他与普京的谈话涉及多个课题，除了乌克兰外，也稍微谈及了伊朗。他说，普京愿意协助解决伊朗浓缩铀问题，以推动结束伊朗战事。“但我对他说，我更希望看到你把精力放在结束乌克兰战事上。在你帮我之前，我想先结束你的战争。”\n俄罗斯总统助理乌沙科夫则说，普京告诉特朗普，俄罗斯准备在5月9日苏联在二战中击败纳粹德国的胜利日当天停火。\n乌沙科夫也形容通话“友好、坦率且务实”，持续约一个半小时。他称双方主要讨论伊朗问题及停火设想，特朗普认为结束俄乌战争的协议“已经接近达成”。\n乌克兰总统泽连斯基周四说，乌方正在向美方了解更多停火细节。他说：“我们将弄清楚这到底是什么——是莫斯科阅兵式的几个小时安全安排，还是更长时间的内容。”",
-          "link": "https://www.zaobao.com/news/world/story20260430-8975413",
-          "publishedOn": "2026-04-29T23:05:45.000Z",
-          "wordCount": 689,
-          "title": "特朗普与普京通话 建议俄乌实施短期停火",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/36cd02327f8a6374b018fea0835ef26a199134a4074110b8c4c3cb9f74f7cf08"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260430-8975414",
-          "author": null,
-          "description": "美国总统特朗普周三说，美国同伊朗正在通过电话进行谈判，并强调伊朗必须明确承诺彻底放弃核武器。\n综合路透社与新华社的报道，特朗普星期三（4月29日）在白宫告诉记者，美伊一直保持对话，现在通过电话沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。\n他说这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。\n特朗普还说，目前双方谈判已经取得一些进展，问题是伊朗所做的让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝不可能达成任何协议。”\n伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。\n白宫新闻秘书莱维特证实，特朗普周一召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。",
-          "link": "https://www.zaobao.com/news/world/story20260430-8975414",
-          "publishedOn": "2026-04-29T22:55:35.000Z",
-          "wordCount": 679,
-          "title": "特朗普：同伊朗的谈判正通过电话进行",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ca7faf0e29b8f8ca97fa340d7abdcd0dc11e3c6bc012b5a1847d56aa57cdfe5d"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260429-8974912",
-          "author": null,
-          "description": "一名五角大楼高级官员说，美国在伊朗战争迄今已花费250亿美元（约320亿新元），这是美方首次公布战争费用的官方估算。\n路透社报道，五角大楼代理主计长赫斯特星期三（4月29日）出席众议院军事委员会听证会时说，这笔资金大部分用于采购弹药。\n美国自2月28日起开始对伊朗发动军事打击，目前双方正维持一项脆弱的停火协议。",
-          "link": "https://www.zaobao.com/news/world/story20260429-8974912",
-          "publishedOn": "2026-04-29T15:40:48.000Z",
-          "wordCount": 666,
-          "title": "美国在伊朗战争迄今耗资250亿美元",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/8ee7271f30e921738a5c8d9d8b95d223775ca64e0313a022077682049c816271"
         }
       ]
     },
@@ -305,7 +305,7 @@
           "description": "很多人問 ChatGPT 用太多會不會變笨。這篇不走工具恐慌，而是分清楚真正的風險：不是 AI 幫你修字、摘要或整理格式，而是你還沒形成自己的第一個判斷，就先讓它替你切題、列大綱、決定方向。最後給一條界線：先留下自己的起點，再讓 AI 反駁、補盲點。",
           "link": "https://ducorn.com/chatgpt-cognitive-debt",
           "publishedOn": "2026-04-29T08:25:06.000Z",
-          "wordCount": 1050,
+          "wordCount": 1060,
           "title": "ChatGPT 讓你變笨？真正被外包的是第一個判斷",
           "imageUrl": "https://ducorn.com/images/og/chatgpt-cognitive-debt.webp"
         },
@@ -315,7 +315,7 @@
           "description": "家族有糖尿病史、醫師說飲食運動四個字接不住的糖前讀者該不該戴 CGM？自費戴兩次後，4 派專家分歧攤開來：73% 健康人飆升其實是 3 個來源混的數字、Means 跟 Attia 揭露對齊度反向、台灣健保不蓋糖前自費 NT$2,200，戴兩次後的判斷。",
           "link": "https://ducorn.com/cgm-prediabetes",
           "publishedOn": "2026-04-25T11:27:47.000Z",
-          "wordCount": 1417,
+          "wordCount": 1413,
           "title": "糖尿病前期不是病人，也不是健康人：我自費戴兩次 CGM 後看懂的中間地帶",
           "imageUrl": "https://ducorn.com/images/og/cgm-prediabetes.webp"
         },
@@ -325,7 +325,7 @@
           "description": "3 年 22 倍是真的，Saylor 的持股也是真的，Chanos 的配對交易也是真的。這篇不是買賣或放空建議，而是把四組專業判斷擺在同一個問題上：你買 MSTR 時，站在什麼結構位置？",
           "link": "https://ducorn.com/mstr-leverage-game",
           "publishedOn": "2026-04-24T01:15:56.000Z",
-          "wordCount": 1713,
+          "wordCount": 1707,
           "title": "買 MSTR 前先想清楚：你的對手盤是誰",
           "imageUrl": "https://ducorn.com/images/og/mstr-leverage-game.webp"
         },
@@ -335,7 +335,7 @@
           "description": "國中前該不該給小孩手機？電話手錶還是智慧型？學校 2025 年禁手機後怎麼辦？《失控的焦慮世代》的四大建議對有餘裕家長是安慰、對累爆家長是審判、對補習文化家長是失焦。手機只解釋 0.4% 的青少年憂鬱變異。跨六位學者攤開育兒書的階級政治，給你三個數字找到自己家的判斷框架。",
           "link": "https://ducorn.com/anxious-generation-debunked",
           "publishedOn": "2026-04-18T15:51:18.000Z",
-          "wordCount": 921,
+          "wordCount": 923,
           "title": "焦慮的世代救不了你家小孩：三種家長讀同一本書的三種結果",
           "imageUrl": "https://ducorn.com/images/og/anxious-generation-debunked.webp"
         },
@@ -345,7 +345,7 @@
           "description": "0050 台積電佔比 62%，S&P 500 前七大佔 33%。被動投資發明者 Bogle 死前警告權力集中，Green 說定價的人消失了，Asness 說效率下降主因是社群媒體。三方量的是不同的東西，你的退休金正走在路上，要算的是你離退休還有幾年。",
           "link": "https://ducorn.com/passive-investing-paradox",
           "publishedOn": "2026-04-17T01:35:35.000Z",
-          "wordCount": 935,
+          "wordCount": 931,
           "title": "被動投資悖論：當所有人都不用想，誰在幫你的股價定價？",
           "imageUrl": "https://ducorn.com/images/og/passive-investing-paradox.webp"
         },
@@ -365,7 +365,7 @@
           "description": "NMN 唯一的人體試驗：60 人、12 週、沒測壽命。Rapamycin 讓老鼠多活 38%，但花兩百萬美元做實驗的 Bryan Johnson 停藥了。三種抗老化分子的證據等級，跟廣告暗示的差了好幾個量級。三個互相看不順眼的專家，唯一共識是運動。",
           "link": "https://ducorn.com/longevity-drugs",
           "publishedOn": "2026-04-11T01:54:01.000Z",
-          "wordCount": 895,
+          "wordCount": 891,
           "title": "你花三千塊買的 NMN，有多少科學根據？",
           "imageUrl": "https://ducorn.com/images/og/longevity-drugs.webp"
         },
@@ -375,7 +375,7 @@
           "description": "40 歲轉行回到月薪 5 萬，五年內跟原軌跡的累計薪差約 450 萬台幣。AIER 說 82% 中年轉職者兩年追回，但台灣公司年資只採計 5 年，49 歲工程師 9 個月零回應。一派說轉型是認知重新配置，另一派說你放棄了不可轉移的市場稀缺性，兩派說的根本不是同一件事。",
           "link": "https://ducorn.com/career-pivot-cost",
           "publishedOn": "2026-04-10T08:01:31.000Z",
-          "wordCount": 864,
+          "wordCount": 873,
           "title": "職涯的複利效應：中年轉型，你放棄的東西值多少錢？",
           "imageUrl": "https://ducorn.com/images/og/career-pivot-cost.webp"
         },
@@ -385,7 +385,7 @@
           "description": "Cochrane 統合分析說 168 斷食跟普通節食一樣有效，Fung 說傳統節食幾乎必定失敗。那個 91% 心臟病風險嚇到一堆人的研究有致命的方法缺陷。兩邊量的是不同的東西，跟誰對誰錯無關——成功的原因從來不是胰島素理論，是終於有了一個不用每餐做決定的規則。",
           "link": "https://ducorn.com/intermittent-fasting",
           "publishedOn": "2026-04-09T13:16:18.000Z",
-          "wordCount": 974,
+          "wordCount": 972,
           "title": "168斷食：六本書和五個研究吵了十年，我站這邊",
           "imageUrl": "https://ducorn.com/images/og/intermittent-fasting.webp"
         },
@@ -395,7 +395,7 @@
           "description": "RDA 0.8g 維持 70 年，美國新版指南改成 1.2-1.6，Attia 喊 2.2，Phillips 說胡說八道。差三倍。畫出 1.6 截線的關鍵論文 p 值 0.079，Attia 和 Huberman 持有蛋白棒股份。四種人該吃多少，答案不一樣。",
           "link": "https://ducorn.com/protein-war",
           "publishedOn": "2026-04-08T15:17:42.000Z",
-          "wordCount": 1251,
+          "wordCount": 1249,
           "title": "蛋白質一天要吃多少？0.8、1.6、2.2，三個數字，三派專家，沒有人幫你判斷信誰",
           "imageUrl": "https://ducorn.com/images/og/protein-war.webp"
         },
@@ -405,7 +405,7 @@
           "description": "Die With Zero 說把錢花掉，Psychology of Money 說存下來就是自由。但 Housel 在新書裡改口了。三本書加上 2026 退休研究揭示一個悖論：大多數退休者只花了安全範圍的一半，同時 58% 的人擔心不夠用。你的退休規劃方向可能從頭就錯了。",
           "link": "https://ducorn.com/die-with-zero",
           "publishedOn": "2026-04-06T16:49:26.000Z",
-          "wordCount": 1073,
+          "wordCount": 1075,
           "title": "退休金存到死，還是花到零？連 Morgan Housel 都跟自己矛盾了。",
           "imageUrl": "https://ducorn.com/images/og/die-with-zero.webp"
         },
@@ -415,7 +415,7 @@
           "description": "Cleveland Clinic 8,000 人真實數據：停打瘦瘦筆後平均只復胖 0.5%。但 STEP 1 臨床試驗說三分之二會回來。差了 130 倍的原因不在誰說謊。是「停藥」的定義完全不同。加上 WashU 33 萬人研究發現，停藥後心臟保護在六個月內就開始消退。",
           "link": "https://ducorn.com/glp1-after-stopping",
           "publishedOn": "2026-04-02T16:09:21.000Z",
-          "wordCount": 1078,
+          "wordCount": 1080,
           "title": "瘦瘦筆停藥會復胖嗎？臨床 66% vs 真實 0.5% 的 130 倍落差",
           "imageUrl": "https://ducorn.com/images/og/glp1-after-stopping.webp"
         },
@@ -425,7 +425,7 @@
           "description": "Peter Attia 說運動，David Sinclair 說 NMN，但 Sinclair 自己 2025 年辭掉長壽學會會長、縮減補充劑清單。PEARL 試驗主要終點失敗，Blue Zones 發明人棄守沖繩。台灣人花 NT$2,500-10,000 買的 NMN，食藥署連合法食品原料都不算。按證據強度排序，你該做的和不該花錢的。",
           "link": "https://ducorn.com/longevity-science",
           "publishedOn": "2026-04-01T15:31:58.000Z",
-          "wordCount": 1341,
+          "wordCount": 1344,
           "title": "NMN 有用嗎？四個長壽專家互相矛盾的 2026 證據排行",
           "imageUrl": "https://ducorn.com/images/og/longevity-science.webp"
         }
@@ -437,270 +437,270 @@
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
         {
-          "id": "1x-3564661",
-          "author": "Arie Burla",
-          "description": "Charge! by Arie Burla",
-          "link": "https://1x.com/photo/3564661",
-          "publishedOn": "2026-04-30T14:05:25.126Z",
-          "wordCount": 332,
-          "title": "Charge!",
+          "id": "1x-3564684",
+          "author": "Hamza Qarooni",
+          "description": "Where the Voice Rests by Hamza Qarooni",
+          "link": "https://1x.com/photo/3564684",
+          "publishedOn": "2026-04-30T19:27:53.789Z",
+          "wordCount": 343,
+          "title": "Where the Voice Rests",
           "enclosure": {
-            "url": "https://1x.com/images/user/6f70d0efcb28c284860d710cdd7b4344-hd2.jpg",
+            "url": "https://1x.com/images/user/d1a0f2cacfba2927099ede4edd5f419f-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/6f70d0efcb28c284860d710cdd7b4344-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/d1a0f2cacfba2927099ede4edd5f419f-hd4.jpg"
         },
         {
-          "id": "1x-3564714",
-          "author": "Nader helme agbaria",
-          "description": "goldfinch by Nader helme agbaria",
-          "link": "https://1x.com/photo/3564714",
-          "publishedOn": "2026-04-30T14:05:25.122Z",
-          "wordCount": 365,
-          "title": "goldfinch",
+          "id": "1x-3564861",
+          "author": "Angela Muliani Hartojo",
+          "description": "Kestrel Falcon by Angela Muliani Hartojo",
+          "link": "https://1x.com/photo/3564861",
+          "publishedOn": "2026-04-30T19:27:53.785Z",
+          "wordCount": 339,
+          "title": "Kestrel Falcon",
           "enclosure": {
-            "url": "https://1x.com/images/user/6a75b0347e58b282aec4d8d1d07df7ee-hd2.jpg",
+            "url": "https://1x.com/images/user/ace22cd79659894acdca09475410320f-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/6a75b0347e58b282aec4d8d1d07df7ee-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/ace22cd79659894acdca09475410320f-hd4.jpg"
         },
         {
-          "id": "1x-3564791",
-          "author": "Michael Jurek",
-          "description": "Lines into Mont Saint Michel by Michael Jurek",
-          "link": "https://1x.com/photo/3564791",
-          "publishedOn": "2026-04-30T14:05:25.118Z",
-          "wordCount": 373,
-          "title": "Lines into Mont Saint Michel",
-          "enclosure": {
-            "url": "https://1x.com/images/user/08ce41cfde8553556dc77b1db93c62f8-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/08ce41cfde8553556dc77b1db93c62f8-hd4.jpg"
-        },
-        {
-          "id": "1x-3563853",
-          "author": "David Navia",
-          "description": "papel by David Navia",
-          "link": "https://1x.com/photo/3563853",
-          "publishedOn": "2026-04-30T14:05:25.114Z",
-          "wordCount": 361,
-          "title": "papel",
-          "enclosure": {
-            "url": "https://1x.com/images/user/fd20f0f8421a5ad2dfec66775375b7e8-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/fd20f0f8421a5ad2dfec66775375b7e8-hd2.jpg"
-        },
-        {
-          "id": "1x-3561804",
-          "author": "Sherry Huang",
-          "description": "Study Butte by Sherry Huang",
-          "link": "https://1x.com/photo/3561804",
-          "publishedOn": "2026-04-30T14:05:25.101Z",
+          "id": "1x-3564771",
+          "author": "Louise Xie",
+          "description": "Ok tree by Louise Xie",
+          "link": "https://1x.com/photo/3564771",
+          "publishedOn": "2026-04-30T19:27:53.778Z",
           "wordCount": 335,
-          "title": "Study Butte",
+          "title": "Ok tree",
           "enclosure": {
-            "url": "https://1x.com/images/user/32cce8d74308c6da903aea596d74ada1-hd2.jpg",
+            "url": "https://1x.com/images/user/07a5748f5a9f24d12790d2b77e11f150-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/32cce8d74308c6da903aea596d74ada1-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/07a5748f5a9f24d12790d2b77e11f150-hd2.jpg"
         },
         {
-          "id": "1x-3563834",
-          "author": "Sota Takahashi",
-          "description": "Untitled by Sota Takahashi",
-          "link": "https://1x.com/photo/3563834",
-          "publishedOn": "2026-04-30T14:05:25.099Z",
+          "id": "1x-3561672",
+          "author": "Molly Fu APA",
+          "description": "Take off... by Molly Fu APA",
+          "link": "https://1x.com/photo/3561672",
+          "publishedOn": "2026-04-30T19:27:53.764Z",
+          "wordCount": 339,
+          "title": "Take off...",
+          "enclosure": {
+            "url": "https://1x.com/images/user/dbfbe5686c1d02fb304c907879d22c0c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/dbfbe5686c1d02fb304c907879d22c0c-hd4.jpg"
+        },
+        {
+          "id": "1x-3564926",
+          "author": "Richard Bland",
+          "description": "The Door Man by Richard Bland",
+          "link": "https://1x.com/photo/3564926",
+          "publishedOn": "2026-04-30T19:27:53.759Z",
+          "wordCount": 338,
+          "title": "The Door Man",
+          "enclosure": {
+            "url": "https://1x.com/images/user/3120753b28be722a89b68617c9afd294-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/3120753b28be722a89b68617c9afd294-hd4.jpg"
+        },
+        {
+          "id": "1x-3546872",
+          "author": "Jürgen Wöhrle",
+          "description": "The man with the hat by Jürgen Wöhrle",
+          "link": "https://1x.com/photo/3546872",
+          "publishedOn": "2026-04-30T19:27:53.751Z",
+          "wordCount": 344,
+          "title": "The man with the hat",
+          "enclosure": {
+            "url": "https://1x.com/images/user/1b12a9859e68cb3c81ad37b902e9bd21-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/1b12a9859e68cb3c81ad37b902e9bd21-hd4.jpg"
+        },
+        {
+          "id": "1x-3561584",
+          "author": "Leeli Higgins",
+          "description": "Dancing cardinal by Leeli Higgins",
+          "link": "https://1x.com/photo/3561584",
+          "publishedOn": "2026-04-30T19:27:53.744Z",
+          "wordCount": 335,
+          "title": "Dancing cardinal",
+          "enclosure": {
+            "url": "https://1x.com/images/user/55b92e483146e1cdc23a16c0716cb25b-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/55b92e483146e1cdc23a16c0716cb25b-hd2.jpg"
+        },
+        {
+          "id": "1x-3564986",
+          "author": "Łukasz Pietrzak",
+          "description": "virtuoso by Łukasz Pietrzak",
+          "link": "https://1x.com/photo/3564986",
+          "publishedOn": "2026-04-30T19:27:53.721Z",
+          "wordCount": 332,
+          "title": "virtuoso",
+          "enclosure": {
+            "url": "https://1x.com/images/user/d1ec31cf0d9af9f260051180d4693688-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/d1ec31cf0d9af9f260051180d4693688-hd4.jpg"
+        },
+        {
+          "id": "1x-3562071",
+          "author": "Hazem Swidan",
+          "description": "JANA by Hazem Swidan",
+          "link": "https://1x.com/photo/3562071",
+          "publishedOn": "2026-04-30T19:27:53.711Z",
+          "wordCount": 361,
+          "title": "JANA",
+          "enclosure": {
+            "url": "https://1x.com/images/user/20578a1d6adc4bd6017bcedb4dc0b3d3-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/20578a1d6adc4bd6017bcedb4dc0b3d3-hd2.jpg"
+        },
+        {
+          "id": "1x-3526626",
+          "author": "吴子诚WuZiCheng",
+          "description": "雅拉神山YaLaMountain by 吴子诚WuZiCheng",
+          "link": "https://1x.com/photo/3526626",
+          "publishedOn": "2026-04-30T19:27:53.698Z",
+          "wordCount": 357,
+          "title": "雅拉神山YaLaMountain",
+          "enclosure": {
+            "url": "https://1x.com/images/user/fbd5f1ac3aa34ba8111c3c8047c7f05b-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/fbd5f1ac3aa34ba8111c3c8047c7f05b-hd2.jpg"
+        },
+        {
+          "id": "1x-3565126",
+          "author": "renekuipers",
+          "description": "Wintercoat by renekuipers",
+          "link": "https://1x.com/photo/3565126",
+          "publishedOn": "2026-04-30T19:27:53.677Z",
+          "wordCount": 328,
+          "title": "Wintercoat",
+          "enclosure": {
+            "url": "https://1x.com/images/user/a834d0cc7e031ca34b65e736f42e2a9e-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/a834d0cc7e031ca34b65e736f42e2a9e-hd2.jpg"
+        },
+        {
+          "id": "1x-3564916",
+          "author": "Erhard Batzdorf",
+          "description": "Flower Still Life by Erhard Batzdorf",
+          "link": "https://1x.com/photo/3564916",
+          "publishedOn": "2026-04-30T19:27:53.652Z",
+          "wordCount": 338,
+          "title": "Flower Still Life",
+          "enclosure": {
+            "url": "https://1x.com/images/user/78d97137caf1af74c0952b2561a855b4-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/78d97137caf1af74c0952b2561a855b4-hd4.jpg"
+        },
+        {
+          "id": "1x-3565190",
+          "author": "Bella Baron",
+          "description": "THE KISS by Bella Baron",
+          "link": "https://1x.com/photo/3565190",
+          "publishedOn": "2026-04-30T19:27:53.607Z",
+          "wordCount": 335,
+          "title": "THE KISS",
+          "enclosure": {
+            "url": "https://1x.com/images/user/434a2e26f915ad5356b7fded3065557c-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/434a2e26f915ad5356b7fded3065557c-hd4.jpg"
+        },
+        {
+          "id": "1x-3565086",
+          "author": "Tali Krinsky",
+          "description": "Gravity's Edge by Tali Krinsky",
+          "link": "https://1x.com/photo/3565086",
+          "publishedOn": "2026-04-30T19:27:53.594Z",
+          "wordCount": 364,
+          "title": "Gravity's Edge",
+          "enclosure": {
+            "url": "https://1x.com/images/user/f0eafd00132d9da184599bc9c238b198-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/f0eafd00132d9da184599bc9c238b198-hd2.jpg"
+        },
+        {
+          "id": "1x-3542011",
+          "author": "Þorsteinn H. Ingibergsson",
+          "description": "Silence of the Past (soft) by Þorsteinn H. Ingibergsson",
+          "link": "https://1x.com/photo/3542011",
+          "publishedOn": "2026-04-30T19:27:53.578Z",
+          "wordCount": 377,
+          "title": "Silence of the Past (soft)",
+          "enclosure": {
+            "url": "https://1x.com/images/user/71e4133d953c51dc11ef585ffe7a7641-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/71e4133d953c51dc11ef585ffe7a7641-hd2.jpg"
+        },
+        {
+          "id": "1x-3565027",
+          "author": "Cristian Andreescu",
+          "description": "Untitled by Cristian Andreescu",
+          "link": "https://1x.com/photo/3565027",
+          "publishedOn": "2026-04-30T19:27:53.560Z",
           "wordCount": 361,
           "title": "Untitled",
           "enclosure": {
-            "url": "https://1x.com/images/user/ac4fc264364fee003e95979b118d194c-hd4.jpg",
+            "url": "https://1x.com/images/user/499203dd100354dbddb0362cc2ee66ee-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/ac4fc264364fee003e95979b118d194c-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/499203dd100354dbddb0362cc2ee66ee-hd2.jpg"
         },
         {
-          "id": "1x-3564146",
-          "author": "Yoram GIL",
-          "description": "Ekaterina by Yoram GIL",
-          "link": "https://1x.com/photo/3564146",
-          "publishedOn": "2026-04-30T14:05:25.096Z",
-          "wordCount": 332,
-          "title": "Ekaterina",
+          "id": "1x-3554082",
+          "author": "Lydia Jacobs",
+          "description": "Where the Bloom Bends by Lydia Jacobs",
+          "link": "https://1x.com/photo/3554082",
+          "publishedOn": "2026-04-30T19:27:53.537Z",
+          "wordCount": 341,
+          "title": "Where the Bloom Bends",
           "enclosure": {
-            "url": "https://1x.com/images/user/8e7d45d794ec4b0ab598369fb60ee872-hd4.jpg",
+            "url": "https://1x.com/images/user/34c971c2f3f80a5e2bac492e22a3adce-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/8e7d45d794ec4b0ab598369fb60ee872-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/34c971c2f3f80a5e2bac492e22a3adce-hd4.jpg"
         },
         {
-          "id": "1x-3564638",
-          "author": "Vasfiye Budak",
-          "description": "Üç adım. by Vasfiye Budak",
-          "link": "https://1x.com/photo/3564638",
-          "publishedOn": "2026-04-30T14:05:25.094Z",
+          "id": "1x-3564961",
+          "author": "Leonardo Bandinelli",
+          "description": "Vision 79 by Leonardo Bandinelli",
+          "link": "https://1x.com/photo/3564961",
+          "publishedOn": "2026-04-30T19:27:53.521Z",
           "wordCount": 364,
-          "title": "Üç adım.",
+          "title": "Vision 79",
           "enclosure": {
-            "url": "https://1x.com/images/user/4cc234d521f99c729162ac46f7da8770-hd4.jpg",
+            "url": "https://1x.com/images/user/3eb2734a6e8d2a07b9ec2f545e75faa9-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/4cc234d521f99c729162ac46f7da8770-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/3eb2734a6e8d2a07b9ec2f545e75faa9-hd4.jpg"
         },
         {
-          "id": "1x-3563623",
-          "author": "R Suguri",
-          "description": "Pinnacles by R Suguri",
-          "link": "https://1x.com/photo/3563623",
-          "publishedOn": "2026-04-30T14:05:25.091Z",
-          "wordCount": 332,
-          "title": "Pinnacles",
+          "id": "1x-3565075",
+          "author": "Akiss",
+          "description": "Where Light Hesitates by Akiss",
+          "link": "https://1x.com/photo/3565075",
+          "publishedOn": "2026-04-30T19:27:53.477Z",
+          "wordCount": 363,
+          "title": "Where Light Hesitates",
           "enclosure": {
-            "url": "https://1x.com/images/user/42889e6ff0ca36db6518440d6f7fc91e-hd2.jpg",
+            "url": "https://1x.com/images/user/4bc04ee8148dcf7d392be5183b3e37a8-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/42889e6ff0ca36db6518440d6f7fc91e-hd2.jpg"
-        },
-        {
-          "id": "1x-3494179",
-          "author": "Ben.C.L",
-          "description": "Hello Sunshine by Ben.C.L",
-          "link": "https://1x.com/photo/3494179",
-          "publishedOn": "2026-04-30T14:05:25.089Z",
-          "wordCount": 331,
-          "title": "Hello Sunshine",
-          "enclosure": {
-            "url": "https://1x.com/images/user/aa690531bac43fc70ec688f63108019b-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/aa690531bac43fc70ec688f63108019b-hd4.jpg"
-        },
-        {
-          "id": "1x-3564799",
-          "author": "Myriam LEPLAT",
-          "description": "Late afternoon in the Mundari camp by Myriam LEPLAT",
-          "link": "https://1x.com/photo/3564799",
-          "publishedOn": "2026-04-30T14:05:25.086Z",
-          "wordCount": 347,
-          "title": "Late afternoon in the Mundari camp",
-          "enclosure": {
-            "url": "https://1x.com/images/user/f32a2c62d192dacc24fb400a7cc0a5eb-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/f32a2c62d192dacc24fb400a7cc0a5eb-hd4.jpg"
-        },
-        {
-          "id": "1x-3558733",
-          "author": "Christine von Diepenbroek",
-          "description": "in the desert by Christine von Diepenbroek",
-          "link": "https://1x.com/photo/3558733",
-          "publishedOn": "2026-04-30T14:05:25.082Z",
-          "wordCount": 371,
-          "title": "in the desert",
-          "enclosure": {
-            "url": "https://1x.com/images/user/0941e3110b297ba35872fbe4f57d0169-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/0941e3110b297ba35872fbe4f57d0169-hd2.jpg"
-        },
-        {
-          "id": "1x-3564678",
-          "author": "Hans Repelnig",
-          "description": "The tinkerer by Hans Repelnig",
-          "link": "https://1x.com/photo/3564678",
-          "publishedOn": "2026-04-30T14:05:25.077Z",
-          "wordCount": 364,
-          "title": "The tinkerer",
-          "enclosure": {
-            "url": "https://1x.com/images/user/bb80de98ec5399aae683aaa5d296a1f6-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/bb80de98ec5399aae683aaa5d296a1f6-hd2.jpg"
-        },
-        {
-          "id": "1x-3564745",
-          "author": "By PEJ",
-          "description": "Nørrebro 004 by By PEJ",
-          "link": "https://1x.com/photo/3564745",
-          "publishedOn": "2026-04-30T14:05:25.067Z",
-          "wordCount": 364,
-          "title": "Nørrebro 004",
-          "enclosure": {
-            "url": "https://1x.com/images/user/69beebe610a35f4d6479e24f8f93bace-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/69beebe610a35f4d6479e24f8f93bace-hd4.jpg"
-        },
-        {
-          "id": "1x-3386549",
-          "author": "Satoshi Nishiyama",
-          "description": "keeping watch by Satoshi Nishiyama",
-          "link": "https://1x.com/photo/3386549",
-          "publishedOn": "2026-04-30T14:05:25.064Z",
-          "wordCount": 335,
-          "title": "keeping watch",
-          "enclosure": {
-            "url": "https://1x.com/images/user/0534e5598a3b3346d5f3d9bd0b92a1ea-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/0534e5598a3b3346d5f3d9bd0b92a1ea-hd2.jpg"
-        },
-        {
-          "id": "1x-3564749",
-          "author": "Boris Bekelman",
-          "description": "2026-04-25 by Boris Bekelman",
-          "link": "https://1x.com/photo/3564749",
-          "publishedOn": "2026-04-30T14:05:25.060Z",
-          "wordCount": 332,
-          "title": "2026-04-25",
-          "enclosure": {
-            "url": "https://1x.com/images/user/0714310a2a3be2c6211638c61ca43da5-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/0714310a2a3be2c6211638c61ca43da5-hd2.jpg"
-        },
-        {
-          "id": "1x-3540803",
-          "author": "Anna Cseresnjes",
-          "description": "Untitled by Anna Cseresnjes",
-          "link": "https://1x.com/photo/3540803",
-          "publishedOn": "2026-04-30T14:05:25.056Z",
-          "wordCount": 361,
-          "title": "Untitled",
-          "enclosure": {
-            "url": "https://1x.com/images/user/d83fb7aa7f021791573b7a973000a34d-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/d83fb7aa7f021791573b7a973000a34d-hd2.jpg"
-        },
-        {
-          "id": "1x-3563524",
-          "author": "Sergej Maršnjak",
-          "description": "Nightingale by Sergej Maršnjak",
-          "link": "https://1x.com/photo/3563524",
-          "publishedOn": "2026-04-30T14:05:24.866Z",
-          "wordCount": 332,
-          "title": "Nightingale",
-          "enclosure": {
-            "url": "https://1x.com/images/user/2126317891973cb15a9971411477428c-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/2126317891973cb15a9971411477428c-hd2.jpg"
-        },
-        {
-          "id": "1x-3564679",
-          "author": "Colin Dixon",
-          "description": "Daydreams by Colin Dixon",
-          "link": "https://1x.com/photo/3564679",
-          "publishedOn": "2026-04-30T14:05:24.849Z",
-          "wordCount": 332,
-          "title": "Daydreams",
-          "enclosure": {
-            "url": "https://1x.com/images/user/f15ee4d3cbdc2fef313c904ac775bbec-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/f15ee4d3cbdc2fef313c904ac775bbec-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/4bc04ee8148dcf7d392be5183b3e37a8-hd2.jpg"
         }
       ]
     },
@@ -710,12 +710,22 @@
       "siteUrl": "https://haikuoshijie.cn",
       "articles": [
         {
+          "id": "/archives/2026nian-5yue-tui-jian",
+          "author": "小棉袄",
+          "description": "小棉袄自营👉：大流量手机卡 5月1日 硬核指南 亲测！电影、追剧、二次元、听歌、小说、游戏资源都能白嫖，真的很好用！ PlainApp 在网页上控制手机，免费且不限量。可在电脑上进行文件传输、发送短信和查看照片。无需注册，100%开源 以上网站、软件均收集于网络，其内容数据与本站点无关，其正确性、",
+          "link": "https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian",
+          "publishedOn": "2026-04-30T16:07:00.000Z",
+          "wordCount": 150,
+          "title": "2026年5月推荐",
+          "imageUrl": null
+        },
+        {
           "id": "/archives/2026nian-4yue-tui-jian",
           "author": "小棉袄",
-          "description": "小棉袄自营👉：大流量手机卡 4月30日 资源合集 [视频号在线下载](https://sph.miuistore.com/） 4月28日 文本转语音 myDV Lite_v1.3.0 一个轻量化电视TV版抖音APP，吾爱大佬开发 4月27日",
+          "description": "小棉袄自营👉：大流量手机卡 4月30日 资源合集 视频号在线下载 4月28日 文本转语音 myDV Lite_v1.3.0 一个轻量化电视TV版抖音APP，吾爱大佬开发 4月27日 无羁 音乐播放器 一款现",
           "link": "https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian",
           "publishedOn": "2026-04-30T01:19:00.000Z",
-          "wordCount": 245,
+          "wordCount": 246,
           "title": "2026年4月推荐",
           "imageUrl": null
         }

@@ -2,198 +2,288 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T14:06:07.497Z</updated>
+    <updated>2026-04-30T19:28:40.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Charge!]]></title>
-        <id>1x-3564661</id>
-        <link href="https://1x.com/photo/3564661"/>
-        <updated>2026-04-30T14:05:25.126Z</updated>
-        <summary type="html"><![CDATA[Charge! by Arie Burla]]></summary>
+        <title type="html"><![CDATA[Where the Voice Rests]]></title>
+        <id>1x-3564684</id>
+        <link href="https://1x.com/photo/3564684"/>
+        <updated>2026-04-30T19:27:53.789Z</updated>
+        <summary type="html"><![CDATA[Where the Voice Rests by Hamza Qarooni]]></summary>
         <author>
-            <name>Arie Burla</name>
+            <name>Hamza Qarooni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goldfinch]]></title>
-        <id>1x-3564714</id>
-        <link href="https://1x.com/photo/3564714"/>
-        <updated>2026-04-30T14:05:25.122Z</updated>
-        <summary type="html"><![CDATA[goldfinch by Nader helme agbaria]]></summary>
+        <title type="html"><![CDATA[Kestrel Falcon]]></title>
+        <id>1x-3564861</id>
+        <link href="https://1x.com/photo/3564861"/>
+        <updated>2026-04-30T19:27:53.785Z</updated>
+        <summary type="html"><![CDATA[Kestrel Falcon by Angela Muliani Hartojo]]></summary>
         <author>
-            <name>Nader helme agbaria</name>
+            <name>Angela Muliani Hartojo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lines into Mont Saint Michel]]></title>
-        <id>1x-3564791</id>
-        <link href="https://1x.com/photo/3564791"/>
-        <updated>2026-04-30T14:05:25.118Z</updated>
-        <summary type="html"><![CDATA[Lines into Mont Saint Michel by Michael Jurek]]></summary>
+        <title type="html"><![CDATA[Ok tree]]></title>
+        <id>1x-3564771</id>
+        <link href="https://1x.com/photo/3564771"/>
+        <updated>2026-04-30T19:27:53.778Z</updated>
+        <summary type="html"><![CDATA[Ok tree by Louise Xie]]></summary>
         <author>
-            <name>Michael Jurek</name>
+            <name>Louise Xie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[papel]]></title>
-        <id>1x-3563853</id>
-        <link href="https://1x.com/photo/3563853"/>
-        <updated>2026-04-30T14:05:25.114Z</updated>
-        <summary type="html"><![CDATA[papel by David Navia]]></summary>
+        <title type="html"><![CDATA[Take off...]]></title>
+        <id>1x-3561672</id>
+        <link href="https://1x.com/photo/3561672"/>
+        <updated>2026-04-30T19:27:53.764Z</updated>
+        <summary type="html"><![CDATA[Take off... by Molly Fu APA]]></summary>
         <author>
-            <name>David Navia</name>
+            <name>Molly Fu APA</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Study Butte]]></title>
-        <id>1x-3561804</id>
-        <link href="https://1x.com/photo/3561804"/>
-        <updated>2026-04-30T14:05:25.101Z</updated>
-        <summary type="html"><![CDATA[Study Butte by Sherry Huang]]></summary>
+        <title type="html"><![CDATA[The Door Man]]></title>
+        <id>1x-3564926</id>
+        <link href="https://1x.com/photo/3564926"/>
+        <updated>2026-04-30T19:27:53.759Z</updated>
+        <summary type="html"><![CDATA[The Door Man by Richard Bland]]></summary>
         <author>
-            <name>Sherry Huang</name>
+            <name>Richard Bland</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3563834</id>
-        <link href="https://1x.com/photo/3563834"/>
-        <updated>2026-04-30T14:05:25.099Z</updated>
-        <summary type="html"><![CDATA[Untitled by Sota Takahashi]]></summary>
+        <title type="html"><![CDATA[The man with the hat]]></title>
+        <id>1x-3546872</id>
+        <link href="https://1x.com/photo/3546872"/>
+        <updated>2026-04-30T19:27:53.751Z</updated>
+        <summary type="html"><![CDATA[The man with the hat by Jürgen Wöhrle]]></summary>
         <author>
-            <name>Sota Takahashi</name>
+            <name>Jürgen Wöhrle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ekaterina]]></title>
-        <id>1x-3564146</id>
-        <link href="https://1x.com/photo/3564146"/>
-        <updated>2026-04-30T14:05:25.096Z</updated>
-        <summary type="html"><![CDATA[Ekaterina by Yoram GIL]]></summary>
+        <title type="html"><![CDATA[Dancing cardinal]]></title>
+        <id>1x-3561584</id>
+        <link href="https://1x.com/photo/3561584"/>
+        <updated>2026-04-30T19:27:53.744Z</updated>
+        <summary type="html"><![CDATA[Dancing cardinal by Leeli Higgins]]></summary>
         <author>
-            <name>Yoram GIL</name>
+            <name>Leeli Higgins</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Üç adım.]]></title>
-        <id>1x-3564638</id>
-        <link href="https://1x.com/photo/3564638"/>
-        <updated>2026-04-30T14:05:25.094Z</updated>
-        <summary type="html"><![CDATA[Üç adım. by Vasfiye Budak]]></summary>
+        <title type="html"><![CDATA[virtuoso]]></title>
+        <id>1x-3564986</id>
+        <link href="https://1x.com/photo/3564986"/>
+        <updated>2026-04-30T19:27:53.721Z</updated>
+        <summary type="html"><![CDATA[virtuoso by Łukasz Pietrzak]]></summary>
         <author>
-            <name>Vasfiye Budak</name>
+            <name>Łukasz Pietrzak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinnacles]]></title>
-        <id>1x-3563623</id>
-        <link href="https://1x.com/photo/3563623"/>
-        <updated>2026-04-30T14:05:25.091Z</updated>
-        <summary type="html"><![CDATA[Pinnacles by R Suguri]]></summary>
+        <title type="html"><![CDATA[JANA]]></title>
+        <id>1x-3562071</id>
+        <link href="https://1x.com/photo/3562071"/>
+        <updated>2026-04-30T19:27:53.711Z</updated>
+        <summary type="html"><![CDATA[JANA by Hazem Swidan]]></summary>
         <author>
-            <name>R Suguri</name>
+            <name>Hazem Swidan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Sunshine]]></title>
-        <id>1x-3494179</id>
-        <link href="https://1x.com/photo/3494179"/>
-        <updated>2026-04-30T14:05:25.089Z</updated>
-        <summary type="html"><![CDATA[Hello Sunshine by Ben.C.L]]></summary>
+        <title type="html"><![CDATA[雅拉神山YaLaMountain]]></title>
+        <id>1x-3526626</id>
+        <link href="https://1x.com/photo/3526626"/>
+        <updated>2026-04-30T19:27:53.698Z</updated>
+        <summary type="html"><![CDATA[雅拉神山YaLaMountain by 吴子诚WuZiCheng]]></summary>
         <author>
-            <name>Ben.C.L</name>
+            <name>吴子诚WuZiCheng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Late afternoon in the Mundari camp]]></title>
-        <id>1x-3564799</id>
-        <link href="https://1x.com/photo/3564799"/>
-        <updated>2026-04-30T14:05:25.086Z</updated>
-        <summary type="html"><![CDATA[Late afternoon in the Mundari camp by Myriam LEPLAT]]></summary>
+        <title type="html"><![CDATA[Wintercoat]]></title>
+        <id>1x-3565126</id>
+        <link href="https://1x.com/photo/3565126"/>
+        <updated>2026-04-30T19:27:53.677Z</updated>
+        <summary type="html"><![CDATA[Wintercoat by renekuipers]]></summary>
         <author>
-            <name>Myriam LEPLAT</name>
+            <name>renekuipers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[in the desert]]></title>
-        <id>1x-3558733</id>
-        <link href="https://1x.com/photo/3558733"/>
-        <updated>2026-04-30T14:05:25.082Z</updated>
-        <summary type="html"><![CDATA[in the desert by Christine von Diepenbroek]]></summary>
+        <title type="html"><![CDATA[Flower Still Life]]></title>
+        <id>1x-3564916</id>
+        <link href="https://1x.com/photo/3564916"/>
+        <updated>2026-04-30T19:27:53.652Z</updated>
+        <summary type="html"><![CDATA[Flower Still Life by Erhard Batzdorf]]></summary>
         <author>
-            <name>Christine von Diepenbroek</name>
+            <name>Erhard Batzdorf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The tinkerer]]></title>
-        <id>1x-3564678</id>
-        <link href="https://1x.com/photo/3564678"/>
-        <updated>2026-04-30T14:05:25.077Z</updated>
-        <summary type="html"><![CDATA[The tinkerer by Hans Repelnig]]></summary>
+        <title type="html"><![CDATA[THE KISS]]></title>
+        <id>1x-3565190</id>
+        <link href="https://1x.com/photo/3565190"/>
+        <updated>2026-04-30T19:27:53.607Z</updated>
+        <summary type="html"><![CDATA[THE KISS by Bella Baron]]></summary>
         <author>
-            <name>Hans Repelnig</name>
+            <name>Bella Baron</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nørrebro 004]]></title>
-        <id>1x-3564745</id>
-        <link href="https://1x.com/photo/3564745"/>
-        <updated>2026-04-30T14:05:25.067Z</updated>
-        <summary type="html"><![CDATA[Nørrebro 004 by By PEJ]]></summary>
+        <title type="html"><![CDATA[Gravity's Edge]]></title>
+        <id>1x-3565086</id>
+        <link href="https://1x.com/photo/3565086"/>
+        <updated>2026-04-30T19:27:53.594Z</updated>
+        <summary type="html"><![CDATA[Gravity's Edge by Tali Krinsky]]></summary>
         <author>
-            <name>By PEJ</name>
+            <name>Tali Krinsky</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[keeping watch]]></title>
-        <id>1x-3386549</id>
-        <link href="https://1x.com/photo/3386549"/>
-        <updated>2026-04-30T14:05:25.064Z</updated>
-        <summary type="html"><![CDATA[keeping watch by Satoshi Nishiyama]]></summary>
+        <title type="html"><![CDATA[Silence of the Past (soft)]]></title>
+        <id>1x-3542011</id>
+        <link href="https://1x.com/photo/3542011"/>
+        <updated>2026-04-30T19:27:53.578Z</updated>
+        <summary type="html"><![CDATA[Silence of the Past (soft) by Þorsteinn H. Ingibergsson]]></summary>
         <author>
-            <name>Satoshi Nishiyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026-04-25]]></title>
-        <id>1x-3564749</id>
-        <link href="https://1x.com/photo/3564749"/>
-        <updated>2026-04-30T14:05:25.060Z</updated>
-        <summary type="html"><![CDATA[2026-04-25 by Boris Bekelman]]></summary>
-        <author>
-            <name>Boris Bekelman</name>
+            <name>Þorsteinn H. Ingibergsson</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3540803</id>
-        <link href="https://1x.com/photo/3540803"/>
-        <updated>2026-04-30T14:05:25.056Z</updated>
-        <summary type="html"><![CDATA[Untitled by Anna Cseresnjes]]></summary>
+        <id>1x-3565027</id>
+        <link href="https://1x.com/photo/3565027"/>
+        <updated>2026-04-30T19:27:53.560Z</updated>
+        <summary type="html"><![CDATA[Untitled by Cristian Andreescu]]></summary>
         <author>
-            <name>Anna Cseresnjes</name>
+            <name>Cristian Andreescu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nightingale]]></title>
-        <id>1x-3563524</id>
-        <link href="https://1x.com/photo/3563524"/>
-        <updated>2026-04-30T14:05:24.866Z</updated>
-        <summary type="html"><![CDATA[Nightingale by Sergej Maršnjak]]></summary>
+        <title type="html"><![CDATA[Where the Bloom Bends]]></title>
+        <id>1x-3554082</id>
+        <link href="https://1x.com/photo/3554082"/>
+        <updated>2026-04-30T19:27:53.537Z</updated>
+        <summary type="html"><![CDATA[Where the Bloom Bends by Lydia Jacobs]]></summary>
         <author>
-            <name>Sergej Maršnjak</name>
+            <name>Lydia Jacobs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daydreams]]></title>
-        <id>1x-3564679</id>
-        <link href="https://1x.com/photo/3564679"/>
-        <updated>2026-04-30T14:05:24.849Z</updated>
-        <summary type="html"><![CDATA[Daydreams by Colin Dixon]]></summary>
+        <title type="html"><![CDATA[Vision 79]]></title>
+        <id>1x-3564961</id>
+        <link href="https://1x.com/photo/3564961"/>
+        <updated>2026-04-30T19:27:53.521Z</updated>
+        <summary type="html"><![CDATA[Vision 79 by Leonardo Bandinelli]]></summary>
         <author>
-            <name>Colin Dixon</name>
+            <name>Leonardo Bandinelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Light Hesitates]]></title>
+        <id>1x-3565075</id>
+        <link href="https://1x.com/photo/3565075"/>
+        <updated>2026-04-30T19:27:53.477Z</updated>
+        <summary type="html"><![CDATA[Where Light Hesitates by Akiss]]></summary>
+        <author>
+            <name>Akiss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年5月推荐]]></title>
+        <id>/archives/2026nian-5yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
+        <updated>2026-04-30T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月1日 硬核指南 亲测！电影、追剧、二次元、听歌、小说、游戏资源都能白嫖，真的很好用！ PlainApp 在网页上控制手机，免费且不限量。可在电脑上进行文件传输、发送短信和查看照片。无需注册，100%开源 以上网站、软件均收集于网络，其内容数据与本站点无关，其正确性、]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国首次申请失业救济人数下降 至1969年以来最低水平]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8981825</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8981825"/>
+        <updated>2026-04-30T16:05:03.000Z</updated>
+        <summary type="html"><![CDATA[美国申请失业救济人数降至数十年来最低水平，表明裁员公告尚未明显转化为实际裁员。
+美国劳工部星期四（4月30日）公布的数据显示，在截至4月25日当周，首次申领失业救济人数减少2.6万人，降至18.9万人。彭博对经济学家进行调查得出的预测中值为21.2万人。
+持续申领失业救济人数——也是领取救济人数的替代指标——在之前一周下降至179万人，为两年来的最低水平。
+彭博社报道，尽管Meta Platforms Inc.和耐克等知名公司宣布裁员，但申领失业救济人数仍维持在低位，这表明劳动力市场仍处于低裁员环境。美联储周三维持利率不变，美国联邦储备局主席杰罗姆·鲍威尔将劳动力市场显示出“越来越多稳定迹象”列为无需急于进一步降息的原因之一。
+在未经季节性因素调整之前，首次申领失业救济人数上周也有所下降。纽约州降幅居首，申领人数减少近1.1万人，抹去了此前两周的大幅增加。加利福尼亚州和康涅狄格州的申领人数也显著下降。
+星期四公布的另一份报告显示，受企业和消费者需求稳健推动，美国第一季度国内生产总值增长2%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国一季度经济增长低于预期]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981771</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981771"/>
+        <updated>2026-04-30T15:39:16.000Z</updated>
+        <summary type="html"><![CDATA[美国商务部公布的初步数据显示，今年第一季度美国国内生产总值（GDP）环比按年率计算增长2%，低于市场预期。
+星期四（4月30日）发布的数据显示，当季占美国经济总量约70%的个人消费支出增长1.6%，低于前一季度的1.9%。个人消费支出、国内私人投资以及政府消费和支出对一季度经济增长的贡献分别为1.08个百分点、1.48个百分点和0.73个百分点，商品与服务净出口的贡献为负1.3个百分点。
+新华社引述数据说，受中东战事带来的能源价格大幅上涨影响，美国一季度个人消费支出价格指数上涨4.5%，显著高于前一季度的2.9%；同期扣除食品和能源后的核心消费支出价格指数上涨4.3%，高于前一季度的2.7%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国经济第一季度环比增长0.3%]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981734</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981734"/>
+        <updated>2026-04-30T15:29:58.000Z</updated>
+        <summary type="html"><![CDATA[德国联邦统计局公布的初步数据显示，经价格、季节和工作日调整后，今年第一季度德国国内生产总值环比增长0.3%。去年第四季度，德国经济环比增长0.2%。
+德国联邦统计局在星期四（4月30日）发布的公告中说，今年第一季度，私人和政府消费支出是经济增长的主要驱动力。此外，出口也有所增长。
+新华社引述德国基尔世界经济研究所发表的声明说，中东战事引发的能源及原材料价格急剧上涨已开始对经济形成压力。若冲突持续，不仅将继续削弱企业和消费者信心，还将扰乱国际供应链，可能导致第二季度经济产出下降。
+德国联邦政府日前在春季经济预测报告中指出，受中东战事冲击，德国经济复苏前景较为脆弱。报告预计，2026年德国经济仅增长0.5%，明显低于今年1月预测的1%；同时，持续存在的贸易保护主义措施也将拖累出口，对经济造成更大压力。
+中国新闻社引述德国中央合作银行经济分析师克里斯托夫·斯翁克说，当前德国经济表现虽令人欣慰，但可能难以持续。霍尔木兹海峡航运受阻推高通胀，并导致包括慕尼黑莱布尼茨经济研究所（Ifo）商业景气指数在内的重要信心指标大幅下降。他指出，只有结束冲突并尽快恢复霍尔木兹海峡通航，才能避免更大损失。
+德国工业联合会主席彼得·莱宾格认为，得益于政府在基础设施等领域的大规模投资，德国经济今年或有望避免衰退。但他强调，仅靠财政支出无法替代结构性改革，应对外部冲击的关键是打造具有竞争力的经济环境。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列海军扣押国际船队 巴勒斯坦组织与意大利谴责]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981559</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981559"/>
+        <updated>2026-04-30T14:44:37.000Z</updated>
+        <summary type="html"><![CDATA[巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）发表声明，谴责以色列海军扣押驶往加沙地带的“全球坚韧船队”（Global Sumud Flotilla）船只及人员。
+哈马斯在星期四（4月30日）的声明中称以海军在希腊克里特岛附近海域对驶往加沙地带的船队发动袭击是“海盗行为”，呼吁国际社会采取行动，追究以方责任，促使释放被扣押的活动人士。
+杰哈德在声明中称，以色列军舰袭击了手无寸铁的活动人士船只，并用激光束照射他们，强迫他们下跪，以海军的行为是对国际法的践踏。
+新华社也引述意大利安莎社的报道说，“全球坚韧船队”上载有人道主义援助物资，试图突破以色列对加沙地带的海上封锁。船队方面说，以方拦截了22艘船，扣押人员中包括24名意大利人。意大利总理梅洛尼对以方行动表示谴责，要求以方“立即释放”相关人员。
+以色列外交部同日发表声明称，该船队的幕后推手是哈马斯，目的是为了阻挠加沙停火谈判推进、转移人们对哈马斯拒绝解除武装的注意力。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普号召各国加入新国际联盟 重开霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981382</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981382"/>
+        <updated>2026-04-30T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／迪拜综合电）美国特朗普政府正在要求其他国家加入一个新国际联盟，通过分享信息、协调外交与落实制裁来推动霍尔木兹海峡恢复航运。美伊则仍毫无重启谈判的迹象，双方剑拔弩张，市场持续担忧导致油价一度创下四年来高位。
+《华尔街日报》周三（4月29日）报道，特朗普政府要求其他国家加入一个由美国主导、名为“海事自由建构”（Maritime Freedom Construct）的国际联盟。美国国务院周二已向各地使馆发送内部电讯，要求外交官们力推各国政府加入，显示特朗普政府需要其他国家共同参与海峡当前和未来的管理。但这似乎与特朗普总统此前屡次主张盟友尤其是欧洲的盟友，应该带头解决海峡封堵的立场相反。
+特朗普政府一名高级官员证实，这是提供给特朗普的许多外交和政策方案之一。根据美国国务院的内部电讯，国务院将扮演外交运作枢纽的角色，美军中央司令部则负责为商业船运提供即时海事讯息，以及协调伙伴国军方的信息分享。
+在这之前，欧洲各国已召开数次会议商讨对策，以在美伊战争结束后，确保船只能够继续在霍尔木兹海峡通行。英国和法国4月中旬就共同主持了一场有50多个国家参加的国际会议。美国国务院的内部电讯指出，“海事自由建构”将与其他海上安全行动联盟形成互补，这包括英法牵头的海事规划行动。
+伊朗最高领袖穆杰塔巴周四发声明称，自2月28日战争爆发以来，波斯湾和霍尔木兹海峡的局势已翻开了新的一页。他指美国遭遇了“耻辱性失败”，并称伊朗将确保波斯湾地区安全。他还说，以新的方式管理霍尔木兹海峡，今后将为所有地区国家带来和平、进步与经济利益。
+伊朗总统佩泽希齐扬同天说，美国对伊朗港口的海上封锁只是在加剧波斯湾地区的动荡，这么做既违反国际法，也无法实现美方的目标，最后注定失败。
+伊朗革命卫队一名高级官员周四称，美国对伊朗的任何攻击，即使规模有限，都将引来伊朗的长期反击。前一天，伊朗军方警告，如果美国继续封锁与伊朗有关的船只，伊朗将采取前所未有的军事反击。 
+特朗普已在周一指示官员准备对霍尔木兹海峡进行长期封锁，直到伊朗屈服并满足特朗普的要求。他周三接受美国新闻网站Axios的电话采访强调，在与伊朗针对核计划达成协议之前，他不会解除对伊朗港口的海上封锁，并称封锁比轰炸更有效。
+Axios周三也报道，美军中央司令部司令库珀周四会向特朗普汇报可对伊朗采取的新军事行动，以迫使伊方在核问题的谈判上让步。消息人士说，中央司令部已经制定一项针对伊朗的短期强力打击计划，可能打击包括伊朗的基础设施。
+另一项计划则是要控制霍尔木兹海峡的部分区域，以重新开放商业航运，此类行动可能需要地面部队参与。军事汇报可能提及的另一个选项是派出特种部队，确保伊朗高浓缩铀库存的安全。
+彭博社引述消息人士的话报道，美军中央司令部已经要求把陆军的“暗鹰”（Dark Eagle）高超音速导弹运到中东，以在必要时打击伊朗境内的弹道导弹发射阵地。如果这项要求获得批准，那将是美国首次部署高超音速导弹。暗鹰导弹的射程超过3500公里。美国政府问责局曾说，暗鹰系统包括导弹的造价高达27亿美元。 
+另一方面，白宫官员周三说，前一天特朗普与石油公司高官探讨如何减缓霍尔木兹海峡长期封锁，对美国消费者造成的冲击。
+国际油价在特朗普宣布长期封锁海峡后飙升超过7％，布伦特油价截至周四下午每桶报超过126美元，再创俄乌战争爆发以来最高，过后到了晚上稍微下跌。
+新西兰资源部长琼斯（Shane Jones）周四呼吁美国落实承诺，派船运石油到太平洋岛国地区。琼斯对华盛顿愿意协助他们应对燃油供应安全挑战表示赞许，但提醒美方应当付诸行动。
+本月初美国国务卿鲁比奥与新西兰外长彼得斯在华盛顿会面，讨论美国派油船到新西兰，援助太平洋岛国。彼得斯当时告诉新西兰媒体，美方非常积极表示，如有必要，他们可以向太平洋岛国提供支持。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -491,7 +581,7 @@
         <id>/archives/2026nian-4yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
         <updated>2026-04-30T01:19:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月30日 资源合集 [视频号在线下载](https://sph.miuistore.com/） 4月28日 文本转语音 myDV Lite_v1.3.0 一个轻量化电视TV版抖音APP，吾爱大佬开发 4月27日]]></summary>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月30日 资源合集 视频号在线下载 4月28日 文本转语音 myDV Lite_v1.3.0 一个轻量化电视TV版抖音APP，吾爱大佬开发 4月27日 无羁 音乐播放器 一款现]]></summary>
         <author>
             <name>小棉袄</name>
         </author>
@@ -525,88 +615,6 @@
 若最终获确认，沃什将在现任美联储主席鲍威尔的任期于5月15日届满前接掌美联储。
 马萨诸塞州参议员、银行委员会资深成员沃伦（Elizabeth Warren）在沃什的提名获通过后警告，特朗普仍执意要控制美联储人为刺激经济，而美国经济未来面临滞胀的风险。
 沃什在争取特朗普提名时提出了大刀阔斧改革美联储的设想，并承诺缩减美联储6.7万亿美元（约8.58万亿新元）的资产负债表，建立新的通胀管理框架，并改变央行与公众的沟通方式。然而，他并未就如何实现这些目标提供多少细节。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储连续三次宣布维持利率不变]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975510</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975510"/>
-        <updated>2026-04-29T23:41:11.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦储备局周三宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间不变。这一决定符合市场预期，为今年连续第三次维持利率不变。
-不过，围绕星期三（4月29日）发布的政策声明，美联储负责制定货币政策的核心决策机构——联邦公开市场委员会却出现了自1992年以来最严重的分歧：委员会12人中，八票赞成，四票反对。
-一名投反对票的成员主张降息25个基点，另有三人支持维持利率不变，但不支持在声明中体现放松货币政策的倾向。
-美联储周三在声明中指出，近期指标显示经济活动正稳步扩张，新增就业大体上依然处于低位，失业率近几个月变化很小。通胀居高不下，部分原因是近期全球能源价格上涨。
-美联储说，中东局势的变化给经济前景带来高度不确定性。美联储重申将致力于实现最大程度就业和2%通胀目标。
-在考虑进一步调整利率目标区间的幅度和时间方面，美联储将仔细评估新的数据、不断变化的经济前景以及风险的总体情况。
-利率决议公布后，美股三大指数短线走低，现货黄金微幅下挫，美元指数短线走高10点。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲍威尔：卸任主席后将留任美联储理事]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975487</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975487"/>
-        <updated>2026-04-29T23:20:27.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国联邦储备局主席鲍威尔说，他5月15日卸任主席后，将继续当一名“低调的理事”。这番表态引来美国总统特朗普和财长贝森特强烈反弹，指他“破坏常规”，也“羞辱”了即将接任的沃什。
-鲍威尔星期三（4月29日）最后一次主持政策会议后在记者会上说，虽然司法部官员已向他担保不会重启联储翻修总部的刑事调查，除非联储内部监管单位建议这么做，但哥伦比亚区联邦检察官皮罗（Janine Pirro）仍表明若有必要还是会重启。 
-理事任期在2028年1月才结束的鲍威尔说：“我说过，在调查真正透明地完结前不会离开，我坚持这一点。当我认为应当离开，就会离开。”
-鲍威尔还说，美联储过去一年遭受史无前例的司法攻击让他担忧，美联储不受政治影响的独立货币政策运作将受到威胁。他希望这样的政治氛围能平静下来，让美联储专注执行它的核心任务。
-鲍威尔决定留任，意味着特朗普暂时无法在七名理事中安插新人，完全如愿地重塑美联储。
-特朗普在社媒贴文说，鲍威尔要留任是因为“他找不到其他工作，没人要他”。
-贝森特当天接受福克斯商业频道访问时，也批评鲍威尔的决定“违背了美联储的所有常规”。
-他说：“对一名自诩为体制主义者并注重联储常规的人来说，这么做高度不寻常。” 
-贝森特声称，鲍威尔的决定对特朗普提名接任主席的沃什和其他两位理事鲍曼和沃勒是一种“羞辱”，等于在暗指“他们对联储体制毫不在乎，只有自己才能维护联储的诚信”。
-美联储第七任主席埃克尔斯（Marriner Eccles）1948年卸任后还留任理事至1951年，是唯一这么做的美联储主席。
-
-沃什联储主席提名通过参议院小组表决
-
-同天，参议院银行委员会以13票赞成、11票反对，通过了沃什的联储主席提名，接下来将交由共和党掌控的参议院进行全体表决。 
-鲍威尔对沃什通过这道重要关卡表示祝贺，对于接任者能否不受特朗普左右，鲍威尔说：“他在听证会上表达了非常强烈的立场，我相信他是真心的。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普与普京通话 建议俄乌实施短期停火]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975413</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975413"/>
-        <updated>2026-04-29T23:05:45.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿/基辅/巴黎综合电）美国总统特朗普周三与俄罗斯总统普京通电话。特朗普说，他敦促普京结束对乌克兰的战争，也拒绝了普京愿意帮忙处理伊朗浓缩铀的提议。
-特朗普周三（4月29日）在白宫告诉记者，他同普京聊得很愉快，他建议俄乌实行短期停火，“我认为他可能会同意”。
-特朗普说，他与普京的谈话涉及多个课题，除了乌克兰外，也稍微谈及了伊朗。他说，普京愿意协助解决伊朗浓缩铀问题，以推动结束伊朗战事。“但我对他说，我更希望看到你把精力放在结束乌克兰战事上。在你帮我之前，我想先结束你的战争。”
-俄罗斯总统助理乌沙科夫则说，普京告诉特朗普，俄罗斯准备在5月9日苏联在二战中击败纳粹德国的胜利日当天停火。
-乌沙科夫也形容通话“友好、坦率且务实”，持续约一个半小时。他称双方主要讨论伊朗问题及停火设想，特朗普认为结束俄乌战争的协议“已经接近达成”。
-乌克兰总统泽连斯基周四说，乌方正在向美方了解更多停火细节。他说：“我们将弄清楚这到底是什么——是莫斯科阅兵式的几个小时安全安排，还是更长时间的内容。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：同伊朗的谈判正通过电话进行]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975414</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975414"/>
-        <updated>2026-04-29T22:55:35.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普周三说，美国同伊朗正在通过电话进行谈判，并强调伊朗必须明确承诺彻底放弃核武器。
-综合路透社与新华社的报道，特朗普星期三（4月29日）在白宫告诉记者，美伊一直保持对话，现在通过电话沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。
-他说这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。
-特朗普还说，目前双方谈判已经取得一些进展，问题是伊朗所做的让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝不可能达成任何协议。”
-伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。
-白宫新闻秘书莱维特证实，特朗普周一召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国在伊朗战争迄今耗资250亿美元]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974912</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974912"/>
-        <updated>2026-04-29T15:40:48.000Z</updated>
-        <summary type="html"><![CDATA[一名五角大楼高级官员说，美国在伊朗战争迄今已花费250亿美元（约320亿新元），这是美方首次公布战争费用的官方估算。
-路透社报道，五角大楼代理主计长赫斯特星期三（4月29日）出席众议院军事委员会听证会时说，这笔资金大部分用于采购弹药。
-美国自2月28日起开始对伊朗发动军事打击，目前双方正维持一项脆弱的停火协议。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
