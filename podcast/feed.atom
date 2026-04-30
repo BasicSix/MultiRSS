@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T19:42:16.380Z</updated>
+    <updated>2026-04-30T03:33:08.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1741,135 +1741,6 @@ George Zhang，OpenClaw Maintainer，Stealth Startup Cofounder，X 账号：x.co
 …]]></summary>
         <author>
             <name>What's Next｜科技早知道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I must come out | Geena Rocero (re-release)]]></title>
-        <id>69cbde2dbfb99db0bc5f0dee</id>
-        <link href="http://go.ted.com/KxXl1Q"/>
-        <updated>2026-03-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When fashion model Geena Rocero first saw a photo of herself in a bikini, "I thought ... you have arrived!" As she reveals, that's because she was born with the gender assignment "boy." In this moving talk, Rocero tells the story of becoming who she always knew she was.
-
-This talk originally aired in 2014.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[263.Sora死了，Adobe跌了，美图何去何从？]]></title>
-        <id>https://www.xiaoyuzhoufm.com/episode/69cb87c8e2c8be3155ffc21f</id>
-        <link href="https://www.xiaoyuzhoufm.com/episode/69cb87c8e2c8be3155ffc21f"/>
-        <updated>2026-03-31T08:39:06.000Z</updated>
-        <summary type="html"><![CDATA[🎙【本期嘉宾】卫夕、庄明浩
-
-卫夕（科技作者，公众号：「卫夕指北」）
-
-庄明浩（「屠龙之术」主播）
-
-主播：潘乱（「乱翻书」主理人）
-
-✍【乱翻书时刻】
-
-大模型是否正在吞噬应用层？
-
-行业正盛传UI即将消失，AI执行层即将取而代之。如果Agent承包了大部分工作，企业便不再需要购买海量账号，传统软件赖以生存的坐席费模式将被终结。以前软件要靠UI漂亮来留人，现在则要靠文档和详尽的API来喂养AI。当用户习惯和品牌忠诚度不再是护城河，那工具软件的护城河到底在哪？
-
-⏰【时间线】
-
-一
-
-02:12 Sora死了，工具还活着
-
-05:28 我现在只有找分镜灵感的时候才用Sora，其余部分非常鸡肋。
-
-09:15 不是模型不行，而是Sora这个模型不行。
-
-11:41 不是看你能生成什么，而是你能帮人更高效地做什么。
-
-14:38 0～80分AI一刷即过，80～100分寸步难行
-
-二
-
-14:57 美图为什么还在增长？
-
-17:02 从“有趣”变成了“有用”——这是美图最初做生产力的出发点
-
-17:13 亮点产品：美图设计室、开拍
-
-20:40 用户愿意为有效的产出付钱，因为这是工作理由的付钱
-
-21:31 美图的Wink和字节的剪映接下来会正面撞上吗？美图靠什么守住自己位置？
-
-25:43 AI 摧毁的是上一代软件靠工程量堆积的技术护城河，但美图的护城河在审美，不在代码量。
-
-26:12 怎么保持产品的敏锐度？
-
-28:03 应用也是会进化的，应用不是一成不变的。
-
-三
-
-34:10 什么样的应用会被吞噬？
-
-39:17 行业的knowhow是模型很难学会的吗？
-
-40:18 变化的应用不会被替代，停在那里不动的，等着被替代。
-
-44:45 App Store的摄影类目已经打了快20年，今天依然百花齐放——没有哪个通用的东西能瞬间解决所有事情。
-
-49:34「快猛糙？快猛没问题，糙是不可能的，一辈子都不可能糙。」
-
-52:18 从工具的自卑到工具的自信
-
-53:14「我在用我的下等马和别人的上等马竞争——做美拍的时候，跟抖音当然没法打」
-
-56:16 Adobe的悖论：做了所有正确的事，股价还是跌了40%多
-
-57:15 怎么看不拥有模型这个选择，是聪明还是危险？
-
-63:12 AI应用公司不训模型不丢人，微软、苹果也不训模型，知乎、微博、陌陌全都不训——这是一个比较现实的选择。
-
-四
-
-66:05 AI coding时代，要做出一款持续付费、持续迭代的产品，门槛在哪？
-
-69:02 接入龙虾，美图在变成什么？
-
-73:57 连微信都开了，你还纠结什么？“龙虾”这波热潮，应蹭尽蹭。
-
-75:33 Agent生态里，美图的商业模式会被重构吗？
-
-80:21「AI是美图最大的机会，也可能是最大的威胁。」
-
-80:58 工具在这个时代怎么证明自己的价值？它需要时刻提醒自己：我们在跟时间赛跑。
-
-🎵【开场&结尾音乐】
-
-开场&结尾音乐：Mount Dreams - Wolfs
-
-ℹ【关于「乱翻书」】
-
-「乱翻书」是一档关注商业、科技和互联网的圆桌对话节目。关心How和Why，以及少有人注意到的What。内容主要方向是科技考古、行业观察和前沿思考，研究公司的兴衰循环，希望能够为你带来信息增量。
-
-「乱翻书」主理人是潘乱，代表作品有《腾讯没有梦想》、字节跳动/快手早期关键节点的系列特写。
-
-【关于主播】
-
-视频号/即刻/小红书：潘乱
-
-公众号/播客：乱翻书
-
-【图】▲美拍三个亮点产品：Wink、美图设计室、开拍
-
-【图】▲播客录制截图
-
-商业合作：联系微信 tongxing717
-
-本期编辑：怀杭]]></summary>
-        <author>
-            <name>乱翻书</name>
         </author>
     </entry>
 </feed>
