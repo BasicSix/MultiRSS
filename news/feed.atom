@@ -2,198 +2,342 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T08:27:30.404Z</updated>
+    <updated>2026-04-30T14:06:07.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[SICILY]]></title>
-        <id>1x-3564270</id>
-        <link href="https://1x.com/photo/3564270"/>
-        <updated>2026-04-30T08:26:43.589Z</updated>
-        <summary type="html"><![CDATA[SICILY by Martin Froyda]]></summary>
+        <title type="html"><![CDATA[Charge!]]></title>
+        <id>1x-3564661</id>
+        <link href="https://1x.com/photo/3564661"/>
+        <updated>2026-04-30T14:05:25.126Z</updated>
+        <summary type="html"><![CDATA[Charge! by Arie Burla]]></summary>
         <author>
-            <name>Martin Froyda</name>
+            <name>Arie Burla</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eastern bluebird]]></title>
-        <id>1x-3559979</id>
-        <link href="https://1x.com/photo/3559979"/>
-        <updated>2026-04-30T08:26:43.587Z</updated>
-        <summary type="html"><![CDATA[Eastern bluebird by Steven Haddix]]></summary>
+        <title type="html"><![CDATA[goldfinch]]></title>
+        <id>1x-3564714</id>
+        <link href="https://1x.com/photo/3564714"/>
+        <updated>2026-04-30T14:05:25.122Z</updated>
+        <summary type="html"><![CDATA[goldfinch by Nader helme agbaria]]></summary>
         <author>
-            <name>Steven Haddix</name>
+            <name>Nader helme agbaria</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3560604</id>
-        <link href="https://1x.com/photo/3560604"/>
-        <updated>2026-04-30T08:26:43.582Z</updated>
-        <summary type="html"><![CDATA[Untitled by Dan Gdalevitz]]></summary>
+        <title type="html"><![CDATA[Lines into Mont Saint Michel]]></title>
+        <id>1x-3564791</id>
+        <link href="https://1x.com/photo/3564791"/>
+        <updated>2026-04-30T14:05:25.118Z</updated>
+        <summary type="html"><![CDATA[Lines into Mont Saint Michel by Michael Jurek]]></summary>
         <author>
-            <name>Dan Gdalevitz</name>
+            <name>Michael Jurek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Cool Trace of Bloom]]></title>
-        <id>1x-3553096</id>
-        <link href="https://1x.com/photo/3553096"/>
-        <updated>2026-04-30T08:26:43.579Z</updated>
-        <summary type="html"><![CDATA[A Cool Trace of Bloom by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[papel]]></title>
+        <id>1x-3563853</id>
+        <link href="https://1x.com/photo/3563853"/>
+        <updated>2026-04-30T14:05:25.114Z</updated>
+        <summary type="html"><![CDATA[papel by David Navia]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>David Navia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3563644</id>
-        <link href="https://1x.com/photo/3563644"/>
-        <updated>2026-04-30T08:26:43.574Z</updated>
-        <summary type="html"><![CDATA[Untitled by Songhu Yan]]></summary>
+        <title type="html"><![CDATA[Study Butte]]></title>
+        <id>1x-3561804</id>
+        <link href="https://1x.com/photo/3561804"/>
+        <updated>2026-04-30T14:05:25.101Z</updated>
+        <summary type="html"><![CDATA[Study Butte by Sherry Huang]]></summary>
         <author>
-            <name>Songhu Yan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Edge of the Circle]]></title>
-        <id>1x-3562565</id>
-        <link href="https://1x.com/photo/3562565"/>
-        <updated>2026-04-30T08:26:43.565Z</updated>
-        <summary type="html"><![CDATA[On the Edge of the Circle by Uryutalk]]></summary>
-        <author>
-            <name>Uryutalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Light on the Dolomite Peaks]]></title>
-        <id>1x-3509715</id>
-        <link href="https://1x.com/photo/3509715"/>
-        <updated>2026-04-30T08:26:43.559Z</updated>
-        <summary type="html"><![CDATA[First Light on the Dolomite Peaks by Jianmei Wang]]></summary>
-        <author>
-            <name>Jianmei Wang</name>
+            <name>Sherry Huang</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3144282</id>
-        <link href="https://1x.com/photo/3144282"/>
-        <updated>2026-04-30T08:26:43.554Z</updated>
-        <summary type="html"><![CDATA[Untitled by Bingo Z]]></summary>
+        <id>1x-3563834</id>
+        <link href="https://1x.com/photo/3563834"/>
+        <updated>2026-04-30T14:05:25.099Z</updated>
+        <summary type="html"><![CDATA[Untitled by Sota Takahashi]]></summary>
         <author>
-            <name>Bingo Z</name>
+            <name>Sota Takahashi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden Plumes]]></title>
-        <id>1x-3564465</id>
-        <link href="https://1x.com/photo/3564465"/>
-        <updated>2026-04-30T08:26:43.545Z</updated>
-        <summary type="html"><![CDATA[Golden Plumes by Yi Ling]]></summary>
+        <title type="html"><![CDATA[Ekaterina]]></title>
+        <id>1x-3564146</id>
+        <link href="https://1x.com/photo/3564146"/>
+        <updated>2026-04-30T14:05:25.096Z</updated>
+        <summary type="html"><![CDATA[Ekaterina by Yoram GIL]]></summary>
         <author>
-            <name>Yi Ling</name>
+            <name>Yoram GIL</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bathed in Light]]></title>
-        <id>1x-3557397</id>
-        <link href="https://1x.com/photo/3557397"/>
-        <updated>2026-04-30T08:26:43.534Z</updated>
-        <summary type="html"><![CDATA[Bathed in Light by URANUS  FILM]]></summary>
+        <title type="html"><![CDATA[Üç adım.]]></title>
+        <id>1x-3564638</id>
+        <link href="https://1x.com/photo/3564638"/>
+        <updated>2026-04-30T14:05:25.094Z</updated>
+        <summary type="html"><![CDATA[Üç adım. by Vasfiye Budak]]></summary>
         <author>
-            <name>URANUS FILM</name>
+            <name>Vasfiye Budak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[White]]></title>
-        <id>1x-3564569</id>
-        <link href="https://1x.com/photo/3564569"/>
-        <updated>2026-04-30T08:26:43.521Z</updated>
-        <summary type="html"><![CDATA[White by Hilda van der Lee]]></summary>
+        <title type="html"><![CDATA[Pinnacles]]></title>
+        <id>1x-3563623</id>
+        <link href="https://1x.com/photo/3563623"/>
+        <updated>2026-04-30T14:05:25.091Z</updated>
+        <summary type="html"><![CDATA[Pinnacles by R Suguri]]></summary>
         <author>
-            <name>Hilda van der Lee</name>
+            <name>R Suguri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L O N D O N]]></title>
-        <id>1x-3564513</id>
-        <link href="https://1x.com/photo/3564513"/>
-        <updated>2026-04-30T08:26:43.514Z</updated>
-        <summary type="html"><![CDATA[L O N D O N by Robert Fabrowski]]></summary>
+        <title type="html"><![CDATA[Hello Sunshine]]></title>
+        <id>1x-3494179</id>
+        <link href="https://1x.com/photo/3494179"/>
+        <updated>2026-04-30T14:05:25.089Z</updated>
+        <summary type="html"><![CDATA[Hello Sunshine by Ben.C.L]]></summary>
         <author>
-            <name>Robert Fabrowski</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tenderness and deep purity in the heart of an infant]]></title>
-        <id>1x-3545687</id>
-        <link href="https://1x.com/photo/3545687"/>
-        <updated>2026-04-30T08:26:43.507Z</updated>
-        <summary type="html"><![CDATA[Tenderness and deep purity in the heart of an infant by Elena Molina]]></summary>
+        <title type="html"><![CDATA[Late afternoon in the Mundari camp]]></title>
+        <id>1x-3564799</id>
+        <link href="https://1x.com/photo/3564799"/>
+        <updated>2026-04-30T14:05:25.086Z</updated>
+        <summary type="html"><![CDATA[Late afternoon in the Mundari camp by Myriam LEPLAT]]></summary>
         <author>
-            <name>Elena Molina</name>
+            <name>Myriam LEPLAT</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gueirua]]></title>
-        <id>1x-3564220</id>
-        <link href="https://1x.com/photo/3564220"/>
-        <updated>2026-04-30T08:26:43.386Z</updated>
-        <summary type="html"><![CDATA[Gueirua by Osmel]]></summary>
+        <title type="html"><![CDATA[in the desert]]></title>
+        <id>1x-3558733</id>
+        <link href="https://1x.com/photo/3558733"/>
+        <updated>2026-04-30T14:05:25.082Z</updated>
+        <summary type="html"><![CDATA[in the desert by Christine von Diepenbroek]]></summary>
         <author>
-            <name>Osmel</name>
+            <name>Christine von Diepenbroek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden Hour Kinship]]></title>
-        <id>1x-3564436</id>
-        <link href="https://1x.com/photo/3564436"/>
-        <updated>2026-04-30T08:26:43.374Z</updated>
-        <summary type="html"><![CDATA[Golden Hour Kinship by Mike He]]></summary>
+        <title type="html"><![CDATA[The tinkerer]]></title>
+        <id>1x-3564678</id>
+        <link href="https://1x.com/photo/3564678"/>
+        <updated>2026-04-30T14:05:25.077Z</updated>
+        <summary type="html"><![CDATA[The tinkerer by Hans Repelnig]]></summary>
         <author>
-            <name>Mike He</name>
+            <name>Hans Repelnig</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pray in the Wigwam]]></title>
-        <id>1x-3564507</id>
-        <link href="https://1x.com/photo/3564507"/>
-        <updated>2026-04-30T08:26:43.363Z</updated>
-        <summary type="html"><![CDATA[Pray in the Wigwam by Rob Li]]></summary>
+        <title type="html"><![CDATA[Nørrebro 004]]></title>
+        <id>1x-3564745</id>
+        <link href="https://1x.com/photo/3564745"/>
+        <updated>2026-04-30T14:05:25.067Z</updated>
+        <summary type="html"><![CDATA[Nørrebro 004 by By PEJ]]></summary>
         <author>
-            <name>Rob Li</name>
+            <name>By PEJ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kinder in Anatolien]]></title>
-        <id>1x-3560667</id>
-        <link href="https://1x.com/photo/3560667"/>
-        <updated>2026-04-30T08:26:43.337Z</updated>
-        <summary type="html"><![CDATA[Kinder in Anatolien by Gülay Sween]]></summary>
+        <title type="html"><![CDATA[keeping watch]]></title>
+        <id>1x-3386549</id>
+        <link href="https://1x.com/photo/3386549"/>
+        <updated>2026-04-30T14:05:25.064Z</updated>
+        <summary type="html"><![CDATA[keeping watch by Satoshi Nishiyama]]></summary>
         <author>
-            <name>Gülay Sween</name>
+            <name>Satoshi Nishiyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-04-25]]></title>
+        <id>1x-3564749</id>
+        <link href="https://1x.com/photo/3564749"/>
+        <updated>2026-04-30T14:05:25.060Z</updated>
+        <summary type="html"><![CDATA[2026-04-25 by Boris Bekelman]]></summary>
+        <author>
+            <name>Boris Bekelman</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3545819</id>
-        <link href="https://1x.com/photo/3545819"/>
-        <updated>2026-04-30T08:26:43.323Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <id>1x-3540803</id>
+        <link href="https://1x.com/photo/3540803"/>
+        <updated>2026-04-30T14:05:25.056Z</updated>
+        <summary type="html"><![CDATA[Untitled by Anna Cseresnjes]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Anna Cseresnjes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The shining of the opera]]></title>
-        <id>1x-3558807</id>
-        <link href="https://1x.com/photo/3558807"/>
-        <updated>2026-04-30T08:26:43.300Z</updated>
-        <summary type="html"><![CDATA[The shining of the opera by Luc Vangindertael (laGrange)]]></summary>
+        <title type="html"><![CDATA[Nightingale]]></title>
+        <id>1x-3563524</id>
+        <link href="https://1x.com/photo/3563524"/>
+        <updated>2026-04-30T14:05:24.866Z</updated>
+        <summary type="html"><![CDATA[Nightingale by Sergej Maršnjak]]></summary>
         <author>
-            <name>Luc Vangindertael (laGrange)</name>
+            <name>Sergej Maršnjak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daydreams]]></title>
+        <id>1x-3564679</id>
+        <link href="https://1x.com/photo/3564679"/>
+        <updated>2026-04-30T14:05:24.849Z</updated>
+        <summary type="html"><![CDATA[Daydreams by Colin Dixon]]></summary>
+        <author>
+            <name>Colin Dixon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺贝尔和平奖287人或组织获提名 特朗普或在名单上]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8981359</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8981359"/>
+        <updated>2026-04-30T13:54:34.000Z</updated>
+        <summary type="html"><![CDATA[挪威诺贝尔委员会秘书长克里斯蒂安·贝格·哈普维肯说，有约287名候选人角逐2026年诺贝尔和平奖，美国总统特朗普很可能位列其中。他说，今年的提名名单中，208位是个人，79位是组织，与去年相比，今年的提名人选有很多新面孔。
+哈普维肯（Kristian Berg Harpviken）星期四（4月30日）在接受采访时说：“我上任不久，让我感到有些意外的是，每年的提名名单都有如此多的新面孔。”他自2025年1月起担任秘书长。
+路透社引述他说，尽管全球冲突不断增加，国际合作面临压力，但诺贝尔和平奖仍然具有现实意义。
+哈普维肯指出：“在我们生活的这个时代，和平奖显得尤为重要。现在各界所投入的贡献，比起过去可谓是有增无减。”
+柬埔寨、巴基斯坦和以色列领导人表示，他们已提名特朗普角逐今年的和平奖。提名的截止日期为1月31日。
+由于提名名单必须保密50年，因此无法验证上述说法。哈普维肯拒绝透露特朗普是否已获得提名。
+除了委员会成员外，能递交提名的包括各国政府成员与国会议员、现任国家元首、大学的历史、社会科学、法律与哲学教授，以及往届诺贝尔和平奖得主等。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳洲小镇沿海街道爆红 过多游客“打卡”引居民不满]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980071</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980071"/>
+        <updated>2026-04-30T12:50:23.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚悉尼附近海滨小镇格林贡（Gerringong）的塔斯曼大道（Tasman Drive），被誉为“澳洲最美街道”，在全网爆红。各路游客纷纷“打卡”拍照，打破镇上的宁静，引起当地居民不满。
+格林贡只有4000多人口，有居民反映，一些游客在路中间摆拍，还有人乱扔垃圾，“大家已忍无可忍”。
+一些居民采取极端措施，打开花园洒水器，阻止游客在自家草坪上拍照。还有居民尝试组建委员会，要求将塔斯曼大道改为单行道，以防游客车辆为拍照而减速停车。（法新社）]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗总统：任何企图在海上封锁伊朗的行动注定失败]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980807</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980807"/>
+        <updated>2026-04-30T11:52:41.000Z</updated>
+        <summary type="html"><![CDATA[伊朗总统佩泽希齐扬说，任何企图对伊朗实施封锁和海上限制的行动都注定失败。
+伊朗国家电视台报道，佩泽希齐扬星期四（4月30日）在“国家波斯湾日”致辞时说：“波斯湾不是强加外国单方面意志的场所，只有沿海国家通力合作、互相尊重主权，才能确保这一区域的安全。”
+他说，这条战略水道是伊朗民族认同不可分割的一部分，也是伊朗主权的象征。
+新华社引述报道说，佩泽希齐扬称赞伊朗海军的英勇。
+他指出，敌对势力已将施压领域转向经济和海上，将海上封锁和限制海上贸易航线的战略提上日程，以此向伊朗政府和人民施压。但任何企图对波斯湾实施封锁和海上限制的行为都违反国际法，威胁到波斯湾地区各国利益以及全球和平与稳定。
+佩泽希齐扬警告，波斯湾地区的局势不安全都应由美国和以色列承担责任。伊朗继续坚持航行自由和海上安全原则，但对敌对国家除外。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗最高领袖：美国遭遇“耻辱性失败”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980711</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980711"/>
+        <updated>2026-04-30T11:36:03.000Z</updated>
+        <summary type="html"><![CDATA[伊朗最高领袖穆杰塔巴在“国家波斯湾日”发表书面声明称，美国遭遇“耻辱性失败”，伊朗将确保波斯湾地区安全，消除敌对势力的侵犯行为。 
+穆杰塔巴（Mojtaba Khamenei）星期四（4月30日）在声明中称，自2月28日伊朗与美国和以色列爆发战争以来，波斯湾和霍尔木兹海峡的局势已翻开了新的一页。 
+路透社引述他说，对霍尔木兹海峡进行新的管理将为所有波斯湾国家带来平静、进步和经济利益。目前，伊朗的波斯湾港口正处于美国的封锁之下。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国京畿道一公寓起火 二死六伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8980069</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8980069"/>
+        <updated>2026-04-30T10:16:42.000Z</updated>
+        <summary type="html"><![CDATA[韩国媒体报道，韩国京畿道义王市一栋20层高的公寓楼发生火灾，目前已导致两人死亡、六人受伤 。
+新华社引述韩国联合通讯社的报道称，公寓第14层在星期四（4月30日）上午10时30分（新加坡时间9时30分）许发生火灾。住在这层楼的一名60多岁男子在坠落后身亡，他的妻子随后在屋内被发现死亡。
+另有六名居民因吸入烟雾等受轻伤，正在接受治疗。
+韩联社报道称，现场还发现一封疑似坠亡男子所留遗书，遗书提及因经济困难等原因，对个人处境感到悲观。
+据悉，当地时间中午12时35分左右，火完全扑灭。警方和消防部门正在就起火原因等进行调查。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美高院推翻保护少数种族选举权条文 共和党或重划选区增胜算]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8979785</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8979785"/>
+        <updated>2026-04-30T10:01:05.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿/纽约综合电）美国联邦最高法院星期三（4月29日）在一个指标性裁决中，以六票对三票推翻《选举权法令》的关键条文，让少数种族更难以种族歧视为由，挑战选区划分地图。
+这被认为是特朗普政府和路易斯安那州共和党人的胜利，提高了他们在11月中期选举的胜算。
+目前共和党在参众两院仅占微弱优势，黑人选民倾向于支持民主党。高院的裁决推翻了路州新增第二个黑人多数选区的地图，估计也可能促使其他共和党主政的州寻求重划选区地图，让民主党面临失去安全区的风险。
+特朗普听闻法院裁决后对记者说：“我很喜欢这个裁决”。他认为，共和党主导的各州现在会想要重划选区地图。
+《华盛顿邮报》引述消息报道，路州州长兰德里告知共和党众议院参选人，他计划延迟下月16日的初选，让州议会有时间通过新的选区地图。
+这起案件起因于2020年人口普查后，由共和党控制的路州州议会通过的选区地图仅有一个黑人多数选区。此举促使当地一群黑人选民提出诉讼，法官裁定这个选区地图具有歧视性，违反《选举权法令》第二条款。
+路州于是重新划设选区，新增第二个黑人多数选区。这张新图又引来路州12个非黑人选民提出诉讼，他们称第二个黑人占多数的选区非法削弱了非黑人选民的影响力。
+路州的人口以白人为主。由三名法官组成的合议庭后来裁定，新版选区地图过度依赖种族因素，违反了宪法规定的平等保护原则。最高法院星期三维持这一裁决。
+不过高院的自由派法官、民权组织、民主党议员和一些法律专家批评，裁决严重削弱《选举权法令》第二条款，这项条款旨在防止少数族群的选票影响力，在选区重划时遭到稀释。
+中期选举逼近，民主党和共和党正陷于一场激烈的选区重划恶斗。
+佛罗里达州议会星期三批准了共和党籍州长德桑蒂斯一份激进的选区重划提案，共和党将因此有望取得多达四个新的议席，提高它保住众议院控制权的概率。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战事冲击显现 法国经济第一季度意外陷入停滞]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8979262</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8979262"/>
+        <updated>2026-04-30T09:05:38.000Z</updated>
+        <summary type="html"><![CDATA[法国经济第一季度未能实现增长，凸显出伊朗战争引发的滞胀风险带来冲击。
+法国国家统计与经济研究所（Insee）称，受贸易和内需疲软拖累，一季度国内生产总值（GDP）环比持平。彭博调查分析师的预估中值为增长0.2%，去年第四季度为增长0.2%。
+彭博社引述数据说，第一季度消费者支出下降0.1%，家庭投资下降0.7%，已对经济造成拖累。企业投资下降了0.2%。
+由于出口下滑3.8%，净贸易对GDP的拖累达到0.7%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[争夺月球南极 中美登月背后的真正博弈 | 世界大解说]]></title>
+        <id>https://www.zaobao.com/news/world/story20260430-8958902</id>
+        <link href="https://www.zaobao.com/news/world/story20260430-8958902"/>
+        <updated>2026-04-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年4月10日，美国阿耳忒弥斯2号降落在太平洋，于傍晚5时07分（太平洋夏令时间）完成历史性一刻。但这不是句点，而是拉开中美登月竞赛的一个序幕。
+“回到月球”是美国总统特朗普希望在任期内缔造的一个高光时刻，他要赶在太空竞赛劲敌——中国之前，于2028年完成登月。但美国的目的不仅仅是登月，而是计划在月球南极建设太空基地，插上美国国旗。
+这是因为人们不仅在月球南极发现了水冰迹象，也相信设立月球基地将有助于人类探索火星和其他星体。开采月球的水冰是否会引发各国争夺太空资源？中美博弈正如何改变太空探索的规则？商业资本的入场又对中美登月竞赛带来哪些变数？
+本期《世界大解说》，带你看中美新一轮太空竞赛，隐藏怎样的全球博弈与战略野心。
+
+视频内容：
+
+00:00 争夺月球南极  中美登月背后的真正博弈
+01:20 重返月球：美国为何要打造月球基地？
+04:37 月球水冰：资源争夺的焦点
+08:56 中美登月PK  谁先踏上月球？
+对月球“虎视眈眈”的除了美国，还有中国。过去近20年，中国都在积极部署登月计划。从2007年到2024年，中国完成了嫦娥1号至6号的探月任务；运行了“玉兔”探测车；实现了探测器在月球背面着陆；也完成了月壤的采样。
+
+              
+中国嫦娥工程1号至6号时间表（制图：陈乐彤）
+            
+嫦娥7号的探测器已经在今年4月抵达文昌航天发射场，它将会发射到月球的南极探测当地环境。这个区域也是美国登月计划看中的着陆点。
+美国接下来一系列阿耳忒弥斯任务，就是希望把载人着陆器发射到月球南极，完成载人登陆。目前这个着陆器分别由马斯克的SpaceX和贝索斯的Blue Origin负责研发。
+
+              
+分别由SpaceX（左）和Blue Origin研发的着陆器示意图（NASA）
+            
+自从人类在月球南极发现水冰迹象之后，美国2020年10月就与澳大利亚、加拿大、日本、卢森堡、阿联酋和英国的航天机构签署了《阿耳忒弥斯协定》，其中强调开采太空资源的行为不等同于将外层空间据为国家所有，只要目的在于支持安全和可持续的太空活动，最终造福人类。迄今为止，已有61个国家签署了这份协定，包括印度、日本、韩国和新加坡。
+但中国并没有签署这份协定。相反，中国计划在月球建立的国际月球科研站，主要合作方是俄罗斯、泰国、委内瑞拉、巴基斯坦等十几个国家。两方显然已经在登月之前形成了明显的竞争格局。
+
+              
+签订阿耳忒弥斯协定和参与国际月球科研站的国家列表（制图：陈乐彤）
+            
+中美双方都在构想如何在月球搭建自己的太空基地，哪一方能够率先登陆月球南极，就有支配月球资源的先机。
+受南洋理工大学之邀到本地出席“全球太空趋势”讲座的前NASA科学任务副局长泽布臣（Dr Thomas Zurbuchen）告诉《世界大解说》，目前人们还不清楚月球上的水资源是如何分布的。它可能聚集在山顶，又或者像沙漠里的水汽一样，“所以我们需要去钻探，去搞清楚”。
+不过，他担心月球资源会沦为各国争夺的目标。“任何一个国家都不应该垄断月球。我们应该有一种合理的方式，让全人类共同探索月球。如果你真的挖到一桶金，找到大量稀有资源，就一定会发生争执。我希望我们能在问题出现之前找到解决矛盾的方法。”
+美国原本计划在阿耳忒弥斯3号任务中完成登月，但目前已调整为先测试SpaceX和Blue Origin的着陆器，载人登月目标延迟至阿耳忒弥斯4号执行。
+外界开始关心，这会不会进一步缩短中美登月时间的差距。两方投入的巨额预算将推动人类探月走向商业化，还是让月球成为中美争夺资源与战略空间的新战场？如何避免这样的未来，或许是我们仰望月球时需要思考的问题。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -212,17 +356,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[政府报告：澳洲社媒禁令实施后 少年用户未显著远离社媒平台]]></title>
+        <title type="html"><![CDATA[报告：澳洲社媒禁令实施后 少年用户未显著远离社媒平台]]></title>
         <id>https://www.zaobao.com/news/world/story20260430-8977843</id>
         <link href="https://www.zaobao.com/news/world/story20260430-8977843"/>
         <updated>2026-04-30T06:27:02.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚政府文件显示，在澳洲实施全球领先的青少年社交媒体禁令后，并未出现“实质性的”用户流失，例如TikTok和Instagram等大型科技平台的使用量并未减少。 
-去年12月，澳洲禁止16岁以下用户使用一系列热门社交媒体平台，此举在全球范围内尚属首次，旨在保护儿童免受网络欺凌和“恶意算法”的侵害。
-全球都在密切关注澳洲的法律能否为如何遏制日益强大的科技巨头提供借鉴。
-法新社根据信息自由法获取的政府文件，初步揭示了这些限制措施的实施效果。
-文件显示，禁令实施一个月后，Instagram和TikTok等平台仍然“在应用商店排名和下载量方面占据主导地位”。
-澳洲网络安全委员会的一份内部简报指出，1月份收集的数据显示，用户并未“明显减少”对这些平台的使用。
-官员们在2月2日的简报中写道，用户尝试使用其他未被禁令涵盖的应用程序，但“大多还是回归了主流的成熟平台”。]]></summary>
+        <summary type="html"><![CDATA[（悉尼综合电）澳大利亚政府文件显示，自去年底禁止16岁以下青少年使用TikTok和Instagram等社交媒体后，用户“并未实现有意义的转移”，这些平台仍在应用下载量中占据前列。
+澳洲去年12月起禁止16岁以下青少年使用一系列主流社交媒体平台，旨在保护儿童免受网络欺凌和“恶意算法”的侵害。
+法新社通过信息自由法获取的政府文件，初步揭示了这些限制措施的实施效果。
+澳洲网络安全监管机构电子安全委员会在一份日期为2月2日的内部简报中指出，禁令实施首月，相关平台在应用商店下载量与排名仍居前列 ，用户整体并未明显转向其他应用；部分用户曾尝试使用未受限制的应用，但“大多仍回到主流平台”。 
+另一份文件则提醒，由于禁令实施时间尚短，仅凭应用下载数据难以得出确切结论。
+同时，文件还披露，被禁的社媒平台今年1月的网暴投诉个案比去年同期增加了26%，大多数来自TikTok。
+澳洲通讯部长韦尔斯早前批评大型科技公司未充分执行相关规定，并强调政府不会在儿童保护问题上让步。根据规定，违规企业最高可被罚约3390万澳元（约3100万新元）。目前，已有超过500万个未成年账户被删除。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -232,11 +376,11 @@
         <id>https://www.zaobao.com/news/world/story20260430-8977715</id>
         <link href="https://www.zaobao.com/news/world/story20260430-8977715"/>
         <updated>2026-04-30T06:11:03.000Z</updated>
-        <summary type="html"><![CDATA[美国政府根据《国际紧急经济权力法》所征关税的首批退款将于5月11日前后发放。
-据新华社消息，美国国际贸易法院法官星期二（4月28日）提交的一份指令显示，根据《国际紧急经济权力法》被征收关税的进口商品中，约有21%的商品已经通过美国海关与边境保护局的新审批流程，可以获得关税退款。
-今年2月20日，美国最高法院公布裁决，认定美国《国际紧急经济权力法》没有授权总统征收大规模关税。 
-3月4日，美国国际贸易法院法官作出裁决，要求海关与边境保护局在关税清算中不得依据《国际紧急经济权力法》征收关税。这意味着，此前依据该法征收的关税需退还。
-截至3月初，美国有超过33万家进口商依据《国际紧急经济权力法》提交超过5300万个报关申请并预付或支付关税税款，涉及约1660亿美元（约2128亿新元）资金。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国政府提呈国际贸易法院的文件显示，特朗普政府预计将在5月11日左右发出第一单关税退款。
+负责审理案件和监督关税退款程序的法官伊顿在这份星期二（4月28日）提呈的文件中说，原本须支付《国际紧急经济权力法》（IEEPA）关税的进口报关单当中，约21％的关税撤销已被批准，约3％处于退款阶段，最终将获得财政部通过电子支付退款。
+超过33万名美国进口商要求政府退还关税税款，总额约1660亿美元（约2127亿新元）。但他们却在一个高度自动化的关税退款门户网站遇到困难。
+美国海关与边境保护局（CBP）执行主任洛德星期二稍早在向伊顿提交的文件中说，自4月20日门户网站上线以来，已有1330万份进口申报通过了初步审核。但截至4月26日，其中约15％的申报因未能通过“特定申报验证”而被拒绝。
+海关与边境保护局说，申报退款被拒的进口商，可在修正错误后重新提交申请。当局说，约174万份已获批准的申报，正在办理退税手续。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -303,37 +447,41 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普：在研究削减驻德美军可能性]]></title>
+        <title type="html"><![CDATA[不满德国批评 特朗普考虑削减驻德美军数量]]></title>
         <id>https://www.zaobao.com/news/world/story20260430-8975915</id>
         <link href="https://www.zaobao.com/news/world/story20260430-8975915"/>
         <updated>2026-04-30T01:50:38.000Z</updated>
-        <summary type="html"><![CDATA[对德国总理默茨涉伊朗言论不满的美国总统特朗普周三宣称，正在研究削减驻德美军人数的可能性。 
-特朗普星期三（4月29日）在自家社媒平台Truth Social发文说：“美国正在研究和评估减少驻德美军人数的可能性，并将在近期内作出决定。”
-据美国战争部数据，截至2025年底，美军共有超过3万6000人驻扎在德国。
-这是特朗普连续第二天在社媒发布涉及德国的帖子。他前一天发文称：“默茨认为伊朗拥有核武器没问题，他根本不知道自己在说什么。”
-特朗普还说，德国现在“无论是在经济还是其他方面都表现得如此糟糕”。
-默茨周一（27日）批评美国在伊朗的军事行动“缺乏计划”，称美国“正受到伊朗领导层羞辱”。
-
-默茨：与特朗普关系依然良好
-
-不过默茨周三说，尽管他与特朗普近期因伊朗战事产生言语交锋，但彼此关系依然良好。
-默茨周三在柏林出席记者会时说，他与特朗普仍保持良好对话关系，只是从一开始，他就对这场战事的发起存有疑虑。
-默茨还说，德国和欧洲正承受着伊朗战事带来的严重后果。他呼吁尽快解决相关冲突。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普周三（4月29日）在社媒发文说，美国正在评估在德国的驻军数量，近期内将决定是否削减驻军，这反映美德两国在伊朗战争问题上的冲突日益激烈。 
+特朗普在两个总统任期内，因北约军费分摊问题，曾多次威胁要削减在德国和其他欧洲盟国的驻军人数，这回他似乎决心惩罚那些未支持美以攻打伊朗以及未派遣军舰参与霍尔木兹海峡护航行动的盟友。
+德国总理默茨本周早前批评美国在没有制定任何战略的情况下对伊朗发起军事行动，导致目前进退两难，正遭受伊朗“羞辱”。这番话激怒特朗普，他发文称“默茨认为伊朗拥有核武器没问题，根本不知道自己在说什么”。
+据美国官方数据，2025年底，美军共有超过3万6000人驻扎在德国。目前，美军欧洲司令部和非洲司令部均设在德国斯图加特，德国拉姆施泰因空军基地则是美国在中东、北非和南亚军事行动的主要后勤基地。
+特朗普的最新表态引起同样驻有美军的韩国关注。
+韩国国防部周四说，韩美之间从未讨论削减驻韩美军问题。韩方指出，驻韩美军主要任务是与韩军形成牢固的联合防卫，遏制和应对朝鲜入侵和挑衅。韩美将继续保持密切沟通，保障美军稳定驻扎。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为伊战辩护 赫格塞斯坚称美国没陷战争泥潭]]></title>
+        <title type="html"><![CDATA[对伊战争已花费250亿美元 赫格塞斯坚称美国没陷战争泥潭]]></title>
         <id>https://www.zaobao.com/news/world/story20260430-8975786</id>
         <link href="https://www.zaobao.com/news/world/story20260430-8975786"/>
         <updated>2026-04-30T01:24:27.000Z</updated>
-        <summary type="html"><![CDATA[美国战争部长赫格塞斯周三在国会发表措辞激烈的讲话，试图为伊朗战争辩护。他称这场战争并非泥潭，并抨击批评这场战争的民主党议员“软弱无能”。
-这是自美国和以色列对伊朗发动军事行动以来，赫格塞斯首次接受国会质询。
-赫格塞斯星期三（4月29日）在众议院军事委员会作证时，猛烈抨击民主党议员“鲁莽、软弱、悲观”。“你们竟然称之为泥潭，把宣传拱手让给敌人？你们这种说法真可耻！”
-在这场长达四个多小时的听证会上，赫格塞斯面对民主党人关于战争开支不断飙升、关键弹药储备大幅削减、美国民众生活成本被推高等一系列质疑。
-但赫格塞斯回应称，这些批评是“政治性的”，并拒绝回答伊朗战事还会持续多久或耗资多少的问题。
-同日，五角大楼代理主计长赫斯特出席众议院军事委员会听证会时说，美国在伊朗战争迄今已花费250亿美元（约320亿新元），这笔资金大部分用于采购弹药。这是美方首次公布战争费用的官方估算。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国战争部长赫格塞斯在国会与民主党议员激烈交锋，他声称美国对伊作战目前已花费250亿美元（约320亿新元），但这笔开支是值得的，同时否认美国陷入战争泥潭。分析人士则认为，战争总成本可能远不止这个数字。
+赫格塞斯星期三（4月29日）出席国会众议院军事委员会听证会时，发表上述言论。
+这场听证会长达四个多小时，原定讨论特朗普政府政府史无前例的1.5万亿美元国防预算申请，但实际焦点都集中在伊朗战事等课题。民主党人就战争开支不断飙升、关键弹药储备大幅削减、美国民众生活费高涨问题，对赫格塞斯发出质疑。
+赫格塞斯说，伊朗战争迄今已耗资250亿美元，但为了不让伊朗获取核武器，这笔花费是值得的。
+五角大楼代理总会计师赫斯特说，这笔钱大部分用于弹药消耗，同时也包括作战行动支出和装备补充。
+这是美国首次公布战争费用的官方估算，但并未给出具体账目。
+康涅狄格州民主党参议员布卢门撒尔曾告诉彭博电视台，每日战争成本的保守估计就有20亿美元；《华盛顿邮报》报道，五角大楼估算，仅战争前两天的弹药消耗就达到56亿美元。
+新罕布什尔州民主党众议员古德兰德多次要求五角大楼就战争开支提供具体细节，她在听证会上严厉批评赫格塞斯：“你坐在这里，却无法对已花费的数十亿美元给出说法，这是极其严重的失职。”
+美军在作战中损失数十架飞机，更换这些装备将耗资数十亿美元。美军还损失和损坏多套雷达系统，每套价值数亿美元。
+美国智库史汀森中心高级研究员格里科分析：“五角大楼所说的250亿美元，显然只是对战争成本的狭隘估算，甚至还没算上基地损毁、行动成本，以及五角大楼自身不断上涨的燃油开销。”
+
+赫格塞斯否认美国陷战争泥潭 与民主党议员激烈争执
+
+民主党众议员加拉门迪在听证会上直指赫格塞斯“从战争伊始就向美国公众撒谎”，并称伊朗战争是“一片泥潭”和“各个层面的政治及经济灾难”。
+“在特朗普发动伊朗战争的60天里，关键弹药消耗速度惊人，库存水平已降至不足以遏制中国的程度。”
+赫格塞斯随即指责民主党人“鲁莽、软弱、消极”。“你们说这是泥潭，这岂不是给敌人送上宣传素材？你们真该为发表这种言论感到羞耻。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -402,15 +550,21 @@
         <id>https://www.zaobao.com/news/world/story20260430-8975487</id>
         <link href="https://www.zaobao.com/news/world/story20260430-8975487"/>
         <updated>2026-04-29T23:20:27.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦储备局主席鲍威尔周三说，他将在下月任期结束后继续担任美联储理事，具体时间待定。
-鲍威尔星期三（4月29日）在最后一次政策会议后的新闻发布会上说：“我的主席任期将于5月15日结束，之后我将继续担任美联储理事，具体任期长短待定。”
-鲍威尔说，他并不想成为一名高调的异议人士，而是希望看到导致美联储遭受前所未有的法律攻击的政治氛围能够平静下来，让美联储能够更加专注于核心使命。
-他告诉记者：“我担心这些攻击正在重创美联储，并危及对公众真正重要的事物，那就是在不考虑政治因素的情况下制定货币政策的能力。”
-美国司法部今年1月就美联储总部翻新工程超支展开调查和发出传票。鲍威尔当时批评此举实质上是在惩罚美联储不遵从总统特朗普的降息要求。
-鲍威尔周三补充说，他计划在他认为合适的时候离任。这一举动虽不同寻常，但并非史无前例。
-鲍威尔可以一直担任美联储理事至2028年。
-美国财长贝森特则对鲍威尔的决定作出批评。他告诉福克斯商业频道节目，此举“违反了美联储的所有准则”，并且“侮辱了有望成为下一任美联储主席的沃什”。
-鲍威尔继续留任美联储理事，意味着特朗普将无法在七人理事会中安插新人，使得他无法完全如愿地重塑美联储。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国联邦储备局主席鲍威尔说，他5月15日卸任主席后，将继续当一名“低调的理事”。这番表态引来美国总统特朗普和财长贝森特强烈反弹，指他“破坏常规”，也“羞辱”了即将接任的沃什。
+鲍威尔星期三（4月29日）最后一次主持政策会议后在记者会上说，虽然司法部官员已向他担保不会重启联储翻修总部的刑事调查，除非联储内部监管单位建议这么做，但哥伦比亚区联邦检察官皮罗（Janine Pirro）仍表明若有必要还是会重启。 
+理事任期在2028年1月才结束的鲍威尔说：“我说过，在调查真正透明地完结前不会离开，我坚持这一点。当我认为应当离开，就会离开。”
+鲍威尔还说，美联储过去一年遭受史无前例的司法攻击让他担忧，美联储不受政治影响的独立货币政策运作将受到威胁。他希望这样的政治氛围能平静下来，让美联储专注执行它的核心任务。
+鲍威尔决定留任，意味着特朗普暂时无法在七名理事中安插新人，完全如愿地重塑美联储。
+特朗普在社媒贴文说，鲍威尔要留任是因为“他找不到其他工作，没人要他”。
+贝森特当天接受福克斯商业频道访问时，也批评鲍威尔的决定“违背了美联储的所有常规”。
+他说：“对一名自诩为体制主义者并注重联储常规的人来说，这么做高度不寻常。” 
+贝森特声称，鲍威尔的决定对特朗普提名接任主席的沃什和其他两位理事鲍曼和沃勒是一种“羞辱”，等于在暗指“他们对联储体制毫不在乎，只有自己才能维护联储的诚信”。
+美联储第七任主席埃克尔斯（Marriner Eccles）1948年卸任后还留任理事至1951年，是唯一这么做的美联储主席。
+
+沃什联储主席提名通过参议院小组表决
+
+同天，参议院银行委员会以13票赞成、11票反对，通过了沃什的联储主席提名，接下来将交由共和党掌控的参议院进行全体表决。 
+鲍威尔对沃什通过这道重要关卡表示祝贺，对于接任者能否不受特朗普左右，鲍威尔说：“他在听证会上表达了非常强烈的立场，我相信他是真心的。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -420,15 +574,12 @@
         <id>https://www.zaobao.com/news/world/story20260430-8975413</id>
         <link href="https://www.zaobao.com/news/world/story20260430-8975413"/>
         <updated>2026-04-29T23:05:45.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，他周三与俄罗斯总统普京通电话，建议俄方同乌克兰实施短期停火。
-综合路透社与新华社报道，特朗普星期三（4月29日）在白宫会见执行美国载人绕月任务的宇航员时对记者说，他同普京聊得很愉快，他建议俄乌实行短期停火，“我想他可能会采纳这一建议。”
-特朗普说，他与普京的谈话涉及多个课题，除了乌克兰外，也稍微谈及了伊朗。他说，普京希望参与伊朗浓缩铀问题的解决，以推动结束伊朗战事。“但我对他说，我宁愿看到你把精力放在结束乌克兰战事上。”
-被问及乌克兰和伊朗两场战事哪个会先结束时，特朗普说：“我不知道，也许它们的时间表差不多。”
-
-普京：准备在胜利日停火
-
-俄罗斯总统助理乌沙科夫则说，普京告诉特朗普，俄罗斯准备在胜利日期间实施停火，特朗普对此表示支持。
-乌沙科夫说，此次通话是由俄方发起的，持续了超过一个半小时，双方对话“坦诚且务实”。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿/基辅/巴黎综合电）美国总统特朗普周三与俄罗斯总统普京通电话。特朗普说，他敦促普京结束对乌克兰的战争，也拒绝了普京愿意帮忙处理伊朗浓缩铀的提议。
+特朗普周三（4月29日）在白宫告诉记者，他同普京聊得很愉快，他建议俄乌实行短期停火，“我认为他可能会同意”。
+特朗普说，他与普京的谈话涉及多个课题，除了乌克兰外，也稍微谈及了伊朗。他说，普京愿意协助解决伊朗浓缩铀问题，以推动结束伊朗战事。“但我对他说，我更希望看到你把精力放在结束乌克兰战事上。在你帮我之前，我想先结束你的战争。”
+俄罗斯总统助理乌沙科夫则说，普京告诉特朗普，俄罗斯准备在5月9日苏联在二战中击败纳粹德国的胜利日当天停火。
+乌沙科夫也形容通话“友好、坦率且务实”，持续约一个半小时。他称双方主要讨论伊朗问题及停火设想，特朗普认为结束俄乌战争的协议“已经接近达成”。
+乌克兰总统泽连斯基周四说，乌方正在向美方了解更多停火细节。他说：“我们将弄清楚这到底是什么——是莫斯科阅兵式的几个小时安全安排，还是更长时间的内容。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -461,142 +612,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[加拿大枪击案受害者家属起诉OpenAI]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974855</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974855"/>
-        <updated>2026-04-29T15:13:17.000Z</updated>
-        <summary type="html"><![CDATA[加拿大一起大规模致命枪击案受害者家属星期三（4月29日）在美国起诉OpenAI和公司首席执行官奥特曼，指控OpenAI早在案发前八个月已将枪手识别为“可信威胁”，却未报警。
-路透社报道，这起诉讼已提呈旧金山联邦法院，指控OpenAI高管之所以没有联系警方，是因为担心这会暴露ChatGPT平台上大量与暴力有关的对话，从而危及公司即将进行的近1万亿美元（约1.28万亿新元）规模首次公开募股的进程。
-今年2月，不列颠哥伦比亚省图姆布勒里奇镇发生校园枪击案，嫌疑人曾使用ChatGPT查询与犯案相关内容。事件共造成九人死亡，包括嫌疑人。
-OpenAI的发言人称，这场枪击事件是“一场悲剧”，并强调公司对利用其工具协助实施暴力行为采取零容忍政策。
-OpenAI首席执行官奥特曼上周对此致歉，承认公司未能及时向执法部门通报嫌疑人曾使用的ChatGPT账号。这个账号早在案发前约八个月已因违反使用政策被封禁。
-原告代表律师埃德尔森说，他计划在未来几周内代表其他受此次枪击事件影响的人，针对OpenAI再提起二十多起诉讼。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报告：黎巴嫩预计逾120万人将面临严重饥饿]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974712</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974712"/>
-        <updated>2026-04-29T14:35:44.000Z</updated>
-        <summary type="html"><![CDATA[一份报告指出，由于以色列与真主党之间爆发新一轮战争，预计黎巴嫩将有逾120万人面临严重饥饿。
-法新社报道，这一数字由联合国粮食及农业组织（FAO）、世界粮食计划署和黎巴嫩农业部在一份联合声明中公布。
-声明称，根据分析结果，在今年4月至8月期间，预计将有“约124万人……面临危机级别或更严重的粮食不安全状况”。
-相关评估来自“综合粮食安全阶段分类”系统，这是一个由联合国支持、专门监测饥饿和营养不良状况的机构。
-声明指出，与3月战争爆发前相比，有关情况出现了“显著恶化”。当时估计约有87万4000人或约占人口17%，正经历急性粮食不安全。“情况恶化是因为冲突、人口流离失所以及经济压力所致。”
-根据黎巴嫩官方数据，自4月17日达成停火协议前，以色列和真主党之间长达六周的战事，已在黎巴嫩造成逾2500人死亡、逾100万人流离失所。
-声明警告说：“如果缺乏持续而及时的人道主义援助和生计支持，急性粮食不安全状况很可能进一步加剧。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普会见石油公司高层讨论石油市场议题]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974637</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974637"/>
-        <updated>2026-04-29T14:10:21.000Z</updated>
-        <summary type="html"><![CDATA[白宫官员星期三说，美国总统特朗普会见了雪佛龙及其他能源公司高层，讨论如果需要对伊朗港口实施长达数个月封锁，可采取哪些措施来稳定石油市场。
-路透社报道，白宫一名官员星期三（4月29日）说，特朗普星期二（28日）会见了能源巨头雪佛龙及其他能源公司的高层，讨论包括美国石油产量、石油期货、海运和天然气在内的一系列议题。
-雪佛龙发言人说，雪佛龙首席执行官沃思出席了这次的会议，讨论因美伊战争而动荡不安的全球石油市场。
-据报道，财长贝森特、白宫幕僚长怀尔斯、总统特使威特科夫以及特朗普女婿库什纳也出席了这场会议。
-这名白宫官员称：“这些企业高管一致高度评价特朗普总统为释放美国能源主导地位所采取的行动，并认为总统当前在做的一切都是正确的。”
-另据《华尔街日报》星期二引述美国官员报道，特朗普已指示助手准备对伊朗实施长期封锁，以迫使伊朗在核问题上做出让步。
-伊朗驻埃及开罗利益代表处负责人菲尔多西普尔同日称，美国试图以海上封锁迫使伊朗接受美方单方面要求是徒劳的，伊朗可以利用与周边国家的陆地边界绕过封锁。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国召见俄罗斯驻伦敦大使 谴责俄驱逐英外交官]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974436</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974436"/>
-        <updated>2026-04-29T13:25:06.000Z</updated>
-        <summary type="html"><![CDATA[英国外交部星期三（4月29日）说，已召见俄罗斯驻英国大使，并撤销了一名俄罗斯外交官的资格。
-路透社报道，一名英国政府发言人说，英国“强烈谴责”俄罗斯上月驱逐一名英国外交官的决定，并称相关指控毫无依据。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国前总统尹锡悦妨碍执法案二审判七年 刑期上调两年]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974073</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974073"/>
-        <updated>2026-04-29T13:10:10.000Z</updated>
-        <summary type="html"><![CDATA[韩国前总统尹锡悦星期三（4月29日）在二审中被判处有期徒刑七年，刑期较一审明显加重。裁决不仅是围绕“戒严事件”的首次二审判断，也是首尔高等法院内乱专责法庭成立以来的首个判决，多项一审无罪认定被推翻，具有标志性意义。 
-首尔高等法院内乱特别法庭29日宣判，认定尹锡悦构成妨碍特殊公务执行、滥用职权妨碍权利行使、制作虚假公文及教唆违反《总统警卫法》等多项罪名。
-在维持一审有罪部分的同时，法院将大部分无罪指控改判有罪，但量刑仍低于独立检察组此前提出的10年有期徒刑。
-判决指出，尹锡悦去年1月动员总统警卫处人员阻挠公调处执行逮捕令，构成妨碍特殊公务执行及滥用职权；同时，在内乱调查过程中指示删除涉军方指挥官通信记录，被认定为教唆违法。
-法院强调，试图以武力阻止执法机关履职，在法治社会中不可接受。
-围绕紧急戒严程序，二审作出关键调整。法院认为，即便部分国务委员接到通知，但在现实时间条件下难以及时到场，其审议权同样受到侵害，应一并认定为滥用职权，从而推翻一审相关无罪判断。
-在涉媒体指控方面，法院亦推翻一审无罪结论，认定尹锡悦曾指示对外发布包含“从未意图破坏宪政秩序”等内容的政府对媒体发布的官方立场。
-法院指出，相关内容与客观事实不符，公务人员负有核实义务，而戒严期间限制国会出入等措施已与上述说法明显矛盾。
-此外，尹锡悦在戒严解除后补制宣言文件的行为，被认定构成“制作虚假公文”，事后废弃文件亦被视为损毁公文；但行使虚假公文指控维持无罪。至此，除这项罪名外，其余主要指控均被判定成立。
-量刑方面，法院指出，被告在案发时身为总统，本应承担维护宪法秩序、保障国民权利的重大责任，但相关行为反而加剧社会混乱，等同于放弃总统职责。
-法院还提到，被告在案后未表现出反省态度，反复否认错误并试图回避责任，亦被视为不利量刑因素。尽管其无刑事前科被列为从轻情节，但法院认为仅能有限考虑。
-宣判后，尹锡悦面带苦笑离开法庭。他的律师团表示无法接受判决结果，将向最高法院提起上诉，并批评裁决将僵化的法律原则适用于具有政治性质的行为，尹锡悦本人则继续否认全部指控。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泽连斯基：乌军扩大对俄打击射程 已超过1500公里]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8973985</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8973985"/>
-        <updated>2026-04-29T12:56:39.000Z</updated>
-        <summary type="html"><![CDATA[（基辅／莫斯科综合电）乌克兰总统泽连斯基说，乌克兰将不断扩大对俄罗斯境内打击的射程，并发布一段据称是对距离超过1500公里的目标发动袭击的视频。
-泽连斯基星期三（4月29日）说，近期打击重点包括炼油厂、油库与港口设施，目标是削弱俄罗斯战争资金来源。乌克兰国家安全局同日称，已在俄罗斯彼尔姆附近袭击一处输油泵站。 
-他说，这标志着乌克兰武器使用进入新阶段，远程打击能力将持续提升，以限制俄罗斯战争能力。他还指出，每一次打击都会削弱俄方军事工业、物流与能源出口体系。 
-在更早前的行动中，乌克兰无人机星期二袭击俄黑海港口图阿普谢一炼油厂。这是两周内第三次袭击。乌方还称在黑海附近击中一艘受制裁油轮，指这艘船参与石油运输。
-
-              
-乌克兰官方4月29日发布的照片显示，俄军无人机自星期一晚以来袭击南部敖德萨地区，造成居民楼起火，消防员在场进行救援。（路透社）
-            
-另一方面，俄罗斯加强对乌克兰港口与城市的空袭。乌官员星期三称，俄军无人机袭击南部敖德萨地区港口设施，造成医院损毁、居民建筑起火，并导致人员受伤。乌空军说，自星期一晚上以来，俄方已发射171架无人机，防空部队击落或摧毁其中154架。 
-俄总统普京在电视台发表讲话说，针对民用基础设施的无人机袭击日益频繁，可能会造成严重环境后果。俄方已采取措施控制图阿普谢炼油厂火势，并疏散部分居民。
-图阿普谢炼油厂是俄南部重要能源设施之一，年加工能力约1200万吨。当地部分居民对乌军连续袭击表达不满，质疑防空能力不足。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国发生持刀伤人案两名犹太人受伤 一人被捕]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8974061</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8974061"/>
-        <updated>2026-04-29T12:36:49.000Z</updated>
-        <summary type="html"><![CDATA[英国伦敦北部一个犹太人聚居区发生持刀伤人案，导致两人受伤，警方随后逮捕一名男子。
-综合路透社和法新社报道，犹太组织“Shomrim”星期三（4月29日）在社媒发文说，有目击者称一名男子在格德斯绿地（Golders Green）持刀奔跑，并试图刺伤路过的犹太民众。两人在事件中被刺伤，并已送院治疗。
-组织补充说，在警方抵达前，组织人员已经将嫌犯控制住，警方则使用了电击枪将嫌犯制服并逮捕一名45岁男子。
-英国警方周三已将这起事件定性为“恐怖主义事件”。
-英国首相斯塔默星期三说，这起持刀伤人案“令人深感关切”。
-斯塔默在议会上告诉议员们，警方正在展开调查，并称“我们所有人都需要……明确表明我们打击这类犯罪的决心”。
-以色列总统赫尔佐格说，由于在伦敦，“作为一名犹太人走在大街上已变得危险”，呼吁英国采取紧急行动。
-近期，伦敦发生多起针对犹太人设施的袭击事件。本月19日，伦敦哈罗区一座犹太教堂遭人投掷燃烧物，两名年龄分别为17岁和19岁的嫌疑人被捕。当天，伦敦一处犹太居民较多地区的住宅外发生火灾，警方已按纵火案处理。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国：伊朗自战争爆发后已处决21人 逮捕4000多人]]></title>
-        <id>https://www.zaobao.com/news/world/story20260429-8973354</id>
-        <link href="https://www.zaobao.com/news/world/story20260429-8973354"/>
-        <updated>2026-04-29T10:46:07.000Z</updated>
-        <summary type="html"><![CDATA[联合国指出，自中东战争爆发以来，伊朗已至少处决21人，并逮捕逾4000人。 
-法新社报道，联合国人权事务高级专员办事处指出，自2月美伊战争爆发以来，至少有九人因与2026年1月席卷伊朗的抗议活动有关而被处决，另有10人因涉嫌加入反对派组织遭到处决，还有两人因间谍罪名被处决。
-与此同时，估计有超过4000人因涉及国家安全相关问题被捕。联合国人权办指出，许多被拘留者遭遇强迫失踪、酷刑或“残忍、不人道和有辱人格的待遇”，包括被迫认罪以及模拟处决。
-联合国人权事务负责人特克（Volker Turk）说：“在冲突已经造成极其严重影响的基础上，伊朗当局仍以严厉而残暴的方式剥夺伊朗人民的权利，这令我深感震惊。
-“我呼吁当局立即停止一切处决……切实保障正当程序和公正审判，并立即释放所有被任意拘的人。”
-多个人权组织称，伊朗每年处决的人数仅次于中国。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 讓你變笨？真正被外包的是第一個判斷]]></title>
         <id>https://ducorn.com/chatgpt-cognitive-debt</id>
         <link href="https://ducorn.com/chatgpt-cognitive-debt"/>
         <updated>2026-04-29T08:25:06.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 不會因為幫你修字就讓你變笨。真正要小心的是，你還沒想清楚，就先讓它替你開第一步。危險不在工具本身，而在你把擁有感、記憶和第一版判斷一起交出去。這篇把 MIT 認知債務研究、台灣職場焦慮和 Reddit 個案收成一條做法：重要任務先寫十分鐘爛草稿，再讓 AI 反駁。]]></summary>
+        <summary type="html"><![CDATA[很多人問 ChatGPT 用太多會不會變笨。這篇不走工具恐慌，而是分清楚真正的風險：不是 AI 幫你修字、摘要或整理格式，而是你還沒形成自己的第一個判斷，就先讓它替你切題、列大綱、決定方向。最後給一條界線：先留下自己的起點，再讓 AI 反駁、補盲點。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
