@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T13:25:58.444Z</updated>
+    <updated>2026-05-01T19:17:21.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why AI is unlikely to become conscious | Anil Seth]]></title>
+        <id>69f36e419dcd58edd9713bfd</id>
+        <link href="http://go.ted.com/anilseth26"/>
+        <updated>2026-05-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We see consciousness in AI the same way we see faces in clouds, says neuroscientist Anil Seth. He explores the all-too-human tendency to project inner life onto machines that are brilliant mimics, not sentient beings, and gives a definitive answer to the urgent question: Will AI ever gain consciousness?
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reimagining traditional architecture for modern needs | Riyad Joucka]]></title>
         <id>69ef7dba4c8fca33687061e3</id>

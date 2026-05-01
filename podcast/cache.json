@@ -296,6 +296,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "69f36e419dcd58edd9713bfd",
+          "author": null,
+          "description": "We see consciousness in AI the same way we see faces in clouds, says neuroscientist Anil Seth. He explores the all-too-human tendency to project inner life onto machines that are brilliant mimics, not sentient beings, and gives a definitive answer to the urgent question: Will AI ever gain consciousness?\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/anilseth26",
+          "publishedOn": "2026-05-01T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Why AI is unlikely to become conscious | Anil Seth",
+          "itunes": {
+            "duration": "17:06"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f36e419dcd58edd9713bfd/media.mp3",
+            "length": "16519151",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "69ef7dba4c8fca33687061e3",
           "author": null,
           "description": "Architect Riyad Joucka believes your home should be a mirror of who you are. Using 3D printing and ancient architectural wisdom, he's designing efficient, personal homes that respond to context, climate and culture without sacrificing character. He makes the case that we should start designing for people, not the market.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
