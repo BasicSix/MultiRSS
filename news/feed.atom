@@ -2,198 +2,293 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T03:36:40.145Z</updated>
+    <updated>2026-05-03T08:06:11.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[double vision]]></title>
-        <id>1x-3567551</id>
-        <link href="https://1x.com/photo/3567551"/>
-        <updated>2026-05-03T03:35:56.346Z</updated>
-        <summary type="html"><![CDATA[double vision by Karl-Heinz Bitter]]></summary>
+        <title type="html"><![CDATA[Market in Zaira]]></title>
+        <id>1x-3568039</id>
+        <link href="https://1x.com/photo/3568039"/>
+        <updated>2026-05-03T08:05:24.906Z</updated>
+        <summary type="html"><![CDATA[Market in Zaira by Josi Ga]]></summary>
         <author>
-            <name>Karl-Heinz Bitter</name>
+            <name>Josi Ga</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring]]></title>
-        <id>1x-3567685</id>
-        <link href="https://1x.com/photo/3567685"/>
-        <updated>2026-05-03T03:35:56.341Z</updated>
-        <summary type="html"><![CDATA[Spring by Qing Zhao]]></summary>
+        <title type="html"><![CDATA[Bee-eater]]></title>
+        <id>1x-3475717</id>
+        <link href="https://1x.com/photo/3475717"/>
+        <updated>2026-05-03T08:05:24.900Z</updated>
+        <summary type="html"><![CDATA[Bee-eater by Jivko Nakev]]></summary>
         <author>
-            <name>Qing Zhao</name>
+            <name>Jivko Nakev</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MOONLIGHT SERENADE]]></title>
-        <id>1x-3567626</id>
-        <link href="https://1x.com/photo/3567626"/>
-        <updated>2026-05-03T03:35:56.337Z</updated>
-        <summary type="html"><![CDATA[MOONLIGHT SERENADE by Stefano Caccia]]></summary>
+        <title type="html"><![CDATA[Best catch]]></title>
+        <id>1x-3442996</id>
+        <link href="https://1x.com/photo/3442996"/>
+        <updated>2026-05-03T08:05:24.895Z</updated>
+        <summary type="html"><![CDATA[Best catch by Dirk Koster]]></summary>
         <author>
-            <name>Stefano Caccia</name>
+            <name>Dirk Koster</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From the top of the fjord]]></title>
-        <id>1x-3567633</id>
-        <link href="https://1x.com/photo/3567633"/>
-        <updated>2026-05-03T03:35:56.335Z</updated>
-        <summary type="html"><![CDATA[From the top of the fjord by Cesar Alvarez Osorio]]></summary>
+        <title type="html"><![CDATA[Pink Lady]]></title>
+        <id>1x-3565232</id>
+        <link href="https://1x.com/photo/3565232"/>
+        <updated>2026-05-03T08:05:24.796Z</updated>
+        <summary type="html"><![CDATA[Pink Lady by fotomarion]]></summary>
         <author>
-            <name>Cesar Alvarez Osorio</name>
+            <name>fotomarion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full House]]></title>
+        <id>1x-3536878</id>
+        <link href="https://1x.com/photo/3536878"/>
+        <updated>2026-05-03T08:05:24.792Z</updated>
+        <summary type="html"><![CDATA[Full House by Wenjin Yu]]></summary>
+        <author>
+            <name>Wenjin Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Dragon]]></title>
+        <id>1x-3565636</id>
+        <link href="https://1x.com/photo/3565636"/>
+        <updated>2026-05-03T08:05:24.781Z</updated>
+        <summary type="html"><![CDATA[Golden Dragon by Emma Zhao]]></summary>
+        <author>
+            <name>Emma Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Night Watcher]]></title>
+        <id>1x-3567982</id>
+        <link href="https://1x.com/photo/3567982"/>
+        <updated>2026-05-03T08:05:24.775Z</updated>
+        <summary type="html"><![CDATA[Night Watcher by Li Chen]]></summary>
+        <author>
+            <name>Li Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lonelyness]]></title>
+        <id>1x-3567955</id>
+        <link href="https://1x.com/photo/3567955"/>
+        <updated>2026-05-03T08:05:24.770Z</updated>
+        <summary type="html"><![CDATA[Lonelyness by AGNIRIBE]]></summary>
+        <author>
+            <name>AGNIRIBE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Accentor - Prunella modularis]]></title>
+        <id>1x-3550836</id>
+        <link href="https://1x.com/photo/3550836"/>
+        <updated>2026-05-03T08:05:24.764Z</updated>
+        <summary type="html"><![CDATA[Hedge Accentor - Prunella modularis by Peter Ebel]]></summary>
+        <author>
+            <name>Peter Ebel</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3540849</id>
-        <link href="https://1x.com/photo/3540849"/>
-        <updated>2026-05-03T03:35:56.332Z</updated>
-        <summary type="html"><![CDATA[Untitled by Anna Cseresnjes]]></summary>
+        <id>1x-3568070</id>
+        <link href="https://1x.com/photo/3568070"/>
+        <updated>2026-05-03T08:05:24.752Z</updated>
+        <summary type="html"><![CDATA[Untitled by Robert Beliczay]]></summary>
         <author>
-            <name>Anna Cseresnjes</name>
+            <name>Robert Beliczay</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whisper under the milkyway]]></title>
-        <id>1x-3567605</id>
-        <link href="https://1x.com/photo/3567605"/>
-        <updated>2026-05-03T03:35:56.328Z</updated>
-        <summary type="html"><![CDATA[Whisper under the milkyway by meix]]></summary>
+        <title type="html"><![CDATA[Hoverfly]]></title>
+        <id>1x-3567758</id>
+        <link href="https://1x.com/photo/3567758"/>
+        <updated>2026-05-03T08:05:24.740Z</updated>
+        <summary type="html"><![CDATA[Hoverfly by Ryo Iura]]></summary>
         <author>
-            <name>meix</name>
+            <name>Ryo Iura</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Old Hut]]></title>
-        <id>1x-3542036</id>
-        <link href="https://1x.com/photo/3542036"/>
-        <updated>2026-05-03T03:35:56.317Z</updated>
-        <summary type="html"><![CDATA[Old Hut by Þorsteinn H. Ingibergsson]]></summary>
+        <title type="html"><![CDATA[Robin...thoughtful!]]></title>
+        <id>1x-3567725</id>
+        <link href="https://1x.com/photo/3567725"/>
+        <updated>2026-05-03T08:05:24.731Z</updated>
+        <summary type="html"><![CDATA[Robin...thoughtful! by Massimo Chiodini]]></summary>
         <author>
-            <name>Þorsteinn H. Ingibergsson</name>
+            <name>Massimo Chiodini</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fog]]></title>
-        <id>1x-3567773</id>
-        <link href="https://1x.com/photo/3567773"/>
-        <updated>2026-05-03T03:35:56.311Z</updated>
-        <summary type="html"><![CDATA[The Fog by Robert Buergisser]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3554432</id>
+        <link href="https://1x.com/photo/3554432"/>
+        <updated>2026-05-03T08:05:24.722Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dan Gdalevitz]]></summary>
         <author>
-            <name>Robert Buergisser</name>
+            <name>Dan Gdalevitz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ADELAIDA PORTRAIT]]></title>
-        <id>1x-3566965</id>
-        <link href="https://1x.com/photo/3566965"/>
-        <updated>2026-05-03T03:35:56.304Z</updated>
-        <summary type="html"><![CDATA[ADELAIDA PORTRAIT by GAGIK  VAGRAMYAN]]></summary>
+        <title type="html"><![CDATA[Weevil]]></title>
+        <id>1x-3566335</id>
+        <link href="https://1x.com/photo/3566335"/>
+        <updated>2026-05-03T08:05:24.713Z</updated>
+        <summary type="html"><![CDATA[Weevil by Taufik Ammouneh Martínez]]></summary>
         <author>
-            <name>GAGIK VAGRAMYAN</name>
+            <name>Taufik Ammouneh Martínez</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dots]]></title>
-        <id>1x-3567651</id>
-        <link href="https://1x.com/photo/3567651"/>
-        <updated>2026-05-03T03:35:56.294Z</updated>
-        <summary type="html"><![CDATA[Dots by Setsuna Kurouzu]]></summary>
+        <title type="html"><![CDATA[Moments of Flamingo Happiness]]></title>
+        <id>1x-3567244</id>
+        <link href="https://1x.com/photo/3567244"/>
+        <updated>2026-05-03T08:05:24.706Z</updated>
+        <summary type="html"><![CDATA[Moments of Flamingo Happiness by Gary Hu]]></summary>
         <author>
-            <name>Setsuna Kurouzu</name>
+            <name>Gary Hu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corner]]></title>
-        <id>1x-3567807</id>
-        <link href="https://1x.com/photo/3567807"/>
-        <updated>2026-05-03T03:35:56.289Z</updated>
-        <summary type="html"><![CDATA[Corner by ShikiRyu]]></summary>
+        <title type="html"><![CDATA[Belted Kingfisher]]></title>
+        <id>1x-3568081</id>
+        <link href="https://1x.com/photo/3568081"/>
+        <updated>2026-05-03T08:05:24.695Z</updated>
+        <summary type="html"><![CDATA[Belted Kingfisher by Johnny Chen]]></summary>
         <author>
-            <name>ShikiRyu</name>
+            <name>Johnny Chen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JAPAN, HOKKAIDO - SHIRETOKO PENINSULA-14331]]></title>
-        <id>1x-3567727</id>
-        <link href="https://1x.com/photo/3567727"/>
-        <updated>2026-05-03T03:35:56.287Z</updated>
-        <summary type="html"><![CDATA[JAPAN, HOKKAIDO - SHIRETOKO PENINSULA-14331 by Raimondo Restelli]]></summary>
+        <title type="html"><![CDATA[Lines and Curves]]></title>
+        <id>1x-3568060</id>
+        <link href="https://1x.com/photo/3568060"/>
+        <updated>2026-05-03T08:05:24.678Z</updated>
+        <summary type="html"><![CDATA[Lines and Curves by Molly Fu APA]]></summary>
         <author>
-            <name>Raimondo Restelli</name>
+            <name>Molly Fu APA</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flames in the Night]]></title>
-        <id>1x-3560479</id>
-        <link href="https://1x.com/photo/3560479"/>
-        <updated>2026-05-03T03:35:56.283Z</updated>
-        <summary type="html"><![CDATA[Flames in the Night by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[Anastasiia Portrait]]></title>
+        <id>1x-3567997</id>
+        <link href="https://1x.com/photo/3567997"/>
+        <updated>2026-05-03T08:05:24.389Z</updated>
+        <summary type="html"><![CDATA[Anastasiia Portrait by Eddie Kavanagh]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>Eddie Kavanagh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring]]></title>
-        <id>1x-3567753</id>
-        <link href="https://1x.com/photo/3567753"/>
-        <updated>2026-05-03T03:35:56.280Z</updated>
-        <summary type="html"><![CDATA[Spring by Doron Margulies]]></summary>
+        <title type="html"><![CDATA[Alone Beneath the Towers]]></title>
+        <id>1x-3567909</id>
+        <link href="https://1x.com/photo/3567909"/>
+        <updated>2026-05-03T08:05:24.350Z</updated>
+        <summary type="html"><![CDATA[Alone Beneath the Towers by Lu Wang]]></summary>
         <author>
-            <name>Doron Margulies</name>
+            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iron Ribbon]]></title>
-        <id>1x-3567676</id>
-        <link href="https://1x.com/photo/3567676"/>
-        <updated>2026-05-03T03:35:56.276Z</updated>
-        <summary type="html"><![CDATA[Iron Ribbon by Stefan Lenz]]></summary>
+        <title type="html"><![CDATA[伊朗计划将大学遇袭地点改建为战争博物馆 控诉美伊冲突影响]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8990324</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8990324"/>
+        <updated>2026-05-03T07:48:41.000Z</updated>
+        <summary type="html"><![CDATA[伊朗一名官员称，伊朗当局计划将伊朗中部一所大学内的爆炸现场改建成一座博物馆，以展示美以空袭的影响。
+伊朗伊斯兰共和国通讯社报道称，伊斯法罕理工大学校长卡兰塔里星期六（5月2日）说：“目前的受损场地将被保留下来为校内的战争博物馆，作为伊朗史上遭受压迫的见证。”
+他补充说，校方已获拨其他土地用于“新建大楼和配备先进设备”。
+卡兰塔里说，初步评估显示，大学建筑和设施的损失金额约1100万美元（约1400万新元）。
+今年3月，美伊冲突蔓延至整个地区的期间，美以联军对伊朗最大的高校之一——伊斯法罕理工大学发动了袭击。
+伊朗官员称，袭击波及了伊朗全国30多所大学，包括首都德黑兰，以及居民区和其他民用基础设施。
+从4月8日起，美国和伊朗实施停火协议。]]></summary>
         <author>
-            <name>Stefan Lenz</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duy...]]></title>
-        <id>1x-3567824</id>
-        <link href="https://1x.com/photo/3567824"/>
-        <updated>2026-05-03T03:35:56.273Z</updated>
-        <summary type="html"><![CDATA[Duy... by Vasfiye Budak]]></summary>
+        <title type="html"><![CDATA[美媒：伊朗愿先开放霍尔木兹海峡再谈判]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8990203</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8990203"/>
+        <updated>2026-05-03T07:14:54.000Z</updated>
+        <summary type="html"><![CDATA[美国媒体引述伊朗高级官员报道，伊朗提交的新谈判方案取消此前设定的条件，不再要求美国在谈判之前先解除霍尔木兹海峡封锁。
+《纽约时报》星期六（5月2日）报道这一消息。两名伊朗高级官员透露，德黑兰新提交的谈判方案在谈判步骤的先后顺序上提供了更大的灵活性，愿意先开放霍尔木兹海峡，之后美国再宣布解除封锁。
+这两名官员还说，新方案仍然要求在达成永久停火协议后，将核谈判推迟到第二阶段进行。
+另据三名伊朗官员称，伊朗提出最新方案之前，曾提议重新开放霍尔木兹海峡，结束美国封锁，并推迟有关核计划的谈判，但美国总统特朗普对此并不满意，因为他想解决核计划问题。
+自美国和以色列2月28日对伊朗发动军事打击以来，霍尔木兹海峡这条承载全球约五分之一石油供应的航运要道一直遭到封锁，它的控制权成为美伊和谈的关键分歧之一。
+伊朗塔斯尼姆通讯社星期六早些时候报道，德黑兰通过巴基斯坦调解人提交一份14点谈判方案，回应美国提出的九点提议。新方案重点在于结束战争，德黑兰正在等待美国的回应。
+报道称，伊朗的提议包括保证不采取军事行动、美军从伊朗周边地区撤军、解除海上封锁和制裁、解冻伊朗资产、支付赔偿金，以及结束包括黎巴嫩在内多条战线上的敌对行动。
+这份方案还包括关于霍尔木兹海峡的框架，但塔斯尼姆通讯社没有详细报道相关细节。
+伊媒报道，伊朗星期四（4月30日）通过巴基斯坦向美国转交最新谈判方案。美国尚未透露伊朗方案的细节，但特朗普星期五（5月1日）表明，他对伊朗提交的新方案不满意。]]></summary>
         <author>
-            <name>Vasfiye Budak</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doroteja]]></title>
-        <id>1x-3567665</id>
-        <link href="https://1x.com/photo/3567665"/>
-        <updated>2026-05-03T03:35:56.079Z</updated>
-        <summary type="html"><![CDATA[Doroteja by Nico Pakvis]]></summary>
+        <title type="html"><![CDATA[以军对黎南驻扎区以外区域发布新疏散令]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8990144</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8990144"/>
+        <updated>2026-05-03T07:03:32.000Z</updated>
+        <summary type="html"><![CDATA[以色列在与黎巴嫩停火期间，对以军驻扎区以外的黎南村庄发布新一轮疏散令。
+以军阿拉伯语发言人阿德拉伊星期天（5月3日）在社媒平台X上发布声明，敦促黎南10多个村庄和城镇的居民立即撤离，前往开阔地带，并远离疏散令覆盖区域至少一公里。
+以军在利塔尼河以南驻扎，但疏散令适用区域也包括位于利塔尼河以北数公里处的边境城市纳巴泰。
+以色列与黎巴嫩真主党于4月17日达成停火协议，但以色列仍继续对黎巴嫩发动致命空袭。以军星期六（2日）声称袭击黎南多个地区，“摧毁约70个军事设施和约50个真主党基础设施”。
+黎巴嫩国家通讯社报道，以色列对黎南发动一系列空袭，造成多人死亡。]]></summary>
         <author>
-            <name>Nico Pakvis</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Silvertum. Frankfurt]]></title>
-        <id>1x-3567747</id>
-        <link href="https://1x.com/photo/3567747"/>
-        <updated>2026-05-03T03:35:56.069Z</updated>
-        <summary type="html"><![CDATA[Silvertum. Frankfurt by jordiegeatorrent]]></summary>
+        <title type="html"><![CDATA[哥伦比亚总统：侵略古巴等于侵略拉丁美洲]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8990044</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8990044"/>
+        <updated>2026-05-03T06:38:13.000Z</updated>
+        <summary type="html"><![CDATA[哥伦比亚总统佩特罗反对对古巴发动“军事侵略”，称此举等同于对拉丁美洲的侵略。
+美国总统特朗普近日不断威胁古巴，多次扬言在完成对委内瑞拉和伊朗的军事行动后，就对古巴出手。他星期五（5月1日）在佛罗里达州棕榈滩论坛俱乐部发表讲话时半开玩笑说，美国将“几乎立刻接管”古巴。
+佩特罗星期六（2日）在社媒平台X发文说：“我不赞成对古巴发动军事侵略，因为这等同于军事侵略拉丁美洲……古巴人民是自己国家唯一的主人。”
+美国长期对古巴实施封锁。白宫星期五说，特朗普当天签署行政令，以“威胁美国国家安全和对外政策”为由，加大对古巴制裁。
+古巴国家主席迪亚斯-卡内尔指责美国此举进一步强化对古巴“残酷的种族灭绝式封锁”。
+佩特罗表明：“如果任何人都不试图将自己的利益强加于别人，美洲大陆就能和平共处。这片大陆是自由的大陆，而非侵略的大陆。”]]></summary>
         <author>
-            <name>jordiegeatorrent</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[deq]]></title>
-        <id>1x-3567376</id>
-        <link href="https://1x.com/photo/3567376"/>
-        <updated>2026-05-03T03:35:56.062Z</updated>
-        <summary type="html"><![CDATA[deq by Mehmet]]></summary>
+        <title type="html"><![CDATA[朝鲜驳斥“网络威胁”论 指责美国散播对朝错误认知]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8990032</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8990032"/>
+        <updated>2026-05-03T05:39:27.000Z</updated>
+        <summary type="html"><![CDATA[朝鲜驳斥美国关于平壤“网络威胁”的说法，指责华盛顿试图向国际社会散播对朝错误认知。
+朝中社报道，朝鲜外交部发言人星期天（5月3日）就美国“网络威胁”言论发表回应。发言人说，美国“怂恿政府机关、御用媒体和阴谋团体渲染不存在的朝鲜网络威胁，试图向国际社会扩散错误的对朝认知”。
+发言人称美国“实际上掌控全球信息技术基础设施，对别国实施无差别网络攻击”，却将自己塑造为“全球最大的受害者”，这是华盛顿的一面之词。
+发言人表明，美国炒作朝鲜“网络威胁”是历来对朝敌视政策的延续，是出于政治目的、散布虚假信息来抹黑朝鲜的污蔑阴谋行为，纯粹是无稽之谈，别有用心。
+发言人还说，平壤坚决反对任何把网络问题当作侵犯主权、干涉内政的政治工具企图；针对敌对势力在包括网络空间在内诸多领域发起的对抗企图，朝鲜会积极采取一切必要措施，维护国家利益。]]></summary>
         <author>
-            <name>Mehmet</name>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无视旧炸弹风险 法国数万人在军事射击场狂欢]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989805</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989805"/>
+        <updated>2026-05-03T03:47:49.000Z</updated>
+        <summary type="html"><![CDATA[法国数万人在中部某小镇一处军事场地聚集，无视旧炸弹可能爆炸的警告，举行大型音乐狂欢活动。
+法新社报道，布尔日（Bourges）附近一座大型射击场举行锐舞派对（rave party）。活动并未获得许可，但仍吸引大量狂欢者，星期六（5月2日）多达4万人参加派对。
+许多人身穿色彩鲜艳的服装，有人甚至赤裸上身，还在旁边的草地上搭帐篷。
+这座射击场占地1万公顷，测试期间封路，其余时间对外开放。虽然设有禁止进入的标牌，但射击场本身没有围栏。
+这片军事场地已使用约150年，拥有者为法国军备总局。当地官员称常有专家发现旧时遗留炸弹。布尔日所在谢尔省省长警告，活动场地可能存在未爆的二战遗留弹药，极其危险。
+省政府说：“虽然这次活动是非法举行，但政府已采取一切必要措施，确保活动安全，并尽可能减少任何干扰。”
+法国议会寻求加强对未获批锐舞派对的立法，拟对组织者处以监禁，对参与者处以罚款。
+这类派对根源在于反建制文化，通常都是未经许可在偏远地区举行，入场免费或接受捐赠。
+布尔日锐舞派对的参与者将这场大型派对视为放松身心的机会，也是对限制锐舞派对立法的抗议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -517,106 +612,6 @@
 日本气象厅说，地震发生于星期六（5月2日）18时28分（新加坡时间17时28分）许，震中位于北纬34.1度、东经135.6度，震源深度约70千米，震级为5.7级。
 新华社引述日本放松协会电视台播出的画面报道，当地晃动较为明显。
 目前暂无人员伤亡报告。日本气象厅说，无需担心地震引发海啸。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：美国海军封锁伊朗扣船 行为如同“海盗”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8988190</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8988190"/>
-        <updated>2026-05-02T10:31:34.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，美国海军的行为“如同海盗”，他以此形容在美伊港口对峙的封锁期间，美国海军扣押一艘船只的行动。
-特朗普星期五（5月1日）在佛罗里达州的一次集会上说：“我们……登陆了那艘船，我们接管了它。我们接管了货物，接管了石油。这是一项非常有利可图的生意，”
-“我们就像海盗，”他补充道，现场响起一片欢呼声。“我们有点像海盗。但我们不是在玩游戏。”
-特朗普将美国海军的行动比作海盗行为之际，法律专家们正对伊朗封锁至关重要的霍尔木兹海峡及其计划对过境船只收取费用表示担忧。
-自2月28日美国与以色列对伊朗发动空袭以来，德黑兰实际上已经封锁了这条水道——石油和天然气运输的关键通道。
-上个月，在巴基斯坦举行的和平谈判未能取得突破后，美国宣布封锁伊朗港口。
-法新社引述负责中东军务的美国中央司令部说，截至星期五，已调派45艘船只“确保”其封锁措施得到执行。
-美国战争部长赫格塞斯4月份告诉记者，封锁将持续“直到达成协议为止”。参谋长联席会议主席凯恩则说，封锁“适用于所有进出伊朗港口的船只，无论其国籍”。
-与此同时，伊朗誓言，只要华盛顿继续封锁其港口，伊朗就会继续控制海峡。
-特朗普对美国与伊朗进行的谈判表示不满意，但说“我们不能让这种局面继续下去”。之前，记者星期五在白宫问及政府的选项时，特朗普说，“从人道主义角度来说，我更倾向于不”重启这场始于2月底美国和以色列对伊朗发动空袭的战争。这场战争已在中东地区造成数千人死亡，其中大部分发生在伊朗和黎巴嫩，由于至关重要的霍尔木兹海峡封锁，能源价格飙升。
-伊朗外长阿拉格齐说，如果美国改变策略，避免“过分的要求、威胁性的言辞和挑衅性的行动”，德黑兰准备继续进行外交努力。他也说，伊朗军队仍保持“高度警惕”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经济不稳叠加AI冲击 美欧企业转向招聘临时工]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8987826</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8987826"/>
-        <updated>2026-05-02T09:42:26.000Z</updated>
-        <summary type="html"><![CDATA[（纽约彭博电）经济不稳定加上人工智能（AI）带来的冲击，美国和欧洲各地的雇主越来越依赖临时工来维持业务运转，并推迟正式员工的招聘。
-人力资源服务公司指出，企业在评估AI会如何影响人力需求时，更倾向于招聘合同工。全球地缘政治和经济前景的不确定性，也让企业在考量所需员工数量及用工时长时更为犹豫。
-总部位于阿姆斯特丹的任仕达（Randstad）首席财务官瓦斯奎兹最近在公司财报电话会议上说：“我们并不知道，企业客户什么时候才会更有信心和能力开始让人才重新流动，或开始招募更多永久岗位。”
-整体而言，企业招聘依然疲弱，但临时岗位的招聘情况好于永久岗位。人力资源顾问公司罗致恒富（Robert Half）说，3月份的临时工业务收入较去年同期下降5%，较本季度7%的跌幅有所收窄，4月初仅微降1%，而协助企业招聘正式员工的收入，则在3月份下降6%，4月初也下降了7%。
-最新的美国就业数据则显示，自12月以来，临时工人数总体呈小幅上升趋势，每月的环比表现也优于整体非农就业市场。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗战争致油价暴涨打乱计划 美国廉航精神航空停运]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8987952</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8987952"/>
-        <updated>2026-05-02T09:11:40.000Z</updated>
-        <summary type="html"><![CDATA[破产的美国大型廉价航空公司精神航空（Spirit Airlines）停止运营，成为伊朗战争中首家倒闭的航空公司。此前，公司未能获得债权人对美国政府救助计划的支持。
-持续两个月的伊朗战争导致航空燃油价格翻番，精神航空星期六（5月2日）凌晨3时起（新加坡时间下午3时）正式停运，数千人将因此失业。这对美国总统特朗普来说是一个打击，他曾提议拨款5亿美元（6.40亿新元）拯救精神航空，但遭到亲密的顾问和国会许多共和党人的反对。
-精神航空公司的声明宣布“有序停止运营”，并说：“不幸的是，尽管公司已尽力，但近期油价大幅上涨以及其他业务压力严重影响了精神航空的财务前景。”
-2月底爆发的伊朗战争导致航空燃油价格飙升，精神航空的燃油负担每周增加1000万至1500万美元，并彻底打乱航空公司摆脱破产困境的计划。
-精神航空的重组计划假设2026年航空燃油价格约为每加仑2.24美元，2027年约为每加仑2.14美元，但到4月底，油价已攀升至每加仑约4.51美元，导致公司若无新的融资将难以生存。
-据一名知情人士星期五晚间向路透社透露，精神航空董事会会议结束，但未能就拯救该公司达成任何协议。
-在过去的二十年里，没有一家像精神航空这样规模的美国航空公司倒闭，精神航空一度占据美国航班总量的5%。公司上一次获利是在2019年，公司面临着来自大型航空公司的激烈竞争以及沉重的债务负担。在过去一年半里，公司多次申请破产保护。
-精神航空公司此前与美国政府已就5亿美元的纾困方案达成共识。作为交换，美国政府将获得该公司90%的股权。
-特朗普告诉记者：“如果我们能帮到他们，我们会尽力，但我们自己必须优先考虑。如果我们能做到，我们会去做，但前提是这是一项划算的协议。”
-交通部长肖恩·达菲告诉路透社，他曾试图说服多家航空公司收购精神航空，但无人问津。
-精神航空公司的债权人则认为，与其接受政府的条件，不如让精神航空公司清算机队。债权人于星期四（4月30日）晚致函精神航空董事会成员，敦促对方采取有序清算并立即停止营运。一名债权人说：“特朗普政府为拯救精神航空做出了巨大的努力，但无人能让一具尸体起死回生。鉴于此，为了客户和员工的利益，公司应该明确意图。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美石油巨头警告：霍尔木兹海峡关闭越久 油价冲击越大]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8987608</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8987608"/>
-        <updated>2026-05-02T08:55:27.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿彭博电）美国多家石油巨头近日发出严正警告，随着全球商业库存和战略储备油的持续消耗，全球原油市场正逼近危险的临界点。霍尔木兹海峡关闭时间越长，全球原油市场恐将面临价格进一步飙升的严峻挑战。
-埃克森美孚（Exxon Mobil）、雪佛龙（Chevron）和康菲石油（ConocoPhillips）指出，霍尔木兹海峡多关闭一天，全球就会进一步消耗商业库存、战略储备以及在美以伊战争前储存在油轮中的原油。
-埃克森美孚首席执行官伍兹星期五（5月1日）在与分析员的电话会议上说，这些供应在3月和4月协助缓解了油价压力，但这无法长期维持。
-他说：“显而易见的是，如果看看这场前所未有的干扰以及全球石油和天然气的供应状况，市场尚未完全反映其影响……如果海峡继续关闭，后续还会有更大的冲击。”
-伊朗封锁霍尔木兹海峡长期以来被视为能源市场的噩梦，因为全球五分之一的石油和液化天然气每天都要经过这一战略要道。
-自两个月前伊朗封锁霍尔木兹海峡以来，全球油价已上涨逾50%，目前处于每桶100美元左右的水平，仍远低于纪录高点。
-伍兹说，随着库存逐渐耗尽，这种情况可能很快改变。“当商业库存降至最低运作水平时，这一供应来源将不复存在……如果这种情况发生而海峡仍然封锁，我们预计市场价格将继续上升。”
-康菲石油首席财务官奥布莱恩星期四（4月30日）向分析师指出，战争爆发前装载的油气已陆续抵达目的地，补给链已基本耗尽，“进入6月至7月，一些依赖进口的国家可能开始面临严重的供应短缺”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古巴国家主席：美国对古巴实施“种族灭绝式封锁”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8987276</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8987276"/>
-        <updated>2026-05-02T06:48:34.000Z</updated>
-        <summary type="html"><![CDATA[古巴国家主席迪亚斯-卡内尔说，美国政府宣布新一轮强制措施，进一步强化对古巴“残酷的种族灭绝式封锁”，这充分暴露美国道德匮乏，也无视美国民众及国际社会的良知与常识。 
-新华社报道，迪亚斯-卡内尔星期五（5月1日）在社媒平台说，任何正直之人都无法认同“古巴对美国构成威胁”的说辞。他指全球头号军事大国以恐吓方式与傲慢态度对待古巴，其不断加码的封锁政策已造成巨大伤害。
-美国白宫1日发布公告称，美总统特朗普当天签署行政令，以“威胁美国国家安全和对外政策”为由，加大对古巴制裁。
-根据行政令，美国将冻结涉及古巴能源、国防、矿产、金融等领域的个人和实体资产。同时，美国禁止本国个人及机构与受制裁对象进行资金、商品或服务往来。
-此外，相关人员将被限制入境美国，关联的外国金融机构也将面临制裁。
-另据福克斯新闻报道，特朗普1日在佛罗里达州棕榈滩论坛俱乐部发表讲话时半开玩笑说，美国将“几乎立刻接管”古巴。他称“古巴有很多问题，办完伊朗的事，我们就派一艘大型航母，航母一靠岸，古巴就会投降。” 
-美国长期对古巴实施经济、金融封锁和贸易禁运。美国今年年初对委内瑞拉发动大规模军事打击后，进一步加大对古巴施压，包括实施新一轮石油限制措施。特朗普还多次威胁称，完成对委内瑞拉、伊朗的军事行动后，“下一个就是古巴”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国批准对以色列等四国超86亿美元军售]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8987205</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8987205"/>
-        <updated>2026-05-02T06:18:54.000Z</updated>
-        <summary type="html"><![CDATA[美国批准向以色列、阿拉伯联合酋长国、卡塔尔、科威特，提供价值总额超过86亿美元（约110亿新元）的军售，且不需国会审查。
-新华社报道，美国国务院星期五（5月1日）发布多条消息，公布相关军售合同。其中，以色列将购买1万套“先进精确杀伤武器系统”及相关设备，预计9亿9240万美元。
-此外，科威特将购买“综合战争指挥系统”及相关设备，预计25亿美元；卡塔尔将购买1万套“先进精确杀伤武器系统”及相关设备，以及“爱国者”导弹防御系统的补给服务及相关设备，预计共约50亿美元；阿联酋将购买“先进精确杀伤武器系统”及相关设备，预计1亿4760万美元。
-美国国务院说，美国务卿鲁比奥认定存在紧急情况，必须立即向上述四国出售防务物资和服务，这符合美国国家安全利益，根据经修订的《武器出口管制法》，相关交易可豁免国会审查。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>

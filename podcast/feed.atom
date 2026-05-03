@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T03:35:53.730Z</updated>
+    <updated>2026-05-03T08:05:25.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday Pick: Are you feeling emotionally stuck? Here’s How to get past it (w/ Yowei Shaw) | from How to Be a Better Human]]></title>
+        <id>69f3767b8beeba5310f90cba</id>
+        <link href="https://audiocollective.ted.com/"/>
+        <updated>2026-05-03T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if your hardest emotional challenges could be solved by talking to a stranger? A person who has gone through the exact same situation or something very similar. That’s the premise of Proxy, a podcast that investigates your niche emotional conundrums with host Yowei Shaw. In this episode, Yowei and Chris talk about the power of knowing you’re not the only person going through something, however specific. Whether it’s losing your job, a friend breakup, or an alternate version of your life that you can’t let go of, Yowei has a method to make it all make more sense.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to invite creativity into your life | Rose B. Simpson, Debbie Millman]]></title>
         <id>69f36eb69dcd58edd9717d41</id>
